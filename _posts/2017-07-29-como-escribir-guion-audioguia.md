@@ -1,4 +1,7 @@
 ---
+author_name: Rosa Sala
+author_bio: Rosa Sala es CEO y co-fundadora de Nubart
+author_location: Berlín / Barcelona
 layout: post
 comments: true
 published: true
@@ -6,7 +9,7 @@ title:  "Cómo escribir el guión de una audioguía"
 description: "Escribir el guión de una audioguía para museos tiene sus trucos. Aquí tienes las recomendaciones de Nubart a partir de nuestra experiencia"
 slug: "como-escribir-guion-audioguia"
 date:   2017-07-29
-banner_image: blog-tuitea-esto.jpg
+banner_image: como-escribir-guion-audioguia.jpg
 tags: [guión, audioguía, museos]
 ---
 
@@ -38,6 +41,8 @@ Las audioguías no tienen que limitarse solo a dar explicaciones sobre los objet
 Un importante valor añadido para una audioguía pueden ser los testimonios directos. ¿Y si le pides directamente al artista que le explique a tu público una de sus piezas? Tiene algo mágico escuchar la voz del artista mientras admiras su obra expuesta. Si tu museo es científico y ha venido a visitarlo un experto internacional, ¿por qué no pedirle una brevísima explicación sobre alguna pieza sobre las que sea especialista y añadirla? 
 
 También puedes hacerlo con el comisario de una exposición. Los comisarios a veces pasan desapercibidos por el público en general y muchos agradecerán tener la oportunidad de aportar su particular punto de vista sobre su concepción de la exposición o sobre la elección de determinada obra. Nosotros lo hicimos con Amador Vega, comisario de [La máquina de penar: Ramón Llull y el ars combinatoria](http://www.cccb.org/es/exposiciones/ficha/la-maquina-de-pensar/223672){:target="_blank"} del CCCB y fue todo un éxito. Sus sabias aportaciones complementaron y enriquecieron muchísimo las pistas de audio más convencionales que también ofrecimos. 
+
+![Audioguía Nubart para 'La máquina de pensar. Ramón Llull i el ars combinatoria' en el CCCB con comentarios de Amador Vega]({{site.baseurl}}/images/posts/audioguia-llull-cccb.jpg){: .center-image }
 
 ## Prepara el guión pensando en una audioguía
 
