@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c126dfc-d663-4e06-ad23-690fc1b4d64f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2017-07-30-como-escribir-guion-audioguia.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2017-07-30-como-escribir-guion-audioguia.md" afterPath="$PROJECT_DIR$/_posts/2017-07-29-como-escribir-guion-audioguia.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="nubart-blog.iws" />
@@ -44,12 +43,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-07-30-como-escribir-guion-audioguia.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-07-30-como-escribir-guion-audioguia.md">
+      <file leaf-file-name="2017-07-29-como-escribir-guion-audioguia.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-07-29-como-escribir-guion-audioguia.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="485">
-                <caret line="57" column="102" lean-forward="false" selection-start-line="57" selection-start-column="102" selection-end-line="57" selection-end-column="102" />
+              <first_editor relative-caret-position="1905">
+                <caret line="61" column="434" lean-forward="false" selection-start-line="61" selection-start-column="434" selection-end-line="61" selection-end-column="434" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2016-12-12-difusion-visitantes-twitter-audioguia-nubart.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2016-12-12-difusion-visitantes-twitter-audioguia-nubart.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="-451">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-03-15-audioguia-interactiva-museo-sin-wifi.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-03-15-audioguia-interactiva-museo-sin-wifi.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="-900">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -94,6 +119,7 @@
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_posts/2017-03-27-museo-no-tiene-wifi.md" />
         <option value="$PROJECT_DIR$/_posts/2017-07-30-como-escribir-guion-audioguia.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-07-29-como-escribir-guion-audioguia.md" />
       </list>
     </option>
   </component>
@@ -618,7 +644,14 @@
       <option name="project" value="LOCAL" />
       <updated>1490798328247</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Nueva entrada cómo escribir audioguía">
+      <created>1501342458637</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1501342458637</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -682,7 +715,8 @@
     <MESSAGE value="nueva entrada blog (tu museo no tiene wifi) correcciones" />
     <MESSAGE value="nueva entrada blog (tu museo no tiene wifi) correcciones 2" />
     <MESSAGE value="nueva entrada blog (tu museo no tiene wifi) correcciones 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="nueva entrada blog (tu museo no tiene wifi) correcciones 3" />
+    <MESSAGE value="Nueva entrada cómo escribir audioguía" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nueva entrada cómo escribir audioguía" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -973,7 +1007,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-03-15-audioguia-interactiva-museo-sin-wifi.md" />
     <entry file="file://$PROJECT_DIR$/_sass/_general.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1022,23 +1055,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-12-12-difusion-visitantes-twitter-audioguia-nubart.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_site/images/posts/Desk.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1052,11 +1068,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-07-30-como-escribir-guion-audioguia.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2016-12-12-difusion-visitantes-twitter-audioguia-nubart.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="485">
-            <caret line="57" column="102" lean-forward="false" selection-start-line="57" selection-start-column="102" selection-end-line="57" selection-end-column="102" />
+          <first_editor relative-caret-position="-451">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-03-15-audioguia-interactiva-museo-sin-wifi.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-900">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-07-29-como-escribir-guion-audioguia.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1905">
+            <caret line="61" column="434" lean-forward="false" selection-start-line="61" selection-start-column="434" selection-end-line="61" selection-end-column="434" />
             <folding />
           </first_editor>
           <second_editor />
