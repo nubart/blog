@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d4762e9d-642e-4b62-b649-6a8e3aef19a6" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-07-29-como-escribir-guion-audioguia.md" afterPath="$PROJECT_DIR$/_posts/2017-07-29-como-escribir-guion-audioguia.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,20 +14,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="2017-03-15-audioguia-interactiva-museo-sin-wifi.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-03-15-audioguia-interactiva-museo-sin-wifi.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-318">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="_general.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_sass/_general.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-741">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-07-29-como-escribir-guion-audioguia.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2017-07-29-como-escribir-guion-audioguia.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2017-07-29-como-escribir-guion-audioguia.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -40,23 +37,30 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="post.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layouts/post.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
-              <caret line="43" column="110" lean-forward="false" selection-start-line="43" selection-start-column="110" selection-end-line="43" selection-end-column="110" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_site/about/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="79" column="23" lean-forward="true" selection-start-line="79" selection-start-column="23" selection-end-line="79" selection-end-column="23" />
+            <state relative-caret-position="1920">
+              <caret line="128" column="31" lean-forward="true" selection-start-line="128" selection-start-column="31" selection-end-line="128" selection-end-column="31" />
               <folding>
-                <marker date="1501399091000" expanded="false" signature="9671:9677" ph="©" />
+                <marker date="1501400282000" expanded="true" signature="5647:5666" ph="..." />
+                <marker date="1501400282000" expanded="true" signature="5647:8561" ph="..." />
+                <marker date="1501400282000" expanded="true" signature="5647:8590" ph="..." />
+                <marker date="1501400282000" expanded="true" signature="5647:8612" ph="..." />
+                <marker date="1501400282000" expanded="true" signature="5745:6650" ph="..." />
+                <marker date="1501400282000" expanded="true" signature="5874:6600" ph="..." />
+                <marker date="1501400282000" expanded="true" signature="6117:6585" ph="..." />
+                <marker date="1501400282000" expanded="true" signature="6167:6565" ph="..." />
+                <marker date="1501400282000" expanded="true" signature="6718:6897" ph="..." />
+                <marker date="1501400282000" expanded="true" signature="6972:7704" ph="..." />
+                <marker date="1501400282000" expanded="true" signature="7061:7667" ph="..." />
+                <marker date="1501400282000" expanded="true" signature="7826:8535" ph="..." />
+                <marker date="1501400282000" expanded="true" signature="7905:8502" ph="..." />
+                <marker date="1501400282000" expanded="true" signature="8668:10016" ph="..." />
+                <marker date="1501400282000" expanded="true" signature="8692:9991" ph="..." />
+                <marker date="1501400282000" expanded="true" signature="8727:9644" ph="..." />
+                <marker date="1501400282000" expanded="true" signature="9698:9961" ph="..." />
+                <marker date="1501400282000" expanded="false" signature="9712:9718" ph="©" />
               </folding>
             </state>
           </provider>
@@ -102,6 +106,16 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="40" column="15" lean-forward="false" selection-start-line="40" selection-start-column="15" selection-end-line="40" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="sidebar.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/sidebar.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -129,6 +143,7 @@
       <find>inicio</find>
       <find>site.author_name</find>
       <find>Digital</find>
+      <find>Digital Tangible</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -146,8 +161,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/_layouts/post.html" />
-        <option value="$PROJECT_DIR$/_site/about/index.html" />
         <option value="$PROJECT_DIR$/_posts/2017-07-29-como-escribir-guion-audioguia.md" />
+        <option value="$PROJECT_DIR$/_site/about/index.html" />
+        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
@@ -232,6 +248,33 @@
               <item name="nubart-blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="nubart-blog" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nubart-blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nubart-blog" type="462c0819:PsiDirectoryNode" />
+              <item name="_sass" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nubart-blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nubart-blog" type="462c0819:PsiDirectoryNode" />
+              <item name="_site" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nubart-blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nubart-blog" type="462c0819:PsiDirectoryNode" />
+              <item name="_site" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nubart-blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nubart-blog" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nubart-blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nubart-blog" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="posts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -375,7 +418,14 @@
       <option name="project" value="LOCAL" />
       <updated>1501399078478</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="corrección texto blog">
+      <created>1501399387903</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1501399387903</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -417,7 +467,8 @@
     <MESSAGE value="poner info autor del post" />
     <MESSAGE value="corrección" />
     <MESSAGE value="cambio autor Nubart - tags" />
-    <option name="LAST_COMMIT_MESSAGE" value="cambio autor Nubart - tags" />
+    <MESSAGE value="corrección texto blog" />
+    <option name="LAST_COMMIT_MESSAGE" value="corrección texto blog" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -483,16 +534,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_site/about/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="79" column="23" lean-forward="true" selection-start-line="79" selection-start-column="23" selection-end-line="79" selection-end-column="23" />
-          <folding>
-            <marker date="1501399091000" expanded="false" signature="9671:9677" ph="©" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/dictionaries/rosa.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -509,6 +550,49 @@
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/_general.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-741">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/about/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1920">
+          <caret line="128" column="31" lean-forward="true" selection-start-line="128" selection-start-column="31" selection-end-line="128" selection-end-column="31" />
+          <folding>
+            <marker date="1501400282000" expanded="true" signature="5647:5666" ph="..." />
+            <marker date="1501400282000" expanded="true" signature="5647:8561" ph="..." />
+            <marker date="1501400282000" expanded="true" signature="5647:8590" ph="..." />
+            <marker date="1501400282000" expanded="true" signature="5647:8612" ph="..." />
+            <marker date="1501400282000" expanded="true" signature="5745:6650" ph="..." />
+            <marker date="1501400282000" expanded="true" signature="5874:6600" ph="..." />
+            <marker date="1501400282000" expanded="true" signature="6117:6585" ph="..." />
+            <marker date="1501400282000" expanded="true" signature="6167:6565" ph="..." />
+            <marker date="1501400282000" expanded="true" signature="6718:6897" ph="..." />
+            <marker date="1501400282000" expanded="true" signature="6972:7704" ph="..." />
+            <marker date="1501400282000" expanded="true" signature="7061:7667" ph="..." />
+            <marker date="1501400282000" expanded="true" signature="7826:8535" ph="..." />
+            <marker date="1501400282000" expanded="true" signature="7905:8502" ph="..." />
+            <marker date="1501400282000" expanded="true" signature="8668:10016" ph="..." />
+            <marker date="1501400282000" expanded="true" signature="8692:9991" ph="..." />
+            <marker date="1501400282000" expanded="true" signature="8727:9644" ph="..." />
+            <marker date="1501400282000" expanded="true" signature="9698:9961" ph="..." />
+            <marker date="1501400282000" expanded="false" signature="9712:9718" ph="©" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="40" column="15" lean-forward="false" selection-start-line="40" selection-start-column="15" selection-end-line="40" selection-end-column="15" />
+          <folding />
         </state>
       </provider>
     </entry>

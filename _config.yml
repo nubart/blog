@@ -26,19 +26,19 @@ url: "http://www.nubart.eu"
 # Site navigation - each item must have a title and a url.
 navigation:
 - text: Inicio
-  url: /
+  url: /blog/
 - text: Web
   url: http://www.nubart.eu/
 - text: Archivo
-  url: /etiquetas/
+  url: /blog/tags/
 
 # The shortname for your Disqus site to enable comments.
 disqus: "nubart"
 
 # Author information - author info at the bottom of the post
-author_name: "Rosa"
-author_bio: "Rosa es la co-fundadora de Digital Tangible SL, la empresa que ideó Nubart."
-author_image: /images/rosa-sala.jpg
+author_name: "Nubart"
+author_bio: "Nubart es la audioguía que te puedes llevar. Sin aparatos ni apps. Con feedback del visitante y datos de uso."
+author_image: /blog/images/rosa-sala.jpg
 
 # Sidebar Add banner
 banner_url: "http://www.nubart.eu/"
