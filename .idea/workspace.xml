@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d4762e9d-642e-4b62-b649-6a8e3aef19a6" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.scss" afterPath="$PROJECT_DIR$/css/main.scss" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -70,11 +69,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.scss" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/main.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="343">
               <caret line="165" column="0" lean-forward="true" selection-start-line="165" selection-start-column="0" selection-end-line="165" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_site/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="556" column="156" lean-forward="true" selection-start-line="556" selection-start-column="156" selection-end-line="556" selection-end-column="156" />
               <folding />
             </state>
           </provider>
@@ -144,6 +153,7 @@
         <option value="$PROJECT_DIR$/_posts/2016-12-12-difusion-visitantes-twitter-audioguia-nubart.md" />
         <option value="$PROJECT_DIR$/_layouts/post.html" />
         <option value="$PROJECT_DIR$/css/main.scss" />
+        <option value="$PROJECT_DIR$/_site/css/main.css" />
       </list>
     </option>
   </component>
@@ -238,6 +248,12 @@
               <item name="nubart-blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="nubart-blog" type="462c0819:PsiDirectoryNode" />
               <item name="_site" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nubart-blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nubart-blog" type="462c0819:PsiDirectoryNode" />
+              <item name="_site" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="nubart-blog" type="b2602c69:ProjectViewProjectNode" />
@@ -466,7 +482,14 @@
       <option name="project" value="LOCAL" />
       <updated>1501401621739</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="cambio color descripción">
+      <created>1501401857011</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1501401857011</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -515,7 +538,8 @@
     <MESSAGE value="ponre info autor en barra inferior 3" />
     <MESSAGE value="foto logo Nubart" />
     <MESSAGE value="indicación autor entraa post" />
-    <option name="LAST_COMMIT_MESSAGE" value="indicación autor entraa post" />
+    <MESSAGE value="cambio color descripción" />
+    <option name="LAST_COMMIT_MESSAGE" value="cambio color descripción" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -591,9 +615,9 @@
         <state relative-caret-position="2880">
           <caret line="157" column="48" lean-forward="false" selection-start-line="157" selection-start-column="48" selection-end-line="157" selection-end-column="48" />
           <folding>
-            <marker date="1501401824000" expanded="false" signature="11574:11631" ph="..." />
-            <marker date="1501401824000" expanded="false" signature="12332:12402" ph="..." />
-            <marker date="1501401824000" expanded="false" signature="18055:18061" ph="©" />
+            <marker date="1501402094000" expanded="false" signature="11574:11631" ph="..." />
+            <marker date="1501402094000" expanded="false" signature="12332:12402" ph="..." />
+            <marker date="1501402094000" expanded="false" signature="18055:18061" ph="©" />
           </folding>
         </state>
       </provider>
@@ -662,6 +686,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="343">
           <caret line="165" column="0" lean-forward="true" selection-start-line="165" selection-start-column="0" selection-end-line="165" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="556" column="156" lean-forward="true" selection-start-line="556" selection-start-column="156" selection-end-line="556" selection-end-column="156" />
           <folding />
         </state>
       </provider>
