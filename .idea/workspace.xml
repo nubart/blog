@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d4762e9d-642e-4b62-b649-6a8e3aef19a6" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="$PROJECT_DIR$/_layouts/post.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-07-29-como-escribir-guion-audioguia.md" afterPath="$PROJECT_DIR$/_posts/2017-07-29-como-escribir-guion-audioguia.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,12 +24,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-07-29-como-escribir-guion-audioguia.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="2017-07-29-como-escribir-guion-audioguia.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2017-07-29-como-escribir-guion-audioguia.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="15">
-                <caret line="1" column="11" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+              <first_editor relative-caret-position="75">
+                <caret line="5" column="53" lean-forward="false" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -44,24 +43,24 @@
             <state relative-caret-position="1920">
               <caret line="128" column="31" lean-forward="true" selection-start-line="128" selection-start-column="31" selection-end-line="128" selection-end-column="31" />
               <folding>
-                <marker date="1501400890000" expanded="true" signature="5647:5666" ph="..." />
-                <marker date="1501400890000" expanded="true" signature="5647:8561" ph="..." />
-                <marker date="1501400890000" expanded="true" signature="5647:8590" ph="..." />
-                <marker date="1501400890000" expanded="true" signature="5647:8612" ph="..." />
-                <marker date="1501400890000" expanded="true" signature="5745:6650" ph="..." />
-                <marker date="1501400890000" expanded="true" signature="5874:6600" ph="..." />
-                <marker date="1501400890000" expanded="true" signature="6117:6585" ph="..." />
-                <marker date="1501400890000" expanded="true" signature="6167:6565" ph="..." />
-                <marker date="1501400890000" expanded="true" signature="6718:6897" ph="..." />
-                <marker date="1501400890000" expanded="true" signature="6972:7704" ph="..." />
-                <marker date="1501400890000" expanded="true" signature="7061:7667" ph="..." />
-                <marker date="1501400890000" expanded="true" signature="7826:8535" ph="..." />
-                <marker date="1501400890000" expanded="true" signature="7905:8502" ph="..." />
-                <marker date="1501400890000" expanded="true" signature="8668:10016" ph="..." />
-                <marker date="1501400890000" expanded="true" signature="8692:9991" ph="..." />
-                <marker date="1501400890000" expanded="true" signature="8727:9644" ph="..." />
-                <marker date="1501400890000" expanded="true" signature="9698:9961" ph="..." />
-                <marker date="1501400890000" expanded="false" signature="9712:9718" ph="©" />
+                <marker date="1501401093000" expanded="true" signature="5647:5666" ph="..." />
+                <marker date="1501401093000" expanded="true" signature="5647:8561" ph="..." />
+                <marker date="1501401093000" expanded="true" signature="5647:8590" ph="..." />
+                <marker date="1501401093000" expanded="true" signature="5647:8612" ph="..." />
+                <marker date="1501401093000" expanded="true" signature="5745:6650" ph="..." />
+                <marker date="1501401093000" expanded="true" signature="5874:6600" ph="..." />
+                <marker date="1501401093000" expanded="true" signature="6117:6585" ph="..." />
+                <marker date="1501401093000" expanded="true" signature="6167:6565" ph="..." />
+                <marker date="1501401093000" expanded="true" signature="6718:6897" ph="..." />
+                <marker date="1501401093000" expanded="true" signature="6972:7704" ph="..." />
+                <marker date="1501401093000" expanded="true" signature="7061:7667" ph="..." />
+                <marker date="1501401093000" expanded="true" signature="7826:8535" ph="..." />
+                <marker date="1501401093000" expanded="true" signature="7905:8502" ph="..." />
+                <marker date="1501401093000" expanded="true" signature="8668:10016" ph="..." />
+                <marker date="1501401093000" expanded="true" signature="8692:9991" ph="..." />
+                <marker date="1501401093000" expanded="true" signature="8727:9644" ph="..." />
+                <marker date="1501401093000" expanded="true" signature="9698:9961" ph="..." />
+                <marker date="1501401093000" expanded="false" signature="9712:9718" ph="©" />
               </folding>
             </state>
           </provider>
@@ -97,7 +96,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="post.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="post.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/post.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="163">
@@ -165,8 +164,8 @@
       <list>
         <option value="$PROJECT_DIR$/_site/about/index.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
-        <option value="$PROJECT_DIR$/_posts/2017-07-29-como-escribir-guion-audioguia.md" />
         <option value="$PROJECT_DIR$/_layouts/post.html" />
+        <option value="$PROJECT_DIR$/_posts/2017-07-29-como-escribir-guion-audioguia.md" />
       </list>
     </option>
   </component>
@@ -442,7 +441,14 @@
       <option name="project" value="LOCAL" />
       <updated>1501400570675</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="ponre info autor en barra inferior 2">
+      <created>1501400911266</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1501400911266</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -487,7 +493,8 @@
     <MESSAGE value="corrección texto blog" />
     <MESSAGE value="ponre info Nubart en barra lateral" />
     <MESSAGE value="ponre info autor en barra inferior" />
-    <option name="LAST_COMMIT_MESSAGE" value="ponre info autor en barra inferior" />
+    <MESSAGE value="ponre info autor en barra inferior 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="ponre info autor en barra inferior 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -558,44 +565,25 @@
         <state relative-caret-position="1920">
           <caret line="128" column="31" lean-forward="true" selection-start-line="128" selection-start-column="31" selection-end-line="128" selection-end-column="31" />
           <folding>
-            <marker date="1501400890000" expanded="true" signature="5647:5666" ph="..." />
-            <marker date="1501400890000" expanded="true" signature="5647:8561" ph="..." />
-            <marker date="1501400890000" expanded="true" signature="5647:8590" ph="..." />
-            <marker date="1501400890000" expanded="true" signature="5647:8612" ph="..." />
-            <marker date="1501400890000" expanded="true" signature="5745:6650" ph="..." />
-            <marker date="1501400890000" expanded="true" signature="5874:6600" ph="..." />
-            <marker date="1501400890000" expanded="true" signature="6117:6585" ph="..." />
-            <marker date="1501400890000" expanded="true" signature="6167:6565" ph="..." />
-            <marker date="1501400890000" expanded="true" signature="6718:6897" ph="..." />
-            <marker date="1501400890000" expanded="true" signature="6972:7704" ph="..." />
-            <marker date="1501400890000" expanded="true" signature="7061:7667" ph="..." />
-            <marker date="1501400890000" expanded="true" signature="7826:8535" ph="..." />
-            <marker date="1501400890000" expanded="true" signature="7905:8502" ph="..." />
-            <marker date="1501400890000" expanded="true" signature="8668:10016" ph="..." />
-            <marker date="1501400890000" expanded="true" signature="8692:9991" ph="..." />
-            <marker date="1501400890000" expanded="true" signature="8727:9644" ph="..." />
-            <marker date="1501400890000" expanded="true" signature="9698:9961" ph="..." />
-            <marker date="1501400890000" expanded="false" signature="9712:9718" ph="©" />
+            <marker date="1501401093000" expanded="true" signature="5647:5666" ph="..." />
+            <marker date="1501401093000" expanded="true" signature="5647:8561" ph="..." />
+            <marker date="1501401093000" expanded="true" signature="5647:8590" ph="..." />
+            <marker date="1501401093000" expanded="true" signature="5647:8612" ph="..." />
+            <marker date="1501401093000" expanded="true" signature="5745:6650" ph="..." />
+            <marker date="1501401093000" expanded="true" signature="5874:6600" ph="..." />
+            <marker date="1501401093000" expanded="true" signature="6117:6585" ph="..." />
+            <marker date="1501401093000" expanded="true" signature="6167:6565" ph="..." />
+            <marker date="1501401093000" expanded="true" signature="6718:6897" ph="..." />
+            <marker date="1501401093000" expanded="true" signature="6972:7704" ph="..." />
+            <marker date="1501401093000" expanded="true" signature="7061:7667" ph="..." />
+            <marker date="1501401093000" expanded="true" signature="7826:8535" ph="..." />
+            <marker date="1501401093000" expanded="true" signature="7905:8502" ph="..." />
+            <marker date="1501401093000" expanded="true" signature="8668:10016" ph="..." />
+            <marker date="1501401093000" expanded="true" signature="8692:9991" ph="..." />
+            <marker date="1501401093000" expanded="true" signature="8727:9644" ph="..." />
+            <marker date="1501401093000" expanded="true" signature="9698:9961" ph="..." />
+            <marker date="1501401093000" expanded="false" signature="9712:9718" ph="©" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-07-29-como-escribir-guion-audioguia.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="15">
-            <caret line="1" column="11" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
-            <folding />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -607,11 +595,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="163">
           <caret line="39" column="142" lean-forward="false" selection-start-line="39" selection-start-column="142" selection-end-line="39" selection-end-column="142" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-07-29-como-escribir-guion-audioguia.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="75">
+            <caret line="5" column="53" lean-forward="false" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
