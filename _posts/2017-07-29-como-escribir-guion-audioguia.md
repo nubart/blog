@@ -11,7 +11,7 @@ title:  "Cómo escribir el guión de una audioguía"
 description: "Escribir el guión de una audioguía para museos tiene sus trucos. Aquí tienes las recomendaciones de Nubart a partir de nuestra experiencia"
 slug: "como-escribir-guion-audioguia"
 date:   2017-07-29
-banner_image: como-escribir-guion-audioguia.jpg
+banner_image: woman-typing-writing-windows.jpg
 tags: [guión, audioguía, museos]
 ---
 
