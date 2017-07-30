@@ -1,7 +1,8 @@
 ---
-author_name: Rosa Sala
+author_title: Rosa Sala
 author_bio: Rosa Sala es CEO y co-fundadora de Nubart
 author_location: Berlín / Barcelona
+author_image: /blog/images/rosa-sala.jpg
 layout: post
 comments: true
 published: true
