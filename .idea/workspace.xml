@@ -489,7 +489,14 @@
       <option name="project" value="LOCAL" />
       <updated>1501401857011</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="cambio color descripción">
+      <created>1501402109730</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1501402109730</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -615,9 +622,9 @@
         <state relative-caret-position="2880">
           <caret line="157" column="48" lean-forward="false" selection-start-line="157" selection-start-column="48" selection-end-line="157" selection-end-column="48" />
           <folding>
-            <marker date="1501402094000" expanded="false" signature="11574:11631" ph="..." />
-            <marker date="1501402094000" expanded="false" signature="12332:12402" ph="..." />
-            <marker date="1501402094000" expanded="false" signature="18055:18061" ph="©" />
+            <marker date="1501402157000" expanded="false" signature="11574:11631" ph="..." />
+            <marker date="1501402157000" expanded="false" signature="12332:12402" ph="..." />
+            <marker date="1501402157000" expanded="false" signature="18055:18061" ph="©" />
           </folding>
         </state>
       </provider>
