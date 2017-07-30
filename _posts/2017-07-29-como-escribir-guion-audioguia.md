@@ -66,4 +66,6 @@ Cuenta que un minuto en castellano equivale a aproximadamente 150 palabras. Si q
 
 Seguramente ninguno de tus visitantes escuchará seguidas todas las pistas de tu audioguía: precisamente uno de los atractivos de este recurso es que el visitante puede escoger cuáles son las piezas sobre las que desea ampliar la información. No obstante, si juntáramos todas las pistas una con otra, el tiempo total no debería superar nunca el que tardaríamos en visitar la exposición sin la audioguía. Seguro que en tu museo ya se ha calculado el tiempo promedio que vuestro público suele dedicar a la visita: una buena medida orientativa para la duración ideal de una audioguía es dividir ese tiempo por la mitad. Así que si tus visitantes suelen quedarse una hora en tu museo, tu audioguía podría tener una duración total de 30 minutos.
 
+Si quieres profundizar más, te recomendamos [*Cómo escribir audioguías*](http://www.trea.es/books/como-escribir-audioguias){:target="_blank"} de Almudena López Molina.
+
 ¿Estás en desacuerdo con algunos de estos puntos? ¿Te apetece añadir algo más? ¡Déjanos un comentario!
