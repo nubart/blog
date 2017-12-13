@@ -58,6 +58,7 @@ Sería el momento ideal para que un museo lo abordara para averiguar qué aspect
 Tu navegador no permite mostrar este vídeo.
 </video>{: .center-image }
 
+
 Y si el museo también desea preguntarle a su visitante por la edad, el género u otros datos no automatizables, ¡es el momento de hacerlo! El museo puede **personalizar las preguntas de nuestro cuestionario** de *feedback* a su gusto. 
 
 Tanto los datos que Nubart registra de forma automática como los indicados voluntariamente por los visitantes están integrados en nuestros packs de tarifas, que también incluyen la producción de contenidos (traducción y locución). Encontrarás más información sobre nuestras tarifas [en nuestra web.](http://www.nubart.eu/es/#pricing){:target="_blank"} 
