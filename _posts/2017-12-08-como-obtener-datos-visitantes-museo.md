@@ -21,7 +21,7 @@ No se trata solo de una cortesía. La azafata, además de saludarte, te está co
 ![Herramienta para capturar el número de pasajeros]({{site.baseurl}}/images/posts/contador-pasajeros.jpg){: .center-image }
 Se habla mucho de lo difícil que resulta interpretar datos. Pero hay otra dificultad quizá aún mayor, que es la de *obtener* datos. Ya ves, incluso con la tecnología puntera de la que dispone hoy un avión, capturar un dato aparentemente tan simple como el recuento de pasajeros obliga a desarrollar cierta inventiva. 
 
-Y lo mismo sucede en los museos. Antes de reflexionar sobre las estrategias a seguir en función de los *big data* acumulados sobre tus visitantes, necesitas encontrar un modo idóneo y discreto para obtenerlos. 
+Y lo mismo sucede en los museos. Antes de reflexionar sobre las estrategias a seguir en función de los datos acumulados sobre tus visitantes, necesitas encontrar un modo idóneo y discreto para obtenerlos. 
 
 <!--more-->
 
