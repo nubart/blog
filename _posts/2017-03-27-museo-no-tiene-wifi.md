@@ -35,6 +35,6 @@ También nos aseguraremos de que la intensidad de la señal sea la adecuada para
 
 ![Nuestros aparatos PLC]({{site.baseurl}}/images/posts/devolo-pro2.jpg){: .center-image }
 
-¿Te interesa? Pues [envíanos un email](info@nubart.eu) y lo hablamos. 
+¿Te interesa? Pues [envíanos un email](mailto:info@nubart.eu) y lo hablamos. 
 
 
