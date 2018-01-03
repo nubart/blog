@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4762e9d-642e-4b62-b649-6a8e3aef19a6" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/posts/audioruta-nexo-nubart-maestrazgo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/posts/audioruta-offline-nubart.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-01-03-audioruta-nubart-offline.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-03-27-museo-no-tiene-wifi.md" afterPath="$PROJECT_DIR$/_posts/2017-03-27-museo-no-tiene-wifi.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,37 +16,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="404.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_site/404.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
-              <caret line="56" column="44" lean-forward="false" selection-start-line="56" selection-start-column="44" selection-end-line="56" selection-end-column="44" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="404.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/404.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="120">
-                <caret line="8" column="77" lean-forward="false" selection-start-line="8" selection-start-column="77" selection-end-line="8" selection-end-column="77" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="404.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/404.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017-03-27-museo-no-tiene-wifi.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2017-03-27-museo-no-tiene-wifi.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2017-03-27-museo-no-tiene-wifi.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -57,47 +29,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2016-12-12-difusion-visitantes-twitter-audioguia-nubart.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2016-12-12-difusion-visitantes-twitter-audioguia-nubart.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="555">
-                <caret line="37" column="62" lean-forward="false" selection-start-line="37" selection-start-column="46" selection-end-line="37" selection-end-column="62" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017-03-15-audioguia-interactiva-museo-sin-wifi.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-03-15-audioguia-interactiva-museo-sin-wifi.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="75">
-                <caret line="5" column="53" lean-forward="false" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_site/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3840">
-              <caret line="256" column="14" lean-forward="false" selection-start-line="256" selection-start-column="14" selection-end-line="256" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="2017-12-08-como-obtener-datos-visitantes-museo.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2017-12-08-como-obtener-datos-visitantes-museo.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="945">
+              <first_editor relative-caret-position="550">
                 <caret line="63" column="352" lean-forward="false" selection-start-line="63" selection-start-column="352" selection-end-line="63" selection-end-column="352" />
                 <folding />
               </first_editor>
@@ -111,7 +47,18 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="4410">
               <caret line="294" column="14" lean-forward="false" selection-start-line="294" selection-start-column="14" selection-end-line="294" selection-end-column="14" />
-              <folding />
+              <folding>
+                <marker date="1514998358000" expanded="true" signature="18054:18227" ph="..." />
+                <marker date="1514998358000" expanded="true" signature="18054:18260" ph="..." />
+                <marker date="1514998358000" expanded="true" signature="18054:18286" ph="..." />
+                <marker date="1514998358000" expanded="true" signature="18054:18315" ph="..." />
+                <marker date="1514998358000" expanded="true" signature="18054:18337" ph="..." />
+                <marker date="1514998358000" expanded="true" signature="18393:19741" ph="..." />
+                <marker date="1514998358000" expanded="true" signature="18417:19716" ph="..." />
+                <marker date="1514998358000" expanded="true" signature="18452:19369" ph="..." />
+                <marker date="1514998358000" expanded="true" signature="19423:19686" ph="..." />
+                <marker date="1514998358000" expanded="false" signature="19437:19443" ph="©" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -119,9 +66,33 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_site/tags/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3720">
-              <caret line="248" column="12" lean-forward="false" selection-start-line="248" selection-start-column="12" selection-end-line="248" selection-end-column="12" />
-              <folding />
+            <state relative-caret-position="4020">
+              <caret line="268" column="12" lean-forward="false" selection-start-line="268" selection-start-column="12" selection-end-line="268" selection-end-column="12" />
+              <folding>
+                <marker date="1514998358000" expanded="true" signature="17306:17479" ph="..." />
+                <marker date="1514998358000" expanded="true" signature="17306:17512" ph="..." />
+                <marker date="1514998358000" expanded="true" signature="17306:17538" ph="..." />
+                <marker date="1514998358000" expanded="true" signature="17306:17567" ph="..." />
+                <marker date="1514998358000" expanded="true" signature="17306:17589" ph="..." />
+                <marker date="1514998358000" expanded="true" signature="17645:18993" ph="..." />
+                <marker date="1514998358000" expanded="true" signature="17669:18968" ph="..." />
+                <marker date="1514998358000" expanded="true" signature="17704:18621" ph="..." />
+                <marker date="1514998358000" expanded="true" signature="18675:18938" ph="..." />
+                <marker date="1514998358000" expanded="false" signature="18689:18695" ph="©" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-01-03-audioruta-nubart-offline.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-01-03-audioruta-nubart-offline.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="257">
+                <caret line="66" column="26" lean-forward="true" selection-start-line="66" selection-start-column="26" selection-end-line="66" selection-end-column="26" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -186,6 +157,7 @@
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/404.md" />
         <option value="$PROJECT_DIR$/_posts/2017-03-27-museo-no-tiene-wifi.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-01-03-audioruta-nubart-offline.md" />
       </list>
     </option>
   </component>
@@ -238,8 +210,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="ProjectPane">
@@ -294,8 +266,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/images/posts" />
+      <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/_site/images/posts" />
       <recent name="$PROJECT_DIR$/_site/images" />
     </key>
@@ -595,7 +567,14 @@
       <option name="project" value="LOCAL" />
       <updated>1514199011390</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="error enlace roto">
+      <created>1514213081076</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1514213081076</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -609,8 +588,8 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -619,8 +598,8 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -654,23 +633,14 @@
     <MESSAGE value="corrección palabra en post" />
     <MESSAGE value="Mejora 404" />
     <MESSAGE value="Mejora 404 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mejora 404 2" />
+    <MESSAGE value="error enlace roto" />
+    <option name="LAST_COMMIT_MESSAGE" value="error enlace roto" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2017-03-15-audioguia-interactiva-museo-sin-wifi.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="75">
-            <caret line="5" column="53" lean-forward="false" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_sass/_general.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -909,21 +879,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-07-29-como-escribir-guion-audioguia.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1245">
-            <caret line="44" column="16" lean-forward="false" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/posts/nubart-como-herramienta-obtener-datos-museo.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_site/2016/12/12/difusion-visitantes-twitter-audioguia-nubart/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3630">
@@ -1022,20 +977,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_site/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3840">
-          <caret line="256" column="14" lean-forward="false" selection-start-line="256" selection-start-column="14" selection-end-line="256" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-12-08-como-obtener-datos-visitantes-museo.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="945">
-            <caret line="63" column="352" lean-forward="false" selection-start-line="63" selection-start-column="352" selection-end-line="63" selection-end-column="352" />
-            <folding />
-          </first_editor>
-          <second_editor />
+        <state relative-caret-position="4275">
+          <caret line="285" column="14" lean-forward="false" selection-start-line="285" selection-start-column="14" selection-end-line="285" selection-end-column="14" />
+          <folding>
+            <marker date="1514998358000" expanded="true" signature="20330:20503" ph="..." />
+            <marker date="1514998358000" expanded="true" signature="20330:20536" ph="..." />
+            <marker date="1514998358000" expanded="true" signature="20330:20562" ph="..." />
+            <marker date="1514998358000" expanded="true" signature="20330:20591" ph="..." />
+            <marker date="1514998358000" expanded="true" signature="20330:20613" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1043,15 +993,37 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4410">
           <caret line="294" column="14" lean-forward="false" selection-start-line="294" selection-start-column="14" selection-end-line="294" selection-end-column="14" />
-          <folding />
+          <folding>
+            <marker date="1514998358000" expanded="true" signature="18054:18227" ph="..." />
+            <marker date="1514998358000" expanded="true" signature="18054:18260" ph="..." />
+            <marker date="1514998358000" expanded="true" signature="18054:18286" ph="..." />
+            <marker date="1514998358000" expanded="true" signature="18054:18315" ph="..." />
+            <marker date="1514998358000" expanded="true" signature="18054:18337" ph="..." />
+            <marker date="1514998358000" expanded="true" signature="18393:19741" ph="..." />
+            <marker date="1514998358000" expanded="true" signature="18417:19716" ph="..." />
+            <marker date="1514998358000" expanded="true" signature="18452:19369" ph="..." />
+            <marker date="1514998358000" expanded="true" signature="19423:19686" ph="..." />
+            <marker date="1514998358000" expanded="false" signature="19437:19443" ph="©" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_site/tags/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3720">
-          <caret line="248" column="12" lean-forward="false" selection-start-line="248" selection-start-column="12" selection-end-line="248" selection-end-column="12" />
-          <folding />
+        <state relative-caret-position="4020">
+          <caret line="268" column="12" lean-forward="false" selection-start-line="268" selection-start-column="12" selection-end-line="268" selection-end-column="12" />
+          <folding>
+            <marker date="1514998358000" expanded="true" signature="17306:17479" ph="..." />
+            <marker date="1514998358000" expanded="true" signature="17306:17512" ph="..." />
+            <marker date="1514998358000" expanded="true" signature="17306:17538" ph="..." />
+            <marker date="1514998358000" expanded="true" signature="17306:17567" ph="..." />
+            <marker date="1514998358000" expanded="true" signature="17306:17589" ph="..." />
+            <marker date="1514998358000" expanded="true" signature="17645:18993" ph="..." />
+            <marker date="1514998358000" expanded="true" signature="17669:18968" ph="..." />
+            <marker date="1514998358000" expanded="true" signature="17704:18621" ph="..." />
+            <marker date="1514998358000" expanded="true" signature="18675:18938" ph="..." />
+            <marker date="1514998358000" expanded="false" signature="18689:18695" ph="©" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1060,6 +1032,44 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="420">
             <caret line="37" column="46" lean-forward="false" selection-start-line="37" selection-start-column="46" selection-end-line="37" selection-end-column="46" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-07-29-como-escribir-guion-audioguia.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="432">
+            <caret line="44" column="493" lean-forward="false" selection-start-line="44" selection-start-column="348" selection-end-line="44" selection-end-column="493" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/posts/nubart-como-herramienta-obtener-datos-museo.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-12-08-como-obtener-datos-visitantes-museo.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="550">
+            <caret line="63" column="352" lean-forward="false" selection-start-line="63" selection-start-column="352" selection-end-line="63" selection-end-column="352" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-03-audioruta-nubart-offline.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="257">
+            <caret line="66" column="26" lean-forward="true" selection-start-line="66" selection-start-column="26" selection-end-line="66" selection-end-column="26" />
             <folding />
           </first_editor>
           <second_editor />
