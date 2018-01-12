@@ -15,7 +15,11 @@ banner_image: devolo-pro2.jpg
 tags: [wifi, museos, PLC, conexión de datos]
 ---
 
-El wifi ha dejado de ser un elemento accesorio en los museos. El acceso gratuito a Wifi en las salas de exposición permite que los visitantes extranjeros compartan su experiencia en las redes sociales o hagan consultas a Google sin tener que pagar roaming. Aunque las audioguías Nubart funcionan perfectamente con tarifa de datos, dado su bajísimo consumo, sobre todo en los museos con mucho público extranjero es conveniente que puedan funcionar también con Wifi. Pero antes de descartarnos por este motivo, ¿estás seguro de que **tu museo no tiene Wifi**?
+El wifi ha dejado de ser un elemento accesorio en los museos. El acceso gratuito a Wifi en las salas de exposición permite que los visitantes extranjeros compartan su experiencia en las redes sociales o hagan consultas a Google sin tener que pagar roaming. Las audioguías Nubart funcionan perfectamente con tarifa de datos, dado su bajísimo consumo, sobre todo en los museos con mucho público extranjero es conveniente que puedan funcionar también con Wifi. Y gracias a 
+[nuestra nueva modalidad offline](_posts/2018-01-03-audioruta-nubart-offline.md){:target="_blank"}
+, basta con que haya Wifi en la zona de recepción. 
+
+No obstante, ¿estás seguro de que **tu museo no tiene Wifi**?
 
 <!--more-->
 
@@ -25,9 +29,9 @@ Hoy en día incluso los museos más pequeños tienen conexión a internet en sus
 
 Actualmente la tecnología PLC (Power Line Communication) consigue resultados asombrosos. A diferencia de los extensores de señal convencionales, que replican la señal vía inalámbrica, **los adaptadores y extensores PLC funcionan incluso en espacios con muchas paredes y recovecos**, ya que obtienen la señal directamente del tendido eléctrico convencional: el mismo cable que se emplea para la iluminación de las salas funciona como un transmisor de la señal de Internet. No importa que por el camino haya muros gruesos o paredes metálicas. Tan sólo hay que asegurarse de que el router con conexión a internet esté enchufado en el mismo tendido eléctrico que alimente la corriente de las salas. De ser así, la extensión PLC puede ser una solución óptima y muy económica para llevar Wifi a todo tu museo. Y todo eso sin necesidad de tender nuevos cables, algo especialmente importante en los edificios históricos protegidos. 
 
-## Nubart te ayuda a ofrecer Wifi a todos los visitantes de tu museo.
+## La tecnología PLC permite extender el Wifi a todas las áreas de tu museo.
 
-Los museos son estructuras complejas y sabemos por experiencia que el cableado puede ser un misterio incluso para su director o su encargado de mantenimiento. Seguramente tendrás que comprar los aparatos y hacer una prueba empírica para saber si el cableado de tu museo es el adecuado para la tecnología PLC y puede que acabes adquiriendo los aparatos en vano. Pero no te preocupes, si estás considerando adquirir nuestra audioguía y tu museo se encuentra en territorio español, en Nubart podemos ayudarte. Acudiremos a tu museo con nuestros aparatos profesionales de fabricación alemana, gran calidad y alto rendimiento, y comprobaremos **si la solución PLC es aplicable** a tu caso. En caso afirmativo, calcularemos la cantidad de extensores necesarios para cubrir adecuadamente todo tu espacio de exposición y te prepararemos un informe. 
+Los museos son estructuras complejas y sabemos por experiencia que el cableado puede ser un misterio incluso para su director o su encargado de mantenimiento. Seguramente tendrás que comprar los aparatos y hacer una prueba empírica para saber si el cableado de tu museo es el adecuado para la tecnología PLC y puede que acabes adquiriendo los aparatos en vano. Si estás considerando adquirir nuestra audioguía y tu museo se encuentra en territorio español, en Nubart podemos ayudarte. Acudiremos a tu museo con nuestros aparatos profesionales de fabricación alemana, gran calidad y alto rendimiento, y comprobaremos **si la solución PLC es aplicable** a tu caso. En caso afirmativo, calcularemos la cantidad de extensores necesarios para cubrir adecuadamente todo tu espacio de exposición y te prepararemos un informe. 
 
 ![Ejemplo de nuestro diagnóstico wifi]({{site.baseurl}}/images/posts/diagnostico-wifi-nubart.png){: .center-image }
 
@@ -36,5 +40,9 @@ También nos aseguraremos de que la intensidad de la señal sea la adecuada para
 ![Nuestros aparatos PLC]({{site.baseurl}}/images/posts/devolo-pro2.jpg){: .center-image }
 
 ¿Te interesa? Pues [envíanos un email](mailto:info@nubart.eu) y lo hablamos. 
+
+#### En Nubart producimos audioguías innovadoras y asequibles.
+
+<button name="button" onclick="http://www.nubart.eu/es/">Visita nuestra web</button>
 
 
