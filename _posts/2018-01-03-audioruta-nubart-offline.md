@@ -74,4 +74,4 @@ Aprovechamos para desearle mucho éxito a Noelia Porrúa con su fantástica inic
 
 #### En Nubart producimos audioguías innovadoras y asequibles.
 
-<button name="button" onclick="http://www.nubart.eu/es/">Visita nuestra web</button>
+<button name="button" onclick="/es/">Visita nuestra web</button>

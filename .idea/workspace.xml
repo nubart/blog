@@ -9,6 +9,11 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-07-29-como-escribir-guion-audioguia.md" afterPath="$PROJECT_DIR$/_posts/2017-07-29-como-escribir-guion-audioguia.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-12-08-como-obtener-datos-visitantes-museo.md" afterPath="$PROJECT_DIR$/_posts/2017-12-08-como-obtener-datos-visitantes-museo.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2018-01-03-audioruta-nubart-offline.md" afterPath="$PROJECT_DIR$/_posts/2018-01-03-audioruta-nubart-offline.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2016/12/12/difusion-visitantes-twitter-audioguia-nubart/index.html" afterPath="$PROJECT_DIR$/_site/2016/12/12/difusion-visitantes-twitter-audioguia-nubart/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2017/03/29/museo-no-tiene-wifi/index.html" afterPath="$PROJECT_DIR$/_site/2017/03/29/museo-no-tiene-wifi/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2017/07/29/como-escribir-guion-audioguia/index.html" afterPath="$PROJECT_DIR$/_site/2017/07/29/como-escribir-guion-audioguia/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2017/12/08/como-obtener-datos-visitantes-museo/index.html" afterPath="$PROJECT_DIR$/_site/2017/12/08/como-obtener-datos-visitantes-museo/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2018/01/03/audioruta-nubart-offline/index.html" afterPath="$PROJECT_DIR$/_site/2018/01/03/audioruta-nubart-offline/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,81 +24,45 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_site/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4545">
-              <caret line="303" column="14" lean-forward="false" selection-start-line="303" selection-start-column="14" selection-end-line="303" selection-end-column="14" />
-              <folding>
-                <marker date="1515752768000" expanded="true" signature="19446:20299" ph="..." />
-                <marker date="1515752768000" expanded="true" signature="19446:20336" ph="..." />
-                <marker date="1515752768000" expanded="true" signature="19446:21416" ph="..." />
-                <marker date="1515752768000" expanded="true" signature="19446:21445" ph="..." />
-                <marker date="1515752768000" expanded="true" signature="19446:21467" ph="..." />
-                <marker date="1515752768000" expanded="true" signature="19446:23136" ph="..." />
-                <marker date="1515752768000" expanded="true" signature="20458:21390" ph="..." />
-                <marker date="1515752768000" expanded="true" signature="20537:21357" ph="..." />
-                <marker date="1515752768000" expanded="true" signature="21523:22871" ph="..." />
-                <marker date="1515752768000" expanded="true" signature="21547:22846" ph="..." />
-                <marker date="1515752768000" expanded="true" signature="21582:22499" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_site/style-guide/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4620">
-              <caret line="308" column="14" lean-forward="false" selection-start-line="308" selection-start-column="14" selection-end-line="308" selection-end-column="14" />
-              <folding>
-                <marker date="1515752769000" expanded="true" signature="17002:17855" ph="..." />
-                <marker date="1515752769000" expanded="true" signature="17002:17892" ph="..." />
-                <marker date="1515752769000" expanded="true" signature="17002:18972" ph="..." />
-                <marker date="1515752769000" expanded="true" signature="17002:19001" ph="..." />
-                <marker date="1515752769000" expanded="true" signature="17002:19023" ph="..." />
-                <marker date="1515752769000" expanded="true" signature="17002:20692" ph="..." />
-                <marker date="1515752769000" expanded="true" signature="18014:18946" ph="..." />
-                <marker date="1515752769000" expanded="true" signature="18093:18913" ph="..." />
-                <marker date="1515752769000" expanded="true" signature="19079:20427" ph="..." />
-                <marker date="1515752769000" expanded="true" signature="19103:20402" ph="..." />
-                <marker date="1515752769000" expanded="true" signature="19138:20055" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_site/tags/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4215">
-              <caret line="281" column="33" lean-forward="false" selection-start-line="281" selection-start-column="33" selection-end-line="281" selection-end-column="33" />
-              <folding>
-                <marker date="1515752768000" expanded="true" signature="16280:17133" ph="..." />
-                <marker date="1515752768000" expanded="true" signature="16280:17170" ph="..." />
-                <marker date="1515752768000" expanded="true" signature="16280:18250" ph="..." />
-                <marker date="1515752768000" expanded="true" signature="16280:18279" ph="..." />
-                <marker date="1515752768000" expanded="true" signature="16280:18301" ph="..." />
-                <marker date="1515752768000" expanded="true" signature="16280:19970" ph="..." />
-                <marker date="1515752768000" expanded="true" signature="17292:18224" ph="..." />
-                <marker date="1515752768000" expanded="true" signature="17371:18191" ph="..." />
-                <marker date="1515752768000" expanded="true" signature="18357:19705" ph="..." />
-                <marker date="1515752768000" expanded="true" signature="18381:19680" ph="..." />
-                <marker date="1515752768000" expanded="true" signature="18416:19333" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="2018-01-03-audioruta-nubart-offline.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2018-01-03-audioruta-nubart-offline.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="511">
-                <caret line="76" column="84" lean-forward="false" selection-start-line="76" selection-start-column="84" selection-end-line="76" selection-end-column="84" />
+              <first_editor relative-caret-position="236">
+                <caret line="76" column="22" lean-forward="false" selection-start-line="76" selection-start-column="22" selection-end-line="76" selection-end-column="22" />
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_site/2016/12/12/difusion-visitantes-twitter-audioguia-nubart/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="166" column="25" lean-forward="false" selection-start-line="166" selection-start-column="25" selection-end-line="166" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_site/2017/03/29/museo-no-tiene-wifi/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="337">
+              <caret line="158" column="25" lean-forward="false" selection-start-line="158" selection-start-column="25" selection-end-line="158" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_site/2017/07/29/como-escribir-guion-audioguia/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="337">
+              <caret line="195" column="25" lean-forward="false" selection-start-line="195" selection-start-column="25" selection-end-line="195" selection-end-column="25" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -102,11 +71,21 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017-12-08-como-obtener-datos-visitantes-museo.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="511">
-                <caret line="69" column="84" lean-forward="false" selection-start-line="69" selection-start-column="84" selection-end-line="69" selection-end-column="84" />
+              <first_editor relative-caret-position="236">
+                <caret line="69" column="22" lean-forward="false" selection-start-line="69" selection-start-column="22" selection-end-line="69" selection-end-column="22" />
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_site/2017/12/08/como-obtener-datos-visitantes-museo/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="337">
+              <caret line="181" column="25" lean-forward="false" selection-start-line="181" selection-start-column="25" selection-end-line="181" selection-end-column="25" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -115,8 +94,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017-07-29-como-escribir-guion-audioguia.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="511">
-                <caret line="80" column="84" lean-forward="false" selection-start-line="80" selection-start-column="84" selection-end-line="80" selection-end-column="84" />
+              <first_editor relative-caret-position="236">
+                <caret line="80" column="22" lean-forward="false" selection-start-line="80" selection-start-column="22" selection-end-line="80" selection-end-column="22" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -124,25 +103,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-03-15-audioguia-interactiva-museo-sin-wifi.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-03-15-audioguia-interactiva-museo-sin-wifi.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="525">
-                <caret line="59" column="84" lean-forward="false" selection-start-line="59" selection-start-column="84" selection-end-line="59" selection-end-column="84" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2016-12-12-difusion-visitantes-twitter-audioguia-nubart.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2016-12-12-difusion-visitantes-twitter-audioguia-nubart.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2016-12-12-difusion-visitantes-twitter-audioguia-nubart.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="525">
-                <caret line="53" column="84" lean-forward="false" selection-start-line="53" selection-start-column="84" selection-end-line="53" selection-end-column="84" />
+              <first_editor relative-caret-position="250">
+                <caret line="53" column="22" lean-forward="false" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -150,12 +116,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="default.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_site/2018/01/03/audioruta-nubart-offline/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="7" column="40" lean-forward="false" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
-              <folding />
+            <state relative-caret-position="337">
+              <caret line="189" column="25" lean-forward="false" selection-start-line="189" selection-start-column="25" selection-end-line="189" selection-end-column="25" />
+              <folding>
+                <marker date="1515753101000" expanded="true" signature="19863:20716" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -164,8 +132,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017-03-27-museo-no-tiene-wifi.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="433">
-                <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="45" selection-end-column="84" />
+              <first_editor relative-caret-position="191">
+                <caret line="45" column="22" lean-forward="false" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -199,11 +167,13 @@
       <find>nubart.eu</find>
       <find>href=&quot;http://www.nubart.eu</find>
       <find>button</find>
+      <find>onclick=&quot;http://www.nubart.eu/es/&quot;</find>
     </findStrings>
     <replaceStrings>
       <replace />
       <replace>href=&quot;http://www.nubart.eu/es/&quot;&gt;Web</replace>
       <replace>href=&quot;http://www.nubart.eu/es/</replace>
+      <replace>onclick=&quot;/es/&quot;</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -224,23 +194,23 @@
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/404.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
-        <option value="$PROJECT_DIR$/_site/2016/12/12/difusion-visitantes-twitter-audioguia-nubart/index.html" />
-        <option value="$PROJECT_DIR$/_site/2017/03/29/museo-no-tiene-wifi/index.html" />
-        <option value="$PROJECT_DIR$/_site/2017/07/29/como-escribir-guion-audioguia/index.html" />
-        <option value="$PROJECT_DIR$/_site/2017/12/08/como-obtener-datos-visitantes-museo/index.html" />
-        <option value="$PROJECT_DIR$/_site/2018/01/03/audioruta-nubart-offline/index.html" />
         <option value="$PROJECT_DIR$/_site/404.html" />
         <option value="$PROJECT_DIR$/_site/about/index.html" />
         <option value="$PROJECT_DIR$/_site/index.html" />
         <option value="$PROJECT_DIR$/_site/style-guide/index.html" />
         <option value="$PROJECT_DIR$/_site/tags/index.html" />
         <option value="$PROJECT_DIR$/_layouts/default.html" />
-        <option value="$PROJECT_DIR$/_posts/2017-03-27-museo-no-tiene-wifi.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-01-03-audioruta-nubart-offline.md" />
-        <option value="$PROJECT_DIR$/_posts/2017-12-08-como-obtener-datos-visitantes-museo.md" />
-        <option value="$PROJECT_DIR$/_posts/2017-07-29-como-escribir-guion-audioguia.md" />
         <option value="$PROJECT_DIR$/_posts/2017-03-15-audioguia-interactiva-museo-sin-wifi.md" />
         <option value="$PROJECT_DIR$/_posts/2016-12-12-difusion-visitantes-twitter-audioguia-nubart.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-03-27-museo-no-tiene-wifi.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-07-29-como-escribir-guion-audioguia.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-12-08-como-obtener-datos-visitantes-museo.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-01-03-audioruta-nubart-offline.md" />
+        <option value="$PROJECT_DIR$/_site/2016/12/12/difusion-visitantes-twitter-audioguia-nubart/index.html" />
+        <option value="$PROJECT_DIR$/_site/2017/03/29/museo-no-tiene-wifi/index.html" />
+        <option value="$PROJECT_DIR$/_site/2017/07/29/como-escribir-guion-audioguia/index.html" />
+        <option value="$PROJECT_DIR$/_site/2017/12/08/como-obtener-datos-visitantes-museo/index.html" />
+        <option value="$PROJECT_DIR$/_site/2018/01/03/audioruta-nubart-offline/index.html" />
       </list>
     </option>
   </component>
@@ -709,7 +679,14 @@
       <option name="project" value="LOCAL" />
       <updated>1515165611752</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="link to website">
+      <created>1515752865301</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1515752865301</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -748,7 +725,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="cambio autor Nubart - tags" />
     <MESSAGE value="corrección texto blog" />
     <MESSAGE value="ponre info Nubart en barra lateral" />
     <MESSAGE value="ponre info autor en barra inferior" />
@@ -773,7 +749,8 @@
     <MESSAGE value="corrección link 2" />
     <MESSAGE value="corrección título" />
     <MESSAGE value="heatmap" />
-    <option name="LAST_COMMIT_MESSAGE" value="heatmap" />
+    <MESSAGE value="link to website" />
+    <option name="LAST_COMMIT_MESSAGE" value="link to website" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1032,79 +1009,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_site/2016/12/12/difusion-visitantes-twitter-audioguia-nubart/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="245" column="14" lean-forward="false" selection-start-line="245" selection-start-column="14" selection-end-line="245" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/2017/03/29/museo-no-tiene-wifi/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3660">
-          <caret line="244" column="14" lean-forward="false" selection-start-line="244" selection-start-column="14" selection-end-line="244" selection-end-column="14" />
-          <folding>
-            <marker date="1515752769000" expanded="true" signature="15410:15547" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/2017/07/29/como-escribir-guion-audioguia/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4260">
-          <caret line="284" column="14" lean-forward="false" selection-start-line="284" selection-start-column="14" selection-end-line="284" selection-end-column="14" />
-          <folding>
-            <marker date="1515752769000" expanded="true" signature="22311:22448" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/2017/12/08/como-obtener-datos-visitantes-museo/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4050">
-          <caret line="270" column="14" lean-forward="false" selection-start-line="270" selection-start-column="14" selection-end-line="270" selection-end-column="14" />
-          <folding>
-            <marker date="1515752769000" expanded="true" signature="19078:19215" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/2018/01/03/audioruta-nubart-offline/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4170">
-          <caret line="278" column="14" lean-forward="false" selection-start-line="278" selection-start-column="14" selection-end-line="278" selection-end-column="14" />
-          <folding>
-            <marker date="1515752769000" expanded="true" signature="19722:20575" ph="..." />
-            <marker date="1515752769000" expanded="true" signature="19722:20612" ph="..." />
-            <marker date="1515752769000" expanded="true" signature="19722:21692" ph="..." />
-            <marker date="1515752769000" expanded="true" signature="19722:21721" ph="..." />
-            <marker date="1515752769000" expanded="true" signature="19722:21743" ph="..." />
-            <marker date="1515752769000" expanded="true" signature="19722:23412" ph="..." />
-            <marker date="1515752769000" expanded="true" signature="20734:21666" ph="..." />
-            <marker date="1515752769000" expanded="true" signature="20813:21633" ph="..." />
-            <marker date="1515752769000" expanded="true" signature="21799:23147" ph="..." />
-            <marker date="1515752769000" expanded="true" signature="21823:23122" ph="..." />
-            <marker date="1515752769000" expanded="true" signature="21858:22775" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_site/404.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2415">
           <caret line="161" column="14" lean-forward="false" selection-start-line="161" selection-start-column="14" selection-end-line="161" selection-end-column="14" />
           <folding>
-            <marker date="1515752768000" expanded="true" signature="7275:8128" ph="..." />
-            <marker date="1515752768000" expanded="true" signature="7275:8165" ph="..." />
-            <marker date="1515752768000" expanded="true" signature="7275:9245" ph="..." />
-            <marker date="1515752768000" expanded="true" signature="7275:9274" ph="..." />
-            <marker date="1515752768000" expanded="true" signature="7275:9296" ph="..." />
-            <marker date="1515752768000" expanded="true" signature="7275:10965" ph="..." />
-            <marker date="1515752768000" expanded="true" signature="8287:9219" ph="..." />
-            <marker date="1515752768000" expanded="true" signature="8366:9186" ph="..." />
-            <marker date="1515752768000" expanded="true" signature="9352:10700" ph="..." />
-            <marker date="1515752768000" expanded="true" signature="9376:10675" ph="..." />
-            <marker date="1515752768000" expanded="true" signature="9411:10328" ph="..." />
+            <marker date="1515752993000" expanded="true" signature="7275:8128" ph="..." />
+            <marker date="1515752993000" expanded="true" signature="7275:8165" ph="..." />
+            <marker date="1515752993000" expanded="true" signature="7275:9245" ph="..." />
+            <marker date="1515752993000" expanded="true" signature="7275:9274" ph="..." />
+            <marker date="1515752993000" expanded="true" signature="7275:9296" ph="..." />
+            <marker date="1515752993000" expanded="true" signature="7275:10965" ph="..." />
+            <marker date="1515752993000" expanded="true" signature="8287:9219" ph="..." />
+            <marker date="1515752993000" expanded="true" signature="8366:9186" ph="..." />
+            <marker date="1515752993000" expanded="true" signature="9352:10700" ph="..." />
+            <marker date="1515752993000" expanded="true" signature="9376:10675" ph="..." />
+            <marker date="1515752993000" expanded="true" signature="9411:10328" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1114,17 +1034,17 @@
         <state relative-caret-position="2550">
           <caret line="170" column="14" lean-forward="false" selection-start-line="170" selection-start-column="14" selection-end-line="170" selection-end-column="14" />
           <folding>
-            <marker date="1515752768000" expanded="true" signature="7905:8758" ph="..." />
-            <marker date="1515752768000" expanded="true" signature="7905:8795" ph="..." />
-            <marker date="1515752768000" expanded="true" signature="7905:9875" ph="..." />
-            <marker date="1515752768000" expanded="true" signature="7905:9904" ph="..." />
-            <marker date="1515752768000" expanded="true" signature="7905:9926" ph="..." />
-            <marker date="1515752768000" expanded="true" signature="7905:11595" ph="..." />
-            <marker date="1515752768000" expanded="true" signature="8917:9849" ph="..." />
-            <marker date="1515752768000" expanded="true" signature="8996:9816" ph="..." />
-            <marker date="1515752768000" expanded="true" signature="9982:11330" ph="..." />
-            <marker date="1515752768000" expanded="true" signature="10006:11305" ph="..." />
-            <marker date="1515752768000" expanded="true" signature="10041:10958" ph="..." />
+            <marker date="1515752993000" expanded="true" signature="7905:8758" ph="..." />
+            <marker date="1515752993000" expanded="true" signature="7905:8795" ph="..." />
+            <marker date="1515752993000" expanded="true" signature="7905:9875" ph="..." />
+            <marker date="1515752993000" expanded="true" signature="7905:9904" ph="..." />
+            <marker date="1515752993000" expanded="true" signature="7905:9926" ph="..." />
+            <marker date="1515752993000" expanded="true" signature="7905:11595" ph="..." />
+            <marker date="1515752993000" expanded="true" signature="8917:9849" ph="..." />
+            <marker date="1515752993000" expanded="true" signature="8996:9816" ph="..." />
+            <marker date="1515752993000" expanded="true" signature="9982:11330" ph="..." />
+            <marker date="1515752993000" expanded="true" signature="10006:11305" ph="..." />
+            <marker date="1515752993000" expanded="true" signature="10041:10958" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1134,7 +1054,7 @@
         <state relative-caret-position="90">
           <caret line="6" column="19" lean-forward="false" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
           <folding>
-            <marker date="1515752768000" expanded="true" signature="41489:41803" ph="..." />
+            <marker date="1515752993000" expanded="true" signature="42356:42670" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1144,17 +1064,17 @@
         <state relative-caret-position="4545">
           <caret line="303" column="14" lean-forward="false" selection-start-line="303" selection-start-column="14" selection-end-line="303" selection-end-column="14" />
           <folding>
-            <marker date="1515752768000" expanded="true" signature="19446:20299" ph="..." />
-            <marker date="1515752768000" expanded="true" signature="19446:20336" ph="..." />
-            <marker date="1515752768000" expanded="true" signature="19446:21416" ph="..." />
-            <marker date="1515752768000" expanded="true" signature="19446:21445" ph="..." />
-            <marker date="1515752768000" expanded="true" signature="19446:21467" ph="..." />
-            <marker date="1515752768000" expanded="true" signature="19446:23136" ph="..." />
-            <marker date="1515752768000" expanded="true" signature="20458:21390" ph="..." />
-            <marker date="1515752768000" expanded="true" signature="20537:21357" ph="..." />
-            <marker date="1515752768000" expanded="true" signature="21523:22871" ph="..." />
-            <marker date="1515752768000" expanded="true" signature="21547:22846" ph="..." />
-            <marker date="1515752768000" expanded="true" signature="21582:22499" ph="..." />
+            <marker date="1515752993000" expanded="true" signature="19446:20299" ph="..." />
+            <marker date="1515752993000" expanded="true" signature="19446:20336" ph="..." />
+            <marker date="1515752993000" expanded="true" signature="19446:21416" ph="..." />
+            <marker date="1515752993000" expanded="true" signature="19446:21445" ph="..." />
+            <marker date="1515752993000" expanded="true" signature="19446:21467" ph="..." />
+            <marker date="1515752993000" expanded="true" signature="19446:23136" ph="..." />
+            <marker date="1515752993000" expanded="true" signature="20458:21390" ph="..." />
+            <marker date="1515752993000" expanded="true" signature="20537:21357" ph="..." />
+            <marker date="1515752993000" expanded="true" signature="21523:22871" ph="..." />
+            <marker date="1515752993000" expanded="true" signature="21547:22846" ph="..." />
+            <marker date="1515752993000" expanded="true" signature="21582:22499" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1164,17 +1084,17 @@
         <state relative-caret-position="4620">
           <caret line="308" column="14" lean-forward="false" selection-start-line="308" selection-start-column="14" selection-end-line="308" selection-end-column="14" />
           <folding>
-            <marker date="1515752769000" expanded="true" signature="17002:17855" ph="..." />
-            <marker date="1515752769000" expanded="true" signature="17002:17892" ph="..." />
-            <marker date="1515752769000" expanded="true" signature="17002:18972" ph="..." />
-            <marker date="1515752769000" expanded="true" signature="17002:19001" ph="..." />
-            <marker date="1515752769000" expanded="true" signature="17002:19023" ph="..." />
-            <marker date="1515752769000" expanded="true" signature="17002:20692" ph="..." />
-            <marker date="1515752769000" expanded="true" signature="18014:18946" ph="..." />
-            <marker date="1515752769000" expanded="true" signature="18093:18913" ph="..." />
-            <marker date="1515752769000" expanded="true" signature="19079:20427" ph="..." />
-            <marker date="1515752769000" expanded="true" signature="19103:20402" ph="..." />
-            <marker date="1515752769000" expanded="true" signature="19138:20055" ph="..." />
+            <marker date="1515752993000" expanded="true" signature="17002:17855" ph="..." />
+            <marker date="1515752993000" expanded="true" signature="17002:17892" ph="..." />
+            <marker date="1515752993000" expanded="true" signature="17002:18972" ph="..." />
+            <marker date="1515752993000" expanded="true" signature="17002:19001" ph="..." />
+            <marker date="1515752993000" expanded="true" signature="17002:19023" ph="..." />
+            <marker date="1515752993000" expanded="true" signature="17002:20692" ph="..." />
+            <marker date="1515752993000" expanded="true" signature="18014:18946" ph="..." />
+            <marker date="1515752993000" expanded="true" signature="18093:18913" ph="..." />
+            <marker date="1515752993000" expanded="true" signature="19079:20427" ph="..." />
+            <marker date="1515752993000" expanded="true" signature="19103:20402" ph="..." />
+            <marker date="1515752993000" expanded="true" signature="19138:20055" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1184,17 +1104,17 @@
         <state relative-caret-position="4215">
           <caret line="281" column="33" lean-forward="false" selection-start-line="281" selection-start-column="33" selection-end-line="281" selection-end-column="33" />
           <folding>
-            <marker date="1515752768000" expanded="true" signature="16280:17133" ph="..." />
-            <marker date="1515752768000" expanded="true" signature="16280:17170" ph="..." />
-            <marker date="1515752768000" expanded="true" signature="16280:18250" ph="..." />
-            <marker date="1515752768000" expanded="true" signature="16280:18279" ph="..." />
-            <marker date="1515752768000" expanded="true" signature="16280:18301" ph="..." />
-            <marker date="1515752768000" expanded="true" signature="16280:19970" ph="..." />
-            <marker date="1515752768000" expanded="true" signature="17292:18224" ph="..." />
-            <marker date="1515752768000" expanded="true" signature="17371:18191" ph="..." />
-            <marker date="1515752768000" expanded="true" signature="18357:19705" ph="..." />
-            <marker date="1515752768000" expanded="true" signature="18381:19680" ph="..." />
-            <marker date="1515752768000" expanded="true" signature="18416:19333" ph="..." />
+            <marker date="1515752993000" expanded="true" signature="16280:17133" ph="..." />
+            <marker date="1515752993000" expanded="true" signature="16280:17170" ph="..." />
+            <marker date="1515752993000" expanded="true" signature="16280:18250" ph="..." />
+            <marker date="1515752993000" expanded="true" signature="16280:18279" ph="..." />
+            <marker date="1515752993000" expanded="true" signature="16280:18301" ph="..." />
+            <marker date="1515752993000" expanded="true" signature="16280:19970" ph="..." />
+            <marker date="1515752993000" expanded="true" signature="17292:18224" ph="..." />
+            <marker date="1515752993000" expanded="true" signature="17371:18191" ph="..." />
+            <marker date="1515752993000" expanded="true" signature="18357:19705" ph="..." />
+            <marker date="1515752993000" expanded="true" signature="18381:19680" ph="..." />
+            <marker date="1515752993000" expanded="true" signature="18416:19333" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1207,55 +1127,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-03-27-museo-no-tiene-wifi.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="433">
-            <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="45" selection-end-column="84" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-01-03-audioruta-nubart-offline.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="511">
-            <caret line="76" column="84" lean-forward="false" selection-start-line="76" selection-start-column="84" selection-end-line="76" selection-end-column="84" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-12-08-como-obtener-datos-visitantes-museo.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="511">
-            <caret line="69" column="84" lean-forward="false" selection-start-line="69" selection-start-column="84" selection-end-line="69" selection-end-column="84" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-07-29-como-escribir-guion-audioguia.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="511">
-            <caret line="80" column="84" lean-forward="false" selection-start-line="80" selection-start-column="84" selection-end-line="80" selection-end-column="84" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-03-15-audioguia-interactiva-museo-sin-wifi.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="525">
-            <caret line="59" column="84" lean-forward="false" selection-start-line="59" selection-start-column="84" selection-end-line="59" selection-end-column="84" />
+          <first_editor relative-caret-position="450">
+            <caret line="59" column="31" lean-forward="false" selection-start-line="59" selection-start-column="31" selection-end-line="59" selection-end-column="31" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1265,11 +1141,97 @@
     <entry file="file://$PROJECT_DIR$/_posts/2016-12-12-difusion-visitantes-twitter-audioguia-nubart.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="525">
-            <caret line="53" column="84" lean-forward="false" selection-start-line="53" selection-start-column="84" selection-end-line="53" selection-end-column="84" />
+          <first_editor relative-caret-position="250">
+            <caret line="53" column="22" lean-forward="false" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-03-27-museo-no-tiene-wifi.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="191">
+            <caret line="45" column="22" lean-forward="false" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-07-29-como-escribir-guion-audioguia.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="236">
+            <caret line="80" column="22" lean-forward="false" selection-start-line="80" selection-start-column="22" selection-end-line="80" selection-end-column="22" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-12-08-como-obtener-datos-visitantes-museo.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="236">
+            <caret line="69" column="22" lean-forward="false" selection-start-line="69" selection-start-column="22" selection-end-line="69" selection-end-column="22" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-03-audioruta-nubart-offline.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="236">
+            <caret line="76" column="22" lean-forward="false" selection-start-line="76" selection-start-column="22" selection-end-line="76" selection-end-column="22" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/2016/12/12/difusion-visitantes-twitter-audioguia-nubart/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="166" column="25" lean-forward="false" selection-start-line="166" selection-start-column="25" selection-end-line="166" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/2017/03/29/museo-no-tiene-wifi/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="158" column="25" lean-forward="false" selection-start-line="158" selection-start-column="25" selection-end-line="158" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/2017/07/29/como-escribir-guion-audioguia/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="195" column="25" lean-forward="false" selection-start-line="195" selection-start-column="25" selection-end-line="195" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/2017/12/08/como-obtener-datos-visitantes-museo/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="181" column="25" lean-forward="false" selection-start-line="181" selection-start-column="25" selection-end-line="181" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/2018/01/03/audioruta-nubart-offline/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="189" column="25" lean-forward="false" selection-start-line="189" selection-start-column="25" selection-end-line="189" selection-end-column="25" />
+          <folding>
+            <marker date="1515753101000" expanded="true" signature="19863:20716" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
