@@ -60,7 +60,7 @@ En definitiva: el 99 % de las empresas de software a las que consultáramos nos 
 Suerte que en Nubart disponemos de un arma secreta llamada Simon Effing, nuestro cofundador y CTO. Mediante un uso inteligente de Javascript de última generación, Simon encontró el modo de hacer que la descarga del contenido completo de la audioruta se produzca siempre desde cualquier navegador y se almacene de forma pasajera en la memoria temporal del móvil (también llamada 'memoria de acceso aleatorio' o 'memoria RAM'). Tal como nosotros queríamos, la información contenida en la RAM no consume memoria, ya que desaparece al cerrar la página del navegador o al apagarse el dispositivo. No obstante, eso no significa que se pierda para siempre: el usuario siempre podrá recuperarla al emplear de nuevo el código único de su tarjeta Nubart. Y todo esto de forma inmediata y fácil, sin descargar ninguna app. 
 
 En este vídeo puedes ver todo el proceso en tiempo real:
-<video width="720" height="548" autoplay loop>
+<video width="720" height="548" autoplay>
   <source src="{{site.baseurl}}/images/posts/audioruta-offline-nubart.mp4" type="video/mp4">
 Tu navegador no permite mostrar este vídeo.
 </video>{: .center-image }
@@ -74,4 +74,6 @@ Aprovechamos para desearle mucho éxito a Noelia Porrúa con su fantástica inic
 
 #### En Nubart producimos audioguías innovadoras y asequibles.
 
-<button name="button" onclick="/es/">Visita nuestra web</button>
+<form action="http://www.nubart.eu/es/">
+    <input type="submit" value="Visita nuestra web" />
+</form>

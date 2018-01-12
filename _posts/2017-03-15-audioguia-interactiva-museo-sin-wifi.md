@@ -57,4 +57,6 @@ Y el caso es que ¡funciona! Las pruebas efectuadas hasta el momento nos demuest
 
 #### En Nubart producimos audioguías innovadoras y asequibles.
 
-<button name="button" onclick="/es/">Visita nuestra web</button>
+<form action="http://www.nubart.eu/es/">
+    <input type="submit" value="Visita nuestra web" />
+</form>

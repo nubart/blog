@@ -43,6 +43,7 @@ También nos aseguraremos de que la intensidad de la señal sea la adecuada para
 
 #### En Nubart producimos audioguías innovadoras y asequibles.
 
-<button name="button" onclick="/es/">Visita nuestra web</button>
-
+<form action="http://www.nubart.eu/es/">
+    <input type="submit" value="Visita nuestra web" />
+</form>
 
