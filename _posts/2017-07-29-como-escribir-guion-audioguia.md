@@ -78,6 +78,6 @@ Si quieres profundizar más, te recomendamos [*Cómo escribir audioguías*](http
 
 #### En Nubart producimos audioguías innovadoras y asequibles.
 
-<form action="../es/">
+<form action="../../../../../es">
     <input type="submit" value="Visita nuestra web" />
 </form>
