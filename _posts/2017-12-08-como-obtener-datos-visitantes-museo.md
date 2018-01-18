@@ -67,6 +67,6 @@ Tanto los datos que Nubart registra de forma automática como los indicados volu
 
 #### En Nubart producimos audioguías innovadoras y asequibles.
 
-<form action="http://www.nubart.eu/es/">
+<form action="../es/">
     <input type="submit" value="Visita nuestra web" />
 </form>
