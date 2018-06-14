@@ -65,9 +65,8 @@ Como ves, el proceso para acceder a nuestras audiorutas offline es tan fácil pa
 
 Además de la urgencia de resolver el problema de Noelia, vimos que la modalidad de uso offline también podría beneficiar a otros clientes, como los numerosos museos que solo disponen de Wifi en la zona de recepción, pero no en las salas de exposiciones. También solventaba un problema a los turistas extracomunitarios que no desean pagar *roaming* mientras utilizan la audioguía, ya que pueden descargar el contenido con el wifi gratuito del punto de venta o del hotel.
 
-Y así es como el problema de un cliente se convirtió en una nueva oportunidad.
+Entretanto hemos ampliado este desarrollo y ahora ofrecemos una solución híbrida que permite poner en modo offline únicamente las pistas situadas en lugares de mala conectividad. Así mejoramos la rapidez de carga y la usabilidad. 
 
-Aprovechamos para desearle mucho éxito a Noelia Porrúa con su fantástica iniciativa, que sin duda contribuirá a que a partir de ahora Teruel *exista*.
 
 #### En Nubart producimos audioguías innovadoras y asequibles.
 

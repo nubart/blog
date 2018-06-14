@@ -3,11 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d4762e9d-642e-4b62-b649-6a8e3aef19a6" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-12-12-difusion-visitantes-twitter-audioguia-nubart.md" afterPath="$PROJECT_DIR$/_posts/2016-12-12-difusion-visitantes-twitter-audioguia-nubart.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-03-15-audioguia-interactiva-museo-sin-wifi.md" afterPath="$PROJECT_DIR$/_posts/2017-03-15-audioguia-interactiva-museo-sin-wifi.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-03-27-museo-no-tiene-wifi.md" afterPath="$PROJECT_DIR$/_posts/2017-03-27-museo-no-tiene-wifi.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-07-29-como-escribir-guion-audioguia.md" afterPath="$PROJECT_DIR$/_posts/2017-07-29-como-escribir-guion-audioguia.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-12-08-como-obtener-datos-visitantes-museo.md" afterPath="$PROJECT_DIR$/_posts/2017-12-08-como-obtener-datos-visitantes-museo.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2018-01-03-audioruta-nubart-offline.md" afterPath="$PROJECT_DIR$/_posts/2018-01-03-audioruta-nubart-offline.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,12 +14,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2018-01-03-audioruta-nubart-offline.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="2018-01-03-audioruta-nubart-offline.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2018-01-03-audioruta-nubart-offline.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="491">
-                <caret line="73" column="31" lean-forward="false" selection-start-line="73" selection-start-column="14" selection-end-line="73" selection-end-column="31" />
+              <first_editor relative-caret-position="54">
+                <caret line="65" column="91" lean-forward="true" selection-start-line="65" selection-start-column="91" selection-end-line="65" selection-end-column="91" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -55,7 +51,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017-12-08-como-obtener-datos-visitantes-museo.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="495">
+              <first_editor relative-caret-position="1035">
                 <caret line="69" column="31" lean-forward="false" selection-start-line="69" selection-start-column="31" selection-end-line="69" selection-end-column="31" />
                 <folding />
               </first_editor>
@@ -78,7 +74,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017-07-29-como-escribir-guion-audioguia.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="485">
+              <first_editor relative-caret-position="1200">
                 <caret line="80" column="31" lean-forward="false" selection-start-line="80" selection-start-column="31" selection-end-line="80" selection-end-column="31" />
                 <folding />
               </first_editor>
@@ -103,7 +99,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017-03-27-museo-no-tiene-wifi.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="483">
+              <first_editor relative-caret-position="675">
                 <caret line="45" column="31" lean-forward="false" selection-start-line="45" selection-start-column="31" selection-end-line="45" selection-end-column="31" />
                 <folding />
               </first_editor>
@@ -116,7 +112,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017-03-15-audioguia-interactiva-museo-sin-wifi.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="510">
+              <first_editor relative-caret-position="885">
                 <caret line="59" column="31" lean-forward="false" selection-start-line="59" selection-start-column="31" selection-end-line="59" selection-end-column="31" />
                 <folding />
               </first_editor>
@@ -125,11 +121,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2016-12-12-difusion-visitantes-twitter-audioguia-nubart.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2016-12-12-difusion-visitantes-twitter-audioguia-nubart.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2016-12-12-difusion-visitantes-twitter-audioguia-nubart.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="450">
+              <first_editor relative-caret-position="293">
                 <caret line="53" column="31" lean-forward="false" selection-start-line="53" selection-start-column="31" selection-end-line="53" selection-end-column="31" />
                 <folding />
               </first_editor>
@@ -202,12 +198,12 @@
         <option value="$PROJECT_DIR$/_site/2017/07/29/como-escribir-guion-audioguia/index.html" />
         <option value="$PROJECT_DIR$/_site/2017/12/08/como-obtener-datos-visitantes-museo/index.html" />
         <option value="$PROJECT_DIR$/_site/2018/01/03/audioruta-nubart-offline/index.html" />
-        <option value="$PROJECT_DIR$/_posts/2018-01-03-audioruta-nubart-offline.md" />
         <option value="$PROJECT_DIR$/_posts/2017-12-08-como-obtener-datos-visitantes-museo.md" />
         <option value="$PROJECT_DIR$/_posts/2017-07-29-como-escribir-guion-audioguia.md" />
         <option value="$PROJECT_DIR$/_posts/2017-03-27-museo-no-tiene-wifi.md" />
         <option value="$PROJECT_DIR$/_posts/2017-03-15-audioguia-interactiva-museo-sin-wifi.md" />
         <option value="$PROJECT_DIR$/_posts/2016-12-12-difusion-visitantes-twitter-audioguia-nubart.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-01-03-audioruta-nubart-offline.md" />
       </list>
     </option>
   </component>
@@ -219,9 +215,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1401" />
-    <option name="height" value="681" />
+    <option name="x" value="48" />
+    <option name="y" value="191" />
+    <option name="width" value="1400" />
+    <option name="height" value="539" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -262,6 +259,8 @@
     <panes>
       <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -315,8 +314,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -725,11 +722,18 @@
       <option name="project" value="LOCAL" />
       <updated>1516290383469</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary=" enlace web 3">
+      <created>1516290494898</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1516290494898</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1401" height="681" extended-state="0" />
+    <frame x="48" y="191" width="1400" height="539" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -744,7 +748,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30977872" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -764,7 +768,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ponre info autor en barra inferior 3" />
     <MESSAGE value="foto logo Nubart" />
     <MESSAGE value="indicación autor entraa post" />
     <MESSAGE value="cambio color descripción" />
@@ -789,7 +792,8 @@
     <MESSAGE value="video vimeo" />
     <MESSAGE value="enlace web" />
     <MESSAGE value=" enlace web 2" />
-    <option name="LAST_COMMIT_MESSAGE" value=" enlace web 2" />
+    <MESSAGE value=" enlace web 3" />
+    <option name="LAST_COMMIT_MESSAGE" value=" enlace web 3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1138,21 +1142,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-01-03-audioruta-nubart-offline.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="491">
-            <caret line="73" column="31" lean-forward="false" selection-start-line="73" selection-start-column="14" selection-end-line="73" selection-end-column="31" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-12-08-como-obtener-datos-visitantes-museo.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="495">
+          <first_editor relative-caret-position="1035">
             <caret line="69" column="31" lean-forward="false" selection-start-line="69" selection-start-column="31" selection-end-line="69" selection-end-column="31" />
             <folding />
           </first_editor>
@@ -1163,7 +1156,7 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-07-29-como-escribir-guion-audioguia.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="485">
+          <first_editor relative-caret-position="1200">
             <caret line="80" column="31" lean-forward="false" selection-start-line="80" selection-start-column="31" selection-end-line="80" selection-end-column="31" />
             <folding />
           </first_editor>
@@ -1174,7 +1167,7 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-03-27-museo-no-tiene-wifi.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="483">
+          <first_editor relative-caret-position="675">
             <caret line="45" column="31" lean-forward="false" selection-start-line="45" selection-start-column="31" selection-end-line="45" selection-end-column="31" />
             <folding />
           </first_editor>
@@ -1185,7 +1178,7 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-03-15-audioguia-interactiva-museo-sin-wifi.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="510">
+          <first_editor relative-caret-position="885">
             <caret line="59" column="31" lean-forward="false" selection-start-line="59" selection-start-column="31" selection-end-line="59" selection-end-column="31" />
             <folding />
           </first_editor>
@@ -1196,8 +1189,19 @@
     <entry file="file://$PROJECT_DIR$/_posts/2016-12-12-difusion-visitantes-twitter-audioguia-nubart.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="450">
+          <first_editor relative-caret-position="293">
             <caret line="53" column="31" lean-forward="false" selection-start-line="53" selection-start-column="31" selection-end-line="53" selection-end-column="31" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-03-audioruta-nubart-offline.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="54">
+            <caret line="65" column="91" lean-forward="true" selection-start-line="65" selection-start-column="91" selection-end-line="65" selection-end-column="91" />
             <folding />
           </first_editor>
           <second_editor />
