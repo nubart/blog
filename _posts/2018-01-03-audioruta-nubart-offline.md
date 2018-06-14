@@ -21,7 +21,7 @@ A veces un problema acaba siendo una gran oportunidad. Eso es lo que tuvimos oca
 
 ## No solo audioguías, también hacemos audiorutas
 
-Nuestras audioguías en forma de tarjeta Nubart no solo son útiles para los museos. También pueden ofrecerse en puntos de venta alternativos, como oficinas de información turística, y adaptarse para realizar visitas guiadas a territorios más extensos, como ciudades o espacios naturales. Así lo reconoció Noelia Porrúa cuando tras establecerse en la maravillosa comarca del Maestrazgo decidió fundar la empresa [Nexo Turismo y Cultura.](https://www.facebook.com/Nexo-Turismo-y-Cultura-484623901869492/){:target="_blank"}
+Nuestras audioguías en forma de tarjeta Nubart no solo son útiles para los museos. También pueden ofrecerse en puntos de venta alternativos, como oficinas de información turística, y adaptarse para realizar visitas guiadas a territorios más extensos, como ciudades o espacios naturales. Así lo reconoció Noelia Porrúa cuando tras establecerse en la maravillosa comarca del Maestrazgo decidió fundar la empresa [Nexo Turismo y Cultura.](https://www.nexoturismocultura.com/){:target="_blank"}
 
 Noelia nos contactó porque, además de las visitas guiadas que está preparando, deseaba poder ofrecer la posibilidad de conocer el territorio a los senderistas que prefirieran ir a su aire, sin ir acompañados de un guía, o a los visitantes extranjeros que quisieran hacer la visita en su propio idioma. 
 

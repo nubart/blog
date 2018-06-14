@@ -18,8 +18,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-01-03-audioruta-nubart-offline.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="54">
-                <caret line="65" column="91" lean-forward="true" selection-start-line="65" selection-start-column="91" selection-end-line="65" selection-end-column="91" />
+              <first_editor relative-caret-position="172">
+                <caret line="31" column="226" lean-forward="true" selection-start-line="31" selection-start-column="226" selection-end-line="31" selection-end-column="226" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -125,7 +125,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/2016-12-12-difusion-visitantes-twitter-audioguia-nubart.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="293">
+              <first_editor relative-caret-position="795">
                 <caret line="53" column="31" lean-forward="false" selection-start-line="53" selection-start-column="31" selection-end-line="53" selection-end-column="31" />
                 <folding />
               </first_editor>
@@ -257,10 +257,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="AndroidView" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -314,6 +313,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -729,7 +729,14 @@
       <option name="project" value="LOCAL" />
       <updated>1516290494898</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="mejora offline">
+      <created>1528987259608</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1528987259608</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -768,7 +775,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="foto logo Nubart" />
     <MESSAGE value="indicación autor entraa post" />
     <MESSAGE value="cambio color descripción" />
     <MESSAGE value="cambio foto" />
@@ -793,7 +799,8 @@
     <MESSAGE value="enlace web" />
     <MESSAGE value=" enlace web 2" />
     <MESSAGE value=" enlace web 3" />
-    <option name="LAST_COMMIT_MESSAGE" value=" enlace web 3" />
+    <MESSAGE value="mejora offline" />
+    <option name="LAST_COMMIT_MESSAGE" value="mejora offline" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1189,7 +1196,7 @@
     <entry file="file://$PROJECT_DIR$/_posts/2016-12-12-difusion-visitantes-twitter-audioguia-nubart.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="293">
+          <first_editor relative-caret-position="795">
             <caret line="53" column="31" lean-forward="false" selection-start-line="53" selection-start-column="31" selection-end-line="53" selection-end-column="31" />
             <folding />
           </first_editor>
@@ -1200,8 +1207,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-01-03-audioruta-nubart-offline.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="54">
-            <caret line="65" column="91" lean-forward="true" selection-start-line="65" selection-start-column="91" selection-end-line="65" selection-end-column="91" />
+          <first_editor relative-caret-position="172">
+            <caret line="31" column="226" lean-forward="true" selection-start-line="31" selection-start-column="226" selection-end-line="31" selection-end-column="226" />
             <folding />
           </first_editor>
           <second_editor />
