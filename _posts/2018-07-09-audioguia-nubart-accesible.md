@@ -9,7 +9,7 @@ comments: true
 published: true
 title:  "Las audioguías Nubart son accesibles"
 description: "Nuestras audioguías son accesibles para personas ciegas, sordas o con dificultades de visión"
-slug: "audioquia-nubart-offline"
+slug: "audioquia-nubart-accesible"
 date:   2018-07-09
 banner_image: accesibility-sunderland-museum.jpg
 tags: [accesibilidad]
