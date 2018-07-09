@@ -46,9 +46,10 @@ No sólo las personas completamente ciegas, sino también las personas con mala 
 
 Al clicar en nuestro reproductor, éste se ilumina automáticamente en azul para que el visitante siempre sepa qué pista está escuchando: 
 
-<iframe src="https://player.vimeo.com/video/279029578" width="320" height="180" frameborder="40" allowfullscreen></iframe>{: .center-image }
+<iframe src="https://player.vimeo.com/video/279029578" width="320" height="180" frameborder="0" allowfullscreen></iframe>{: .center-image }
 
 {% vimeo 279029578 %}
+
 
 ### Posibilidad de incorporación de audiodescripciones
 A fin de crear una audioguía completamente adecuada para personas invidentes es preciso incorporar una pista con la audiodescripción del objeto de exposición. De este modo se ayuda a los ciegos a imaginar y reconstruir mentalmente el objeto antes de escuchar la explicación convencional que proporcione la audioguía. En Nubart podemos distinguir esta pista marcándola en otro color e incorporándola delante de la pista explicativa.
@@ -64,7 +65,7 @@ En el caso de optar por una signoguía, Nubart añadiría esta opción en el men
 
 * La producción de estos vídeos **incrementará considerablemente el coste** de la audioguía.
 
-* Debido al peso de los archivos de vídeo, las signoguías **no pueden precargarse en [nuestro modo offline]({{ site.baseurl }}{% post_url /posts/2018-01-03-audioruta-nubart-offline %}){:target="_blank"}**. Aunque si el museo dispone de Wifi en todas sus instalaciones o de una buena cobertura de datos, puedan funcionar perfectamente en *streaming*. 
+* Debido al peso de los archivos de vídeo, las signoguías **no pueden precargarse en [nuestro modo offline]({{ site.baseurl }}{% post_url /posts/2018-01-03-audioruta-nubart-offline %}){:target="_blank"}**. Aunque si el museo dispone de Wifi en todas sus instalaciones o de una buena cobertura de datos, pueden funcionar perfectamente en *streaming*. 
 
 ### Textos  
 En Nubart, se puede acceder a la transcripción del texto de la audioguía mediante un botón situado cerca de cada pista y que abre la ventana con el texto. Esta opción funciona perfectamente en [nuestro modo offline]({{ site.baseurl }}{% post_url /posts/2018-01-03-audioruta-nubart-offline %}){:target="_blank"}, así que resulta adecuada para museos situados en zonas con mala cobertura de datos o sin Wifi. Dado el considerable coste de producción de una signoguía multilingüe, la incorporación de los textos permitiría ampliar considerablemente la accesibilidad a coste muy bajo. 
