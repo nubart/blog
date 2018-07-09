@@ -46,8 +46,9 @@ No sólo las personas completamente ciegas, sino también las personas con mala 
 
 Al clicar en nuestro reproductor, éste se ilumina automáticamente en azul para que el visitante siempre sepa qué pista está escuchando: 
 
-<iframe src="https://player.vimeo.com/video/279029578" width="320" height="180" frameborder="0" allowfullscreen></iframe>{: .center-image }
+<iframe src="https://player.vimeo.com/video/279029578" width="320" height="180" frameborder="40" allowfullscreen></iframe>{: .center-image }
 
+{% vimeo 279029578 %}
 
 ### Posibilidad de incorporación de audiodescripciones
 A fin de crear una audioguía completamente adecuada para personas invidentes es preciso incorporar una pista con la audiodescripción del objeto de exposición. De este modo se ayuda a los ciegos a imaginar y reconstruir mentalmente el objeto antes de escuchar la explicación convencional que proporcione la audioguía. En Nubart podemos distinguir esta pista marcándola en otro color e incorporándola delante de la pista explicativa.
