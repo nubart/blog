@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4762e9d-642e-4b62-b649-6a8e3aef19a6" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/posts/accesibility-audioguides.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/posts/accesibility-sunderland-museum.jpg" afterPath="$PROJECT_DIR$/images/posts/accesibility-sunderland-museum.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2018-07-09-audioguia-nubart-accesible.md" afterPath="$PROJECT_DIR$/_posts/2018-07-09-audioguia-nubart-accesible.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,8 +20,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-07-09-audioguia-nubart-accesible.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="181">
-                <caret line="13" column="42" lean-forward="true" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+              <first_editor relative-caret-position="196">
+                <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -204,9 +206,9 @@
         <option value="$PROJECT_DIR$/_site/index.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/Gemfile" />
-        <option value="$PROJECT_DIR$/_posts/2018-07-09-audioguia-nubart-accesible.md" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/404.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-07-09-audioguia-nubart-accesible.md" />
       </list>
     </option>
   </component>
@@ -427,13 +429,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1501397378805</updated>
-    </task>
-    <task id="LOCAL-00009" summary="foto logo Nubart">
-      <created>1501401348524</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1501401348524</updated>
     </task>
     <task id="LOCAL-00010" summary="foto logo Nubart">
       <created>1501401461151</created>
@@ -771,7 +766,14 @@
       <option name="project" value="LOCAL" />
       <updated>1531145291743</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="Blog new pic">
+      <created>1531155516972</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1531155516973</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -810,7 +812,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="error enlace roto" />
     <MESSAGE value="nueva entrada" />
     <MESSAGE value="nuevo script" />
     <MESSAGE value="corrección link" />
@@ -835,7 +836,8 @@
     <MESSAGE value="nueva entrada accesibilidad 8" />
     <MESSAGE value="nueva entrada accesibilidad 9" />
     <MESSAGE value="Canonical URL" />
-    <option name="LAST_COMMIT_MESSAGE" value="Canonical URL" />
+    <MESSAGE value="Blog new pic" />
+    <option name="LAST_COMMIT_MESSAGE" value="Blog new pic" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1253,8 +1255,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-07-09-audioguia-nubart-accesible.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="181">
-            <caret line="13" column="42" lean-forward="true" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+          <first_editor relative-caret-position="196">
+            <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
             <folding />
           </first_editor>
           <second_editor />
