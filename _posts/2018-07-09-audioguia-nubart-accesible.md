@@ -42,7 +42,9 @@ Los códigos QR de las tarjetas Nubart aparecen impresos con un ligero relieve. 
 
 
 ### Reproductores de gran tamaño
-No sólo las personas completamente ciegas, sino también las personas con mala visión por motivos de edad o de salud también deben poder emplear adecuadamente nuestras audioguías. Por ello hemos optado por un reproductor digital sencillo y de gran tamaño, fácil de ver y con las funciones reducidas a lo más elemental: play, pausa, barra de avance y segundos de reproducción. Al clicar en nuestro reproductor, éste se ilumina automáticamente en azul para que el usuario siempre sepa qué pista está escuchando: 
+No sólo las personas completamente ciegas, sino también las personas con mala visión por motivos de edad o de salud también deben poder emplear adecuadamente nuestras audioguías. Por ello hemos optado por un reproductor digital sencillo y de gran tamaño, fácil de ver y con las funciones reducidas a lo más elemental: *play*, pausa, barra de avance y segundos de reproducción. 
+
+Al clicar en nuestro reproductor, éste se ilumina automáticamente en azul para que el visitante siempre sepa qué pista está escuchando: 
 
 <iframe src="https://player.vimeo.com/video/279029578" width="320" height="180" frameborder="0" allowfullscreen></iframe>{: .center-image }
 

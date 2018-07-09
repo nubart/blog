@@ -31,8 +31,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-07-09-audioguia-nubart-accesible.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="222">
-                <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+              <first_editor relative-caret-position="331">
+                <caret line="44" column="251" lean-forward="true" selection-start-line="44" selection-start-column="251" selection-end-line="44" selection-end-column="251" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -447,13 +447,6 @@
       <option name="presentableId" value="Default" />
       <updated>1501397378805</updated>
     </task>
-    <task id="LOCAL-00001" summary="Referencia libro López Molina">
-      <created>1501397734233</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1501397734233</updated>
-    </task>
     <task id="LOCAL-00002" summary="corrección">
       <created>1501398622076</created>
       <option name="number" value="00002" />
@@ -790,7 +783,14 @@
       <option name="project" value="LOCAL" />
       <updated>1531138674733</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="nueva entrada accesibilidad 6">
+      <created>1531138779209</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1531138779212</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -829,7 +829,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Post datos visitantes" />
     <MESSAGE value="corrección direccionameinto web" />
     <MESSAGE value="corrección palabra en post" />
     <MESSAGE value="Mejora 404" />
@@ -854,7 +853,8 @@
     <MESSAGE value="nueva entrada accesibilidad 3" />
     <MESSAGE value="nueva entrada accesibilidad 4" />
     <MESSAGE value="nueva entrada accesibilidad 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="nueva entrada accesibilidad 5" />
+    <MESSAGE value="nueva entrada accesibilidad 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="nueva entrada accesibilidad 6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1263,8 +1263,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-07-09-audioguia-nubart-accesible.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="222">
-            <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <first_editor relative-caret-position="331">
+            <caret line="44" column="251" lean-forward="true" selection-start-line="44" selection-start-column="251" selection-end-line="44" selection-end-column="251" />
             <folding />
           </first_editor>
           <second_editor />
