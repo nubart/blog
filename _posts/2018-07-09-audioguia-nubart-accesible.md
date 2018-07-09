@@ -46,9 +46,7 @@ No sólo las personas completamente ciegas, sino también las personas con mala 
 
 Al clicar en nuestro reproductor, éste se ilumina automáticamente en azul para que el visitante siempre sepa qué pista está escuchando: 
 
-<iframe src="https://player.vimeo.com/video/279029578" width="320" height="180" frameborder="0" allowfullscreen></iframe>{: .center-image }
-
-{% vimeo 279029578 %}
+<iframe src="https://player.vimeo.com/video/279029578" width="160" height="90" frameborder="0" allowfullscreen></iframe>{: .center-image }
 
 
 ### Posibilidad de incorporación de audiodescripciones
