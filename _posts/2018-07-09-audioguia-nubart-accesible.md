@@ -16,15 +16,19 @@ tags: [accesibilidad]
 ---
 
 Los museos se esfuerzan por ser lugares de los que puedan disfrutar todos los ciudadanos, incluidos quienes sufran de alguna discapacidad. 
-Esta preocupación viene de lejos: hacia 1913, John Alfred Charlton Deas, antiguo conservador del Sunderland Museum, organizó varias sesiones de palpación de objetos para ciegos, primero ofreciendo una invitación a los niños de la Sunderland Council Blind School para que vieran algunas de las colecciones del Sunderland Museum.
-
-![Niños palpando una morsa en el Sunderland Museum]({{site.baseurl}}/images/posts/accesibility-sunderland-museum.jpg){: .center-image }
-*Tyne & Wear Archives & Museums*
-
 Por eso en Nubart hemos concebido nuestras audioguías en forma de tarjeta con un diseño inclusivo o universal para que los museos también puedan emplearlas para informar sobre sus exposiciones a las personas con discapacidades visuales o auditivas. Te contamos cómo.  
 
 <!--more-->
 #Accesibilidad de las audioguías para personas invidentes o con mala visión
+
+La preocupación por facilitar la visita a los museos a las personas ciegas viene de lejos: ya en 1913 John Alfred Charlton Deas, antiguo conservador del Sunderland Museum, invitó a los niños de la Sunderland Council Blind School para que *vieran* algunas de las colecciones del Sunderland Museum a través de las manos. El éxito de la iniciativa lo animó a extender este tipo de visitas también a los invidentes adultos.
+
+<div id="container">
+    <img /images/posts/accesibility-sunderland-museum.jpg>
+    *Tyne & Wear Archives & Museums*
+</div>
+
+![Niños palpando una morsa en el Sunderland Museum]({{site.baseurl}}/images/posts/accesibility-sunderland-museum.jpg){: .center-image }
 
 En un museo la accesibilidad para las personas invidentes no depende únicamente de las audioguías, pero posiblemente éstas sean uno de los instrumentos más importantes para dar valor a su visita, ya que emplean el oído como sentido principal. Si el museo no dispone de letreros en braile o de paneles táctiles que reproduzcan el objeto y lo hagan *visible* con la yema de los dedos, la audioguía puede llegar a ser para los invidentes la única fuente de información sobre la obra expuesta. 
 
