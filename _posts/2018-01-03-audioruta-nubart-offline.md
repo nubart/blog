@@ -45,7 +45,9 @@ En Nubart nos quedamos helados. Nuestras tarjetas funcionan en *streaming*, de m
 
 Pero ¿es posible que en pleno siglo XXI y en plena UE queden todavía zonas sin cobertura de datos? ¿Qué sucede si un escalador se accidenta y necesita el móvil para pedir ayuda? No nos lo podíamos creer, pero [Internet le dio la razón a Noelia.](https://www.lacomarca.net/dga-atendera-las-quejas-por-la-falta-de-cobertura-en-el-maestrazgo/){:target="_blank"}  ¿Recuerdan el dicho de que "Teruel no existe"? 
 
-Pues bien, el caso es que teníamos un serio problema. Todos habíamos empleado muchas horas e ilusión en este proyecto. Y ahora, o le devolvíamos el dinero a nuestro cliente y aprovechábamos las tarjetas para hacer un mosaico decorativo en el despacho o para fabricar un salvaplatos, o buscábamos una solución técnica. 
+Pues bien, el caso es que teníamos un serio problema. Todos habíamos empleado muchas horas e ilusión en este proyecto. Y ahora, o le devolvíamos el dinero a nuestro cliente y aprovechábamos las tarjetas para hacer un mosaico decorativo en el despacho, o buscábamos una solución técnica. 
+
+Nos decidimos por la segunda opción.
 
 ## El problema de la descarga offline de contenidos sin instalar una app
 
