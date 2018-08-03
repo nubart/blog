@@ -72,7 +72,7 @@ Tanto los datos que Nubart registra de forma automática como los indicados volu
 
  Es posible que, como museo, no sientas la necesidad de ofrecer una audioguía a tus visitantes. Pero... ¿no te gustaría saber más sobre ellos? En ese caso, haz como las compañías aéreas y ¡saluda a tus visitantes con una audioguía Nubart en la entrada de tu *avión*!
 
-#### En Nubart producimos audioguías innovadoras y asequibles.
+#### <font color="blue">En Nubart producimos audioguías innovadoras y asequibles.</font>
 
 <form action="../../../../../es">
     <input type="submit" value="Visita nuestra web" />

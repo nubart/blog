@@ -72,7 +72,7 @@ En Nubart, se puede acceder a la transcripción del texto de la audioguía media
 
 Sea cual sea tu situación, pregúntanos. En Nubart analizaremos tu caso y te haremos un presupuesto a medida de tus necesidades. 
 
-#### En Nubart producimos audioguías innovadoras y asequibles.
+#### <font color="blue">En Nubart producimos audioguías innovadoras y asequibles.</font>
 
 <form action="../../../../../es">
     <input type="submit" value="Visita nuestra web" />

@@ -61,8 +61,8 @@ En definitiva: el 99 % de las empresas de software a las que consultáramos nos 
 
 Suerte que en Nubart disponemos de un arma secreta llamada Simon Effing, nuestro cofundador y CTO. Mediante un uso inteligente de Javascript de última generación, Simon encontró el modo de hacer que la descarga del contenido completo de la audioruta se produzca siempre desde cualquier navegador y se almacene de forma pasajera en la memoria temporal del móvil (también llamada 'memoria de acceso aleatorio' o 'memoria RAM'). Tal como nosotros queríamos, la información contenida en la RAM no consume memoria, ya que desaparece al cerrar la página del navegador o al apagarse el dispositivo. No obstante, eso no significa que se pierda para siempre: el usuario siempre podrá recuperarla al emplear de nuevo el código único de su tarjeta Nubart. Y todo esto de forma inmediata y fácil, sin descargar ninguna app. 
 
-En este vídeo puedes ver todo el proceso en tiempo real:
-<iframe src="https://player.vimeo.com/video/250765199" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>{: .center-image }
+En esta grabación improvisada de la audioguía que produjimos para nuestro cliente alemán Steinzeitpark Dithmarschen puedes ver el proceso en tiempo real:
+<iframe src="https://player.vimeo.com/video/282904192" width="640" height="360" frameborder="0" allowfullscreen></iframe>{: .center-image }
 Como ves, el proceso para acceder a nuestras audiorutas offline es tan fácil para nuestros usuarios como el de cualquier otra audioguía Nubart en streaming convencional. Tan solo hay que esperar un poquito más a que se produzca la carga del contenido.
 
 Además de la urgencia de resolver el problema de Noelia, vimos que la modalidad de uso offline también podría beneficiar a otros clientes, como los numerosos museos que solo disponen de Wifi en la zona de recepción, pero no en las salas de exposiciones. También solventaba un problema a los turistas extracomunitarios que no desean pagar *roaming* mientras utilizan la audioguía, ya que pueden descargar el contenido con el wifi gratuito del punto de venta o del hotel.
@@ -70,7 +70,7 @@ Además de la urgencia de resolver el problema de Noelia, vimos que la modalidad
 Entretanto hemos ampliado este desarrollo y ahora ofrecemos una solución híbrida que permite poner en modo offline únicamente las pistas situadas en lugares de mala conectividad. Así mejoramos la rapidez de carga y la usabilidad. 
 
 
-#### En Nubart producimos audioguías innovadoras y asequibles.
+#### <font color="blue">En Nubart producimos audioguías innovadoras y asequibles.</font>
 
 <form action="../../../../../es">
     <input type="submit" value="Visita nuestra web" />

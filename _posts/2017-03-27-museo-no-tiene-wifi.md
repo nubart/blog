@@ -41,7 +41,7 @@ También nos aseguraremos de que la intensidad de la señal sea la adecuada para
 
 ¿Te interesa? Pues [envíanos un email](mailto:info@nubart.eu) y lo hablamos. 
 
-#### En Nubart producimos audioguías innovadoras y asequibles.
+#### <font color="blue">En Nubart producimos audioguías innovadoras y asequibles.</font>
 
 <form action="../../../../../es">
     <input type="submit" value="Visita nuestra web" />
