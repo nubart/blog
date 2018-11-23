@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="d4762e9d-642e-4b62-b649-6a8e3aef19a6" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-12-08-como-obtener-datos-visitantes-museo.md" afterPath="$PROJECT_DIR$/_posts/2017-12-08-como-obtener-datos-visitantes-museo.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2017/12/08/como-obtener-datos-visitantes-museo/index.html" afterPath="$PROJECT_DIR$/_site/2017/12/08/como-obtener-datos-visitantes-museo/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/blog/page2/index.html" afterPath="$PROJECT_DIR$/_site/blog/page2/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -45,8 +45,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-01-03-audioruta-nubart-offline.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="191">
-                <caret line="67" column="170" lean-forward="false" selection-start-line="67" selection-start-column="169" selection-end-line="67" selection-end-column="170" />
+              <first_editor relative-caret-position="193">
+                <caret line="67" column="335" lean-forward="false" selection-start-line="67" selection-start-column="332" selection-end-line="67" selection-end-column="335" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -140,7 +140,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>by</find>
       <find>site-description</find>
       <find>woman</find>
       <find>typing</find>
@@ -170,6 +169,7 @@
       <find>author</find>
       <find>author-website</find>
       <find>linked</find>
+      <find>solo digit</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -275,10 +275,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -314,13 +310,7 @@
             <path>
               <item name="nubart-blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="nubart-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nubart-blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nubart-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="posts" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="nubart-blog" type="b2602c69:ProjectViewProjectNode" />
@@ -331,6 +321,10 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -452,13 +446,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1501397378805</updated>
-    </task>
-    <task id="LOCAL-00018" summary="cambio foto">
-      <created>1501486266885</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1501486266885</updated>
     </task>
     <task id="LOCAL-00019" summary="Mejora texto">
       <created>1501486714170</created>
@@ -796,7 +783,14 @@
       <option name="project" value="LOCAL" />
       <updated>1533289030716</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="solo dig fuera">
+      <created>1536068961213</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1536068961214</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -814,7 +808,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31333333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31333333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32767403" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -834,7 +828,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="link to website" />
     <MESSAGE value="remove autoplay" />
     <MESSAGE value="video vimeo" />
     <MESSAGE value="enlace web" />
@@ -859,7 +852,8 @@
     <MESSAGE value="images corr" />
     <MESSAGE value="linkedin" />
     <MESSAGE value="nuevo video offline" />
-    <option name="LAST_COMMIT_MESSAGE" value="nuevo video offline" />
+    <MESSAGE value="solo dig fuera" />
+    <option name="LAST_COMMIT_MESSAGE" value="solo dig fuera" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1112,7 +1106,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5490">
           <caret line="366" column="33" lean-forward="false" selection-start-line="366" selection-start-column="33" selection-end-line="366" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1120,7 +1113,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3600">
           <caret line="240" column="33" lean-forward="false" selection-start-line="240" selection-start-column="33" selection-end-line="240" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1128,7 +1120,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3735">
           <caret line="249" column="33" lean-forward="false" selection-start-line="249" selection-start-column="33" selection-end-line="249" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1144,9 +1135,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5955">
           <caret line="397" column="33" lean-forward="false" selection-start-line="397" selection-start-column="33" selection-end-line="397" selection-end-column="33" />
-          <folding>
-            <marker date="1532777554235" expanded="true" signature="20894:21591" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1154,7 +1143,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5460">
           <caret line="364" column="33" lean-forward="false" selection-start-line="364" selection-start-column="33" selection-end-line="364" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1258,8 +1246,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-01-03-audioruta-nubart-offline.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="191">
-            <caret line="67" column="170" lean-forward="false" selection-start-line="67" selection-start-column="169" selection-end-line="67" selection-end-column="170" />
+          <first_editor relative-caret-position="193">
+            <caret line="67" column="335" lean-forward="false" selection-start-line="67" selection-start-column="332" selection-end-line="67" selection-end-column="335" />
             <folding />
           </first_editor>
           <second_editor />
