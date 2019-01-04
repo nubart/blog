@@ -66,16 +66,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="default.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layouts/default.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="40" lean-forward="false" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="sidebar.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/sidebar.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -102,8 +92,18 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_site/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="458">
-              <caret line="94" column="33" lean-forward="false" selection-start-line="94" selection-start-column="33" selection-end-line="94" selection-end-column="33" />
+            <state relative-caret-position="149">
+              <caret line="83" column="14" lean-forward="true" selection-start-line="83" selection-start-column="14" selection-end-line="83" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="185">
+              <caret line="44" column="12" lean-forward="false" selection-start-line="44" selection-start-column="7" selection-end-line="44" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -139,7 +139,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>woman</find>
       <find>typing</find>
       <find>href=&quot;http://www.nubart.eu/&quot;&gt;Web</find>
       <find>href=&quot;http://www.nubart.eu/</find>
@@ -153,7 +152,6 @@
       <find>href=&quot;http://www.nubart.eu</find>
       <find>button</find>
       <find>onclick=&quot;http://www.nubart.eu/es/&quot;</find>
-      <find>image</find>
       <find>&lt;/head&gt;</find>
       <find>ciego</find>
       <find>invidente</find>
@@ -169,6 +167,8 @@
       <find>solo digit</find>
       <find>page2</find>
       <find>head</find>
+      <find>twitter</find>
+      <find>image</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -450,13 +450,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1501397378805</updated>
-    </task>
-    <task id="LOCAL-00022" summary="Post datos visitantes">
-      <created>1512736602281</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1512736602281</updated>
     </task>
     <task id="LOCAL-00023" summary="corrección direccionameinto web">
       <created>1513187576005</created>
@@ -794,7 +787,14 @@
       <option name="project" value="LOCAL" />
       <updated>1546601708359</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="Twitter card">
+      <created>1546603136691</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1546603136691</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1065,13 +1065,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="31" lean-forward="false" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_site/2016/12/12/difusion-visitantes-twitter-audioguia-nubart/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
@@ -1251,10 +1244,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="44" column="12" lean-forward="false" selection-start-line="44" selection-start-column="7" selection-end-line="44" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_site/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
-          <caret line="94" column="33" lean-forward="false" selection-start-line="94" selection-start-column="33" selection-end-line="94" selection-end-column="33" />
+        <state relative-caret-position="149">
+          <caret line="83" column="14" lean-forward="true" selection-start-line="83" selection-start-column="14" selection-end-line="83" selection-end-column="14" />
           <folding />
         </state>
       </provider>
