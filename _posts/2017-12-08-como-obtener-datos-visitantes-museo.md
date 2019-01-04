@@ -8,7 +8,7 @@ layout: post
 comments: true
 published: true
 title:  "Cómo obtener datos sobre los visitantes de tu museo"
-description: "Antes de interpretar los datos sobre los visitantes de tu useo necesitas obtenerlos. Te explicamos cómo"
+description: "Antes de interpretar los datos sobre los visitantes de tu museo necesitas obtenerlos. Te explicamos cómo"
 slug: "como-obtener-datos-visitantes-museo"
 date:   2017-12-08
 banner_image: nubart-como-herramienta-obtener-datos-museo.jpg
