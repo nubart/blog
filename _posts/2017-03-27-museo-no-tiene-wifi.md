@@ -41,9 +41,11 @@ También nos aseguraremos de que la intensidad de la señal sea la adecuada para
 
 ¿Te interesa? Pues [envíanos un email](mailto:info@nubart.eu) y lo hablamos. 
 
-#### <font color="blue">En Nubart producimos audioguías innovadoras y asequibles.</font>
+#### <font color="blue">En Nubart producimos innovadoras tarjetas-audioguía:</font>
+
+![Audioguía en forma de tarjeta Nubart]({{site.baseurl}}/images/posts/mosaico-proceso-min){: .center-image }
 
 <form action="../../../../../es">
-    <input type="submit" value="Solicita una muestra en nuestra web" />
+    <input type="submit" value="Solicita una muestra aquí" />
 </form>
 

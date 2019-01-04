@@ -70,8 +70,10 @@ Además de la urgencia de resolver el problema de Noelia, vimos que la modalidad
 Entretanto hemos ampliado este desarrollo y ahora ofrecemos una solución híbrida que permite poner en modo offline únicamente las pistas situadas en lugares de mala conectividad. Así mejoramos la rapidez de carga y la usabilidad. 
 
 
-#### <font color="blue">En Nubart producimos audioguías innovadoras y asequibles.</font>
+#### <font color="blue">En Nubart producimos innovadoras tarjetas-audioguía:</font>
+
+![Audioguía en forma de tarjeta Nubart]({{site.baseurl}}/images/posts/mosaico-proceso-min){: .center-image }
 
 <form action="../../../../../es">
-    <input type="submit" value="Solicita una muestra en nuestra web" />
+    <input type="submit" value="Solicita una muestra aquí" />
 </form>

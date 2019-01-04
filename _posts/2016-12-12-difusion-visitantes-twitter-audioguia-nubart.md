@@ -49,8 +49,10 @@ El botón de "tuitea esto" junto a un contenido no es una invención nuestra, pe
 
 Y el caso es que ¡funciona! Las pruebas efectuadas hasta el momento nos demuestran que es una funcionalidad bien recibida y utilizada por los visitantes, de modo que seguiremos innovando en esta dirección.
 
-#### <font color="blue">En Nubart producimos audioguías innovadoras y asequibles.</font>
+#### <font color="blue">En Nubart producimos innovadoras tarjetas-audioguía:</font>
+
+![Audioguía en forma de tarjeta Nubart]({{site.baseurl}}/images/posts/mosaico-proceso-min){: .center-image }
 
 <form action="../../../../../es">
-    <input type="submit" value="Solicita una muestra en nuestra web" />
+    <input type="submit" value="Solicita una muestra aquí" />
 </form>

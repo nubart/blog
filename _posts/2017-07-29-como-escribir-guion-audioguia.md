@@ -76,8 +76,10 @@ Si quieres profundizar más, te recomendamos [*Cómo escribir audioguías*](http
 
 ¿Estás en desacuerdo con algunos de estos puntos? ¿Te apetece añadir algo más? ¡Déjanos un comentario!
 
-#### <font color="blue">En Nubart producimos audioguías innovadoras y asequibles.</font>
+#### <font color="blue">En Nubart producimos innovadoras tarjetas-audioguía:</font>
+
+![Audioguía en forma de tarjeta Nubart]({{site.baseurl}}/images/posts/mosaico-proceso-min){: .center-image }
 
 <form action="../../../../../es">
-    <input type="submit" value="Solicita una muestra en nuestra web" />
+    <input type="submit" value="Solicita una muestra aquí" />
 </form>

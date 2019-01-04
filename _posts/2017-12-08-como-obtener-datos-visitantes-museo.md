@@ -72,8 +72,10 @@ Tanto los datos que Nubart registra de forma automática como los indicados volu
 
  Es posible que, como museo, no sientas la necesidad de ofrecer una audioguía a tus visitantes. Pero... ¿no te gustaría saber más sobre ellos? En ese caso, haz como las compañías aéreas y ¡saluda a tus visitantes con una audioguía Nubart en la entrada de tu *avión*!
 
-#### <font color="blue">En Nubart producimos audioguías innovadoras y asequibles.</font>
-
-<form action="../../../../../es">
-    <input type="submit" value="Solicita una muestra en nuestra web" />
-</form>
+##### <font color="blue">En Nubart producimos innovadoras tarjetas-audioguía:</font>
+ 
+ ![Audioguía en forma de tarjeta Nubart]({{site.baseurl}}/images/posts/mosaico-proceso-min){: .center-image }
+ 
+ <form action="../../../../../es">
+     <input type="submit" value="Solicita una muestra aquí" />
+ </form>
