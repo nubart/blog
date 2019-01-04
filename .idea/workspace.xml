@@ -3,13 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d4762e9d-642e-4b62-b649-6a8e3aef19a6" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-12-12-difusion-visitantes-twitter-audioguia-nubart.md" afterPath="$PROJECT_DIR$/_posts/2016-12-12-difusion-visitantes-twitter-audioguia-nubart.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-03-15-audioguia-interactiva-museo-sin-wifi.md" afterPath="$PROJECT_DIR$/_posts/2017-03-15-audioguia-interactiva-museo-sin-wifi.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-03-27-museo-no-tiene-wifi.md" afterPath="$PROJECT_DIR$/_posts/2017-03-27-museo-no-tiene-wifi.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-07-29-como-escribir-guion-audioguia.md" afterPath="$PROJECT_DIR$/_posts/2017-07-29-como-escribir-guion-audioguia.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-12-08-como-obtener-datos-visitantes-museo.md" afterPath="$PROJECT_DIR$/_posts/2017-12-08-como-obtener-datos-visitantes-museo.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2018-01-03-audioruta-nubart-offline.md" afterPath="$PROJECT_DIR$/_posts/2018-01-03-audioruta-nubart-offline.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2018-07-09-audioguia-nubart-accesible.md" afterPath="$PROJECT_DIR$/_posts/2018-07-09-audioguia-nubart-accesible.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -72,16 +65,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="page.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layouts/page.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="default.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/default.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -102,15 +85,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2016-12-12-difusion-visitantes-twitter-audioguia-nubart.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2016-12-12-difusion-visitantes-twitter-audioguia-nubart.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2016-12-12-difusion-visitantes-twitter-audioguia-nubart.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="430">
+              <first_editor relative-caret-position="518">
                 <caret line="54" column="67" lean-forward="false" selection-start-line="54" selection-start-column="67" selection-end-line="54" selection-end-column="67" />
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_site/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="79" column="50" lean-forward="false" selection-start-line="79" selection-start-column="46" selection-end-line="79" selection-end-column="50" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -161,7 +154,6 @@
       <find>onclick=&quot;http://www.nubart.eu/es/&quot;</find>
       <find>image</find>
       <find>&lt;/head&gt;</find>
-      <find>head</find>
       <find>ciego</find>
       <find>invidente</find>
       <find>discapac</find>
@@ -175,6 +167,7 @@
       <find>linked</find>
       <find>solo digit</find>
       <find>page2</find>
+      <find>head</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -217,7 +210,6 @@
         <option value="$PROJECT_DIR$/_site/404.html" />
         <option value="$PROJECT_DIR$/_site/about/index.html" />
         <option value="$PROJECT_DIR$/_site/blog/page2/index.html" />
-        <option value="$PROJECT_DIR$/_site/index.html" />
         <option value="$PROJECT_DIR$/_site/tags/index.html" />
         <option value="$PROJECT_DIR$/_includes/sidebar.html" />
         <option value="$PROJECT_DIR$/_posts/2018-01-03-audioruta-nubart-offline.md" />
@@ -227,6 +219,7 @@
         <option value="$PROJECT_DIR$/_posts/2017-03-27-museo-no-tiene-wifi.md" />
         <option value="$PROJECT_DIR$/_posts/2017-03-15-audioguia-interactiva-museo-sin-wifi.md" />
         <option value="$PROJECT_DIR$/_posts/2016-12-12-difusion-visitantes-twitter-audioguia-nubart.md" />
+        <option value="$PROJECT_DIR$/_site/index.html" />
       </list>
     </option>
   </component>
@@ -241,7 +234,7 @@
     <option name="x" value="70" />
     <option name="y" value="23" />
     <option name="width" value="1242" />
-    <option name="height" value="684" />
+    <option name="height" value="924" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -308,6 +301,11 @@
               <item name="nubart-blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="nubart-blog" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nubart-blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nubart-blog" type="462c0819:PsiDirectoryNode" />
+              <item name="_site" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="nubart-blog" type="b2602c69:ProjectViewProjectNode" />
@@ -451,13 +449,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1501397378805</updated>
-    </task>
-    <task id="LOCAL-00020" summary="Mejora texto 2">
-      <created>1501486823301</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1501486823301</updated>
     </task>
     <task id="LOCAL-00021" summary="Corrección enlace a web">
       <created>1507289806703</created>
@@ -795,11 +786,18 @@
       <option name="project" value="LOCAL" />
       <updated>1542992832041</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="error page2">
+      <created>1546600934444</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1546600934444</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="70" y="23" width="1242" height="684" extended-state="0" />
+    <frame x="70" y="23" width="1242" height="924" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -810,11 +808,12 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23401688" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31333333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32767403" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -827,7 +826,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3279483" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32767403" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -1133,13 +1131,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3960">
           <caret line="264" column="33" lean-forward="false" selection-start-line="264" selection-start-column="33" selection-end-line="264" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5955">
-          <caret line="397" column="33" lean-forward="false" selection-start-line="397" selection-start-column="33" selection-end-line="397" selection-end-column="33" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1250,11 +1242,19 @@
     <entry file="file://$PROJECT_DIR$/_posts/2016-12-12-difusion-visitantes-twitter-audioguia-nubart.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="430">
+          <first_editor relative-caret-position="518">
             <caret line="54" column="67" lean-forward="false" selection-start-line="54" selection-start-column="67" selection-end-line="54" selection-end-column="67" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="79" column="50" lean-forward="false" selection-start-line="79" selection-start-column="46" selection-end-line="79" selection-end-column="50" />
+          <folding />
         </state>
       </provider>
     </entry>
