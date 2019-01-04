@@ -8,7 +8,7 @@ layout: post
 comments: true
 published: true
 title:  "Cómo hacer que los visitantes difundan tu exposición en Twitter"
-description: "Las recomendaciones en redes sociales son fundamentales para que un museo atraiga visitantes. El botón de Twitter de las audioguías Nubart facilita esta acción."
+description: "Que alguien recomiende tu exposición en redes sociales es estupendo para atraer visitas a tu museo. ¿Por qué no emplear para ello una audioguía?"
 slug: "difusion-visitantes-twitter-audioguia-nubart"
 date:   2016-12-12
 banner_image: blog-tuitea-esto.jpg
