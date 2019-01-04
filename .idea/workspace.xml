@@ -54,8 +54,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2016-12-12-difusion-visitantes-twitter-audioguia-nubart.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="15">
-                <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="11" />
+              <first_editor relative-caret-position="210">
+                <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="34" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -66,8 +66,8 @@
       <file leaf-file-name="default.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_layouts/default.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="87" column="61" lean-forward="false" selection-start-line="87" selection-start-column="61" selection-end-line="87" selection-end-column="61" />
+            <state relative-caret-position="471">
+              <caret line="89" column="0" lean-forward="true" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -133,7 +133,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>href=&quot;http://www.nubart.eu/&quot;&gt;Web</find>
       <find>href=&quot;http://www.nubart.eu/</find>
       <find>web</find>
       <find>museo-no-tiene-wifi/info@nubart.eu</find>
@@ -163,6 +162,7 @@
       <find>head</find>
       <find>twitter</find>
       <find>author_name</find>
+      <find>blog-tuitea-esto.jpg</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -315,6 +315,12 @@
             <path>
               <item name="nubart-blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="nubart-blog" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="posts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nubart-blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nubart-blog" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -449,13 +455,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1501397378805</updated>
-    </task>
-    <task id="LOCAL-00028" summary="error enlace roto">
-      <created>1514213081076</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1514213081076</updated>
     </task>
     <task id="LOCAL-00029" summary="nueva entrada">
       <created>1514998521538</created>
@@ -793,7 +792,14 @@
       <option name="project" value="LOCAL" />
       <updated>1546607330001</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="Twitter card">
+      <created>1546607581463</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1546607581463</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1244,8 +1250,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2016-12-12-difusion-visitantes-twitter-audioguia-nubart.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="15">
-            <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="11" />
+          <first_editor relative-caret-position="210">
+            <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="34" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1254,8 +1260,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="87" column="61" lean-forward="false" selection-start-line="87" selection-start-column="61" selection-end-line="87" selection-end-column="61" />
+        <state relative-caret-position="471">
+          <caret line="89" column="0" lean-forward="true" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
           <folding />
         </state>
       </provider>
