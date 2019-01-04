@@ -44,6 +44,6 @@ También nos aseguraremos de que la intensidad de la señal sea la adecuada para
 #### <font color="blue">En Nubart producimos audioguías innovadoras y asequibles.</font>
 
 <form action="../../../../../es">
-    <input type="submit" value="Visita nuestra web" />
+    <input type="submit" value="Solicita una muestra en nuestra web" />
 </form>
 

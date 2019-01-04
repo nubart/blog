@@ -52,5 +52,5 @@ Y el caso es que ¡funciona! Las pruebas efectuadas hasta el momento nos demuest
 #### <font color="blue">En Nubart producimos audioguías innovadoras y asequibles.</font>
 
 <form action="../../../../../es">
-    <input type="submit" value="Visita nuestra web" />
+    <input type="submit" value="Solicita una muestra en nuestra web" />
 </form>

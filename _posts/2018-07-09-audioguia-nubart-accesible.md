@@ -75,5 +75,5 @@ Sea cual sea tu situación, pregúntanos. En Nubart analizaremos tu caso y te ha
 #### <font color="blue">En Nubart producimos audioguías innovadoras y asequibles.</font>
 
 <form action="../../../../../es">
-    <input type="submit" value="Visita nuestra web" />
+    <input type="submit" value="Solicita una muestra en nuestra web" />
 </form>

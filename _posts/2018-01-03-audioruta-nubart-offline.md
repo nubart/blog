@@ -59,7 +59,7 @@ En definitiva: el 99 % de las empresas de software a las que consultáramos nos 
 
 ## Cómo funcionan nuestras audioguías o audiorutas en modo offline
 
-Suerte que en Nubart disponemos de un arma secreta llamada Simon Effing, nuestro cofundador y CTO. Mediante un uso inteligente de Javascript de última generación, Simon encontró el modo de hacer que la descarga del contenido completo de la audioruta se produzca siempre desde cualquier navegador y se almacene de forma pasajera en la memoria temporal del móvil (también llamada 'memoria de acceso aleatorio' o 'memoria RAM'). Tal como nosotros queríamos, la información contenida en la RAM no consume memoria, ya que desaparece al cerrar la página del navegador o al apagarse el dispositivo. No obstante, eso no significa que se pierda para siempre: el usuario siempre podrá recuperarla al emplear de nuevo el código único de su tarjeta Nubart. Y todo esto de forma inmediata y fácil, sin descargar ninguna app. 
+Nuestro CTO y cofundador Simon Effing encontró el modo de hacer que la descarga del contenido completo de la audioruta se produzca siempre desde cualquier navegador y se almacene de forma pasajera en la memoria temporal del móvil (la 'memoria RAM'). Tal como nosotros queríamos, la información contenida en la RAM no consume memoria, ya que desaparece al cerrar la página del navegador o al apagarse el dispositivo. No obstante, eso no significa que se pierda para siempre: el usuario siempre podrá recuperarla al emplear de nuevo el código único de su tarjeta Nubart. Y todo esto de forma inmediata y fácil, sin descargar ninguna app. 
 
 En esta grabación improvisada de la audioguía que produjimos para nuestro cliente alemán Steinzeitpark Dithmarschen puedes ver el proceso en tiempo real:
 <iframe src="https://player.vimeo.com/video/282904192" width="640" height="360" frameborder="0" allowfullscreen></iframe>{: .center-image }
@@ -73,5 +73,5 @@ Entretanto hemos ampliado este desarrollo y ahora ofrecemos una solución híbri
 #### <font color="blue">En Nubart producimos audioguías innovadoras y asequibles.</font>
 
 <form action="../../../../../es">
-    <input type="submit" value="Visita nuestra web" />
+    <input type="submit" value="Solicita una muestra en nuestra web" />
 </form>

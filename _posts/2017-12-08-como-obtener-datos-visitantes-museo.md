@@ -75,5 +75,5 @@ Tanto los datos que Nubart registra de forma automática como los indicados volu
 #### <font color="blue">En Nubart producimos audioguías innovadoras y asequibles.</font>
 
 <form action="../../../../../es">
-    <input type="submit" value="Visita nuestra web" />
+    <input type="submit" value="Solicita una muestra en nuestra web" />
 </form>
