@@ -74,7 +74,7 @@ Tanto los datos que Nubart registra de forma automática como los indicados volu
 
 ##### <font color="blue">En Nubart producimos innovadoras tarjetas-audioguía:</font>
  
- ![Audioguía en forma de tarjeta Nubart]({{site.baseurl}}/images/posts/mosaico-proceso-min){: .center-image }
+ ![Audioguía en forma de tarjeta Nubart]({{site.baseurl}}/images/posts/mosaico-proceso-min.jpg){: .center-image }
  
  <form action="../../../../../es">
      <input type="submit" value="Solicita una muestra aquí" />
