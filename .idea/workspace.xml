@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d4762e9d-642e-4b62-b649-6a8e3aef19a6" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -101,8 +102,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_site/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="79" column="50" lean-forward="false" selection-start-line="79" selection-start-column="46" selection-end-line="79" selection-end-column="50" />
+            <state relative-caret-position="458">
+              <caret line="94" column="33" lean-forward="false" selection-start-line="94" selection-start-column="33" selection-end-line="94" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -450,13 +451,6 @@
       <option name="presentableId" value="Default" />
       <updated>1501397378805</updated>
     </task>
-    <task id="LOCAL-00021" summary="Corrección enlace a web">
-      <created>1507289806703</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1507289806703</updated>
-    </task>
     <task id="LOCAL-00022" summary="Post datos visitantes">
       <created>1512736602281</created>
       <option name="number" value="00022" />
@@ -793,7 +787,14 @@
       <option name="project" value="LOCAL" />
       <updated>1546600934444</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="Twitter card">
+      <created>1546601708359</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1546601708359</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -832,7 +833,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="video vimeo" />
     <MESSAGE value="enlace web" />
     <MESSAGE value=" enlace web 2" />
     <MESSAGE value=" enlace web 3" />
@@ -857,7 +857,8 @@
     <MESSAGE value="nuevo video offline" />
     <MESSAGE value="solo dig fuera" />
     <MESSAGE value="error page2" />
-    <option name="LAST_COMMIT_MESSAGE" value="error page2" />
+    <MESSAGE value="Twitter card" />
+    <option name="LAST_COMMIT_MESSAGE" value="Twitter card" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1252,8 +1253,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_site/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="79" column="50" lean-forward="false" selection-start-line="79" selection-start-column="46" selection-end-line="79" selection-end-column="50" />
+        <state relative-caret-position="458">
+          <caret line="94" column="33" lean-forward="false" selection-start-line="94" selection-start-column="33" selection-end-line="94" selection-end-column="33" />
           <folding />
         </state>
       </provider>
