@@ -7,7 +7,7 @@ author_url: https://www.linkedin.com/in/rosasalarose/
 layout: post
 comments: true
 published: true
-title:  "Las audiorutas Nubart también funcionan sin wifi y sin cobertura de datos"
+title:  "Nuestras audioguías pueden funcionar sin wifi y sin cobertura de datos"
 description: "Aquí te contamos qué nos llevó a desarrollar el modo offline en nuestra primera audioruta por paisajes sin cobertura"
 slug: "audioruta-nubart-offline"
 date:   2018-01-03
