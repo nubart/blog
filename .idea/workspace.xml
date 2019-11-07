@@ -61,8 +61,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-11-07-vender-audioguia-postal-museo.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="325">
-                <caret line="30" column="209" lean-forward="true" selection-start-line="30" selection-start-column="209" selection-end-line="30" selection-end-column="209" />
+              <first_editor relative-caret-position="400">
+                <caret line="32" column="122" lean-forward="false" selection-start-line="32" selection-start-column="122" selection-end-line="32" selection-end-column="122" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -403,13 +403,6 @@
       <option name="presentableId" value="Default" />
       <updated>1501397378805</updated>
     </task>
-    <task id="LOCAL-00039" summary="video vimeo">
-      <created>1515755111190</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1515755111190</updated>
-    </task>
     <task id="LOCAL-00040" summary="enlace web">
       <created>1516290124959</created>
       <option name="number" value="00040" />
@@ -746,7 +739,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573127851287</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="new post travelling audioguide 2">
+      <created>1573128590304</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1573128590304</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1179,8 +1179,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-11-07-vender-audioguia-postal-museo.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="325">
-            <caret line="30" column="209" lean-forward="true" selection-start-line="30" selection-start-column="209" selection-end-line="30" selection-end-column="209" />
+          <first_editor relative-caret-position="400">
+            <caret line="32" column="122" lean-forward="false" selection-start-line="32" selection-start-column="122" selection-end-line="32" selection-end-column="122" />
             <folding />
           </first_editor>
           <second_editor />
