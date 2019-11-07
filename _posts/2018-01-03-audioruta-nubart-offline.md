@@ -41,11 +41,11 @@ Ups...
 
 ¿Que no hay cobertura en El Maestrazgo? 
 
-En Nubart nos quedamos helados. Nuestras tarjetas funcionan en *streaming*, de modo que a falta de wifi la cobertura de datos, por mala que sea, es necesaria. El contenido estaba producido, la audioruta montada y las tarjetas impresas. Solo que sin datos o sin wifi resultaban inservibles. Se había producido un malentendido. 
+Nuestras tarjetas funcionan en *streaming*, de modo que a falta de wifi la cobertura de datos, por mala que sea, es necesaria. El contenido estaba producido, la audioruta montada y las tarjetas impresas. Solo que sin datos o sin wifi resultaban inservibles. Se había producido un malentendido. 
 
 Pero ¿es posible que en pleno siglo XXI y en plena UE queden todavía zonas sin cobertura de datos? ¿Qué sucede si un escalador se accidenta y necesita el móvil para pedir ayuda? No nos lo podíamos creer, pero [Internet le dio la razón a Noelia.](https://www.lacomarca.net/dga-atendera-las-quejas-por-la-falta-de-cobertura-en-el-maestrazgo/){:target="_blank"}  ¿Recuerdan el dicho de que "Teruel no existe"? 
 
-Pues bien, el caso es que teníamos un serio problema. Todos habíamos empleado muchas horas e ilusión en este proyecto. Y ahora, o le devolvíamos el dinero a nuestro cliente y aprovechábamos las tarjetas para hacer un mosaico decorativo en el despacho, o buscábamos una solución técnica. 
+El caso es que teníamos un serio problema. Todos habíamos invertido muchas horas e ilusión en este proyecto. Y ahora, o le devolvíamos el dinero a nuestro cliente y convertíamos las tarjetas en un mosaico decorativo en el despacho, o buscábamos una solución técnica. 
 
 Nos decidimos por la segunda opción.
 
