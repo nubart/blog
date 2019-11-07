@@ -12,7 +12,7 @@ description: "Con Nubart, las audioguías pueden venderse en la tienda del museo
 slug: "vender-audioguia-postal-museo"
 date:   2019-11-07
 banner_image: audioguia-que-viaja1.jpg
-tags: [audioguía] [museos] [postal]
+tags: [audioguía, museos, postal]
 ---
 
 Pagar por alquilar una audioguía y no tener tiempo más que para escuchar cuatro o cinco pistas durante la visita es una experienca enojosa. La presión de escuchar cuantas más pistas mejor para sacarle el máximo partido al gasto realizado genera estrés y empeora la experiencia del visitante. Lo ideal sería ofrecer al visitante una audioguía que se pueda llevar, como hacemos en Nubart. 
