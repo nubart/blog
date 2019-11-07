@@ -40,7 +40,7 @@ No resulta difícil imaginarse la situación:
 
 > Estimado Juan, acabo de llegar a Barcelona y he visto esta exposición maravillosa que no deberías perderte. Te envío la audioguía para que te formes un idea. 
 
-Al fin y al cabo, se envíen o no, las postales siguen siendo el producto más vendido en las tiendas de los museos. Así es como nació *La audioguía que viaja*. 
+Se envíen o no, las postales siguen siendo el producto más vendido en las tiendas de los museos. Así es como nació *La audioguía que viaja*. 
 
 Gracias al apoyo de nuestro cliente, el CCCB de Barcelona, hemos podido realizar este prototipo:
 
