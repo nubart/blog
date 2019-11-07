@@ -80,8 +80,8 @@
             <entry file="file://$PROJECT_DIR$/_posts/2019-11-07-vender-audioguia-postal-museo.md">
               <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
                 <state split_layout="SPLIT">
-                  <first_editor relative-caret-position="225">
-                    <caret line="14" column="26" lean-forward="false" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+                  <first_editor relative-caret-position="135">
+                    <caret line="9" column="45" lean-forward="true" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
                     <folding />
                   </first_editor>
                   <second_editor />
@@ -424,13 +424,6 @@
       <option name="presentableId" value="Default" />
       <updated>1501397378805</updated>
     </task>
-    <task id="LOCAL-00044" summary="corrección link Noelia">
-      <created>1528988499540</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1528988499540</updated>
-    </task>
     <task id="LOCAL-00045" summary="nueva entrada accesibilidad">
       <created>1531134139437</created>
       <option name="number" value="00045" />
@@ -767,7 +760,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573132850401</updated>
     </task>
-    <option name="localTasksCounter" value="93" />
+    <task id="LOCAL-00093" summary="new post travelling audioguide 3">
+      <created>1573133279756</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1573133279756</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1229,8 +1229,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-11-07-vender-audioguia-postal-museo.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="225">
-            <caret line="14" column="26" lean-forward="false" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+          <first_editor relative-caret-position="135">
+            <caret line="9" column="45" lean-forward="true" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
             <folding />
           </first_editor>
           <second_editor />
