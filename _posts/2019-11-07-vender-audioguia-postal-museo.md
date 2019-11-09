@@ -48,7 +48,7 @@ De esta reflexión nació *La audioguía que viaja*.
 
 Gracias al apoyo de nuestro cliente, el CCCB de Barcelona, hemos podido realizar este prototipo:
 
-![Prototipo de la postal-audioguía de Nubart]({{site.baseurl}}/images/posts/nubart-postcard-audioguide.jpg){: .center-image }
+![Prototipo de la postal-audioguía de Nubart]({{site.baseurl}}/images/posts/postal-audioguia-nubart.jpg){: .center-image }
  
  Gracias a [nuestro sistema modular](https://www.nubart.eu/es/audioguia-multimedia.html){:target="_blank"}, la tarjeta de esta postal contiene la exposición actual, pero también las exposiciones pasadas del CCCB cuyas audioguías produjimos en su momento. 
  
@@ -68,11 +68,11 @@ En cuanto a los visitantes, pueden compartir con sus amigos el entusiasmo por la
 
 El funcionamiento es muy sencillo. El destinatario de la postal solo tiene que rasgar la postal donde se le indica:
 
-![Rasgando la postal-audioguía de Nubart]({{site.baseurl}}/images/posts/nubart-postcard-audioguide-inside1.jpg){: .center-image }
+![Rasgando la postal-audioguía de Nubart]({{site.baseurl}}/images/posts/postal-audioguia-nubart-interior1.jpg){: .center-image }
 
 Al extraer la tarjeta, el destinatario podrá acceder a los códigos únicos y escuchar la audioguía multimedia.  
 
-![La postal-audioguía de Nubart una vez abierta]({{site.baseurl}}/images/posts/nubart-postcard-audioguide-inside2.jpg){: .center-image }
+![La postal-audioguía de Nubart una vez abierta]({{site.baseurl}}/images/posts/postal-audioguia-nubart-interior2.jpg){: .center-image }
 
 Gracias a nuestro sistema de protección, los contenidos de la postal no pueden compartirse fácilmente. Sin embargo, el propietario de la tarjeta sí podrá acceder al contenido siempre que desee. 
 
