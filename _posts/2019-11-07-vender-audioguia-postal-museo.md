@@ -15,7 +15,7 @@ banner_image: audioguia-que-viaja1.jpg
 tags: [audioguía, museos, postal]
 ---
 
-Pagar por alquilar una audioguía en un museo y no tener tiempo para escuchar más que cuatro o cinco pistas es una experienca enojosa. La presión sacarle el máximo partido al gasto realizado genera estrés, impide prestar la debida atención a lo que se escucha y empeora la experiencia del visitante. 
+Pagar por alquilar una audioguía en un museo y no tener tiempo para escuchar más que cuatro o cinco pistas es una experienca enojosa. La presión de sacarle el máximo partido al gasto realizado genera estrés, impide prestar la debida atención a lo que se escucha y empeora la experiencia del visitante. 
 
 Lo ideal sería ofrecer al visitante una audioguía que se pueda llevar, y eso es exactamente lo que desde hace tiempo hacemos en Nubart. 
 
