@@ -31,8 +31,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2020-03-23-aparatos-audioguia-higienicos-coronavirus.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="421">
-                <caret line="69" column="0" lean-forward="true" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+              <first_editor relative-caret-position="303">
+                <caret line="19" column="136" lean-forward="false" selection-start-line="19" selection-start-column="136" selection-end-line="19" selection-end-column="136" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -400,13 +400,6 @@
       <option name="presentableId" value="Default" />
       <updated>1501397378805</updated>
     </task>
-    <task id="LOCAL-00052" summary="nueva entrada accesibilidad 7">
-      <created>1531139937485</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1531139937485</updated>
-    </task>
     <task id="LOCAL-00053" summary="nueva entrada accesibilidad 8">
       <created>1531141078628</created>
       <option name="number" value="00053" />
@@ -743,7 +736,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584966304997</updated>
     </task>
-    <option name="localTasksCounter" value="101" />
+    <task id="LOCAL-00101" summary="corona">
+      <created>1584966967516</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1584966967516</updated>
+    </task>
+    <option name="localTasksCounter" value="102" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -810,7 +810,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="corrección link Noelia" />
     <MESSAGE value="nueva entrada accesibilidad" />
     <MESSAGE value="nueva entrada accesibilidad 2" />
     <MESSAGE value="nueva entrada accesibilidad 3" />
@@ -835,7 +834,8 @@
     <MESSAGE value="new post travelling audioguide" />
     <MESSAGE value="new post travelling audioguide 2" />
     <MESSAGE value="new post travelling audioguide 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="new post travelling audioguide 3" />
+    <MESSAGE value="corona" />
+    <option name="LAST_COMMIT_MESSAGE" value="corona" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1200,8 +1200,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2020-03-23-aparatos-audioguia-higienicos-coronavirus.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="421">
-            <caret line="69" column="0" lean-forward="true" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+          <first_editor relative-caret-position="303">
+            <caret line="19" column="136" lean-forward="false" selection-start-line="19" selection-start-column="136" selection-end-line="19" selection-end-column="136" />
             <folding />
           </first_editor>
           <second_editor />

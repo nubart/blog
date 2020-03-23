@@ -17,7 +17,7 @@ tags: [audioguía, higiene, coronavirus]
 
 Mientras escribo esto nadie sabe cuándo va a terminar la crisis del coronavirus. Pero hay algo en lo que todo el mundo está de acuerdo: nada volverá a ser como antes. Uno de los sectores más afectados es el de la cultura. Muy especialmente los lugares públicos que reúnen a gente procedente de todo el mundo en torno a su oferta cultural, como los museos, actualmente cerrados casi en su totalidad. 
 
-Tarde o temprano esta crisis sin precedentes habrá pasado y los museos abrirán de nuevo. Pero la sensibilidad del público ya nunca volverá a ser la misma. Algunos hábitos, como el contacto físico al saludarse, no se recuperarán de un día para otro. También el incremento de las medidas de higiene perdurarán, sobre todo si, como auguran algunos científicos, el Covid-19 permanecerá todavía algunos años con nosotros, reapareciendo en oleadas. 
+Tarde o temprano esta crisis sin precedentes habrá pasado y los museos abrirán de nuevo. Pero la sensibilidad del público habrá cambiado. Algunos hábitos, como el contacto físico al saludarse, no se recuperarán de un día para otro. También el incremento de las medidas de higiene perdurarán, sobre todo si, como auguran algunos científicos, el Covid-19 permanecerá todavía algunos años con nosotros, reapareciendo en oleadas. 
 
 Todo apunta a que pasará mucho tiempo antes de que alguien esté dispuesto a apoyar en el rostro un aparato de audioguía que previamente haya pasado de mano en mano. 
 <!--more-->
