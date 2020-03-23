@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4762e9d-642e-4b62-b649-6a8e3aef19a6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/posts/cleaning-audioguide-devices-museum.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/posts/woman-audioguide-face.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2020-03-23-aparatos-audioguia-higienicos-coronavirus.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2020-03-23-aparatos-audioguia-higienicos-coronavirus.md" afterPath="$PROJECT_DIR$/_posts/2020-03-23-aparatos-audioguia-higienicos-coronavirus.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -33,8 +31,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2020-03-23-aparatos-audioguia-higienicos-coronavirus.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="322">
-                <caret line="71" column="88" lean-forward="false" selection-start-line="71" selection-start-column="88" selection-end-line="71" selection-end-column="88" />
+              <first_editor relative-caret-position="421">
+                <caret line="69" column="0" lean-forward="true" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -402,13 +400,6 @@
       <option name="presentableId" value="Default" />
       <updated>1501397378805</updated>
     </task>
-    <task id="LOCAL-00051" summary="nueva entrada accesibilidad 6">
-      <created>1531139219638</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1531139219638</updated>
-    </task>
     <task id="LOCAL-00052" summary="nueva entrada accesibilidad 7">
       <created>1531139937485</created>
       <option name="number" value="00052" />
@@ -745,7 +736,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573319457861</updated>
     </task>
-    <option name="localTasksCounter" value="100" />
+    <task id="LOCAL-00100" summary="new post travelling audioguide 3">
+      <created>1584966304995</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1584966304997</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1202,8 +1200,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2020-03-23-aparatos-audioguia-higienicos-coronavirus.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="322">
-            <caret line="71" column="88" lean-forward="false" selection-start-line="71" selection-start-column="88" selection-end-line="71" selection-end-column="88" />
+          <first_editor relative-caret-position="421">
+            <caret line="69" column="0" lean-forward="true" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
