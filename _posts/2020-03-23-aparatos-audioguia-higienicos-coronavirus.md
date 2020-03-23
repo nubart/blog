@@ -56,7 +56,7 @@ En tiempos de coronavirus, es de suponer que para la limpieza de los aparatos de
 
 5. Lavarse las manos antes de proceder a la limpieza del siguiente aparato. 
 
-En este contexto de alarma social, la higienización de los aparatos de audioguía ha de ser tan intensiva que en la práctica posiblemente deje de ser viable. Ningún museo desea que se formen largas colas en los mostradores. En los museos de mayor tamaño, una higienización a fondo de los aparatos de audioguías pasaría probablemente por la contratación de personal extra. 
+En este contexto de alarma social, la higienización de los aparatos de audioguía ha de ser tan compleja que en la práctica posiblemente deje de ser viable. Ningún museo desea que se formen largas colas en los mostradores. En los museos de mayor tamaño, una higienización a fondo de los aparatos de audioguías pasaría probablemente por la contratación de personal extra. 
 
 
 # Soluciones alternativas
