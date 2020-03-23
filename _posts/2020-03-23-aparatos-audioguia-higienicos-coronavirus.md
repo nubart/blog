@@ -56,22 +56,22 @@ En tiempos de coronavirus, es de suponer que para la limpieza de los aparatos de
 
 5. Lavarse las manos antes de proceder a la limpieza del siguiente aparato. 
 
-En este contexto de alarma social, la higienización de los aparatos de audioguía en un museo ha de ser tan intensiva que posiblemente deje de ser viable en la práctica. Ningún museo desea que se formen largas colas en los mostradores. En los museos más grandes, una higienización a fondo de los aparatos de audioguías pasaría probablemente por la contratación de personal extra. 
+En este contexto de alarma social, la higienización de los aparatos de audioguía ha de ser tan intensiva que en la práctica posiblemente deje de ser viable. Ningún museo desea que se formen largas colas en los mostradores. En los museos de mayor tamaño, una higienización a fondo de los aparatos de audioguías pasaría probablemente por la contratación de personal extra. 
 
 
 # Soluciones alternativas
 
-Incluso aunque se encuentre muy pronto una vacuna o una cura infalible para el coronavirus, no parece que los aparatos tradicionales de audioguía tengan ya un futuro prometedor en los museos. Las dimensiones de esta primera crisis han sido tan globales y abrumadoras que ninguno de nosotros volverá a ser el mismo. Hemos aprendido que las pandemias globales, que hasta ahora solo habían entrado en nuestra conciencia a través de alguna mala película apocalíptica, son un peligro real, y que después del corona pueden aparecer otros virus igualmente letales. 
+Incluso aunque se encuentre muy pronto una vacuna o una cura infalible para el coronavirus, dadas estas circunstancias no parece que los aparatos tradicionales de audioguía tengan ya un futuro prometedor en los museos. Las dimensiones de esta primera crisis han sido globales y abrumadoras. Hemos aprendido que las pandemias globales, que hasta ahora solo conocíamos por alguna mala película apocalíptica de ciencia ficción, son un peligro real, y que después del corona pueden aparecer otros virus igualmente letales. 
 
-La única alternativa pasa por **audioguías que se vendan** en lugar de alquilarse o en soluciones digitales basadas en el Bring Your Own Device (BYOD). 
-
-
+La única alternativa pasa por **audioguías que el visitante se pueda llevar** en lugar de alquilarse o en soluciones digitales basadas en el Bring Your Own Device (BYOD). 
 
 
 
 
 
-#### <font color="blue">En Nubart producimos audioguías que el visitante se puede llevar:</font>
+
+
+#### <font color="blue">En Nubart producimos audioguías en forma de tarjetas físicas con códigos únicos:</font>
 
 ![Audioguía en forma de tarjeta Nubart]({{site.baseurl}}/images/posts/mosaico-proceso-min.jpg){: .center-image }
 
