@@ -7,7 +7,7 @@ author_url: https://www.linkedin.com/in/rosasalarose/
 layout: post
 comments: true
 published: true
-title:  "Los paratos de audioguía, el coronavirus y la higiene"
+title:  "Los aparatos de audioguía, el coronavirus y la higiene"
 description: "El coronavirus va a transformar muchos de nuestros hábitos. ¿Qué sucederá en los museos con los apratos de audioguía que pasan de mano en mano?"
 slug: "aparatos-audioguia-higienicos-coronavirus"
 date:   2020-03-23
