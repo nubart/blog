@@ -23,11 +23,11 @@ Todo apunta a que pasará mucho tiempo antes de que alguien esté dispuesto a ap
 <!--more-->
 # Los teléfonos móviles y la higiene
 
-Los smartphones siempre han sido una superficie con gran proliferación de bacterias y microorganismos. De hecho, según [un estudio de la Universidad de Arizona](https://cals.arizona.edu/news/why-your-cellphone-has-more-germs-toilet){:target="_blank"}, un celular tiene 10 veces más bacterias que la tapa de un inodoro, y nueve de cada diez contiene celulares contiene un microbio potencialmente propagador de alguna enfermedad. Es un aparato que tomamos en la mano incontables veces al día, después de haber tocado muchas otras superficies potencialmente infectadas, como barras de agarre del transporte público, timbres o picaportes. Empleamos el teléfono móvil con tanta frecuencua en el transcurso del día que aspirar a lavarse las manos antes y después de utilizarlo es un empeño inútil. 
+Los smartphones siempre han sido una superficie con gran proliferación de bacterias y microorganismos. De hecho, según [un estudio de la Universidad de Arizona](https://cals.arizona.edu/news/why-your-cellphone-has-more-germs-toilet){:target="_blank"}, un celular tiene 10 veces más bacterias que la tapa de un inodoro, y nueve de cada diez contiene celulares contiene un microbio potencialmente propagador de alguna enfermedad. Es un aparato que tomamos en la mano incontables veces al día, después de haber tocado muchas otras superficies potencialmente infectadas, como barras de agarre del transporte público, timbres o picaportes. Empleamos el teléfono móvil con tanta frecuencia que aspirar a lavarse las manos antes y después de utilizarlo es un empeño inútil. 
 
 No obstante, los teléfonos móviles son aparatos de uso individual. Una adecuada higiene de las manos y del aparato reduce el riesgo para su propietario. Los datos contenidos en un teléfono móvil son sensibles, por lo que no solemos perderlo de vista y raramente lo compartimos pasándolo a otras manos. 
 
-Pues bien, una audioguía en un museo es como un teléfono móvil que pasa de mano en mano muchas veces al día y cuyo uso obliga a acercarlo al rostro, ya sea directamente o a través de auriculares. 
+En cambio, **una audioguía en un museo es como un teléfono móvil que pasa de mano en mano muchas veces al día y cuyo uso obliga a acercarlo al rostro**, ya sea directamente o a través de auriculares. 
 
 ![Mujer sosteniendo una audioguía]({{site.baseurl}}/images/posts/woman-audioguide-face.jpg){: .center-image }
 
@@ -35,13 +35,13 @@ Precisamente las mucosas del rostro y la respiración son las principal vías de
 
 # La limpieza de las audioguías en un museo
 
-La higiene siempre ha sido un factor relevante al tratar de aparatos de audioguía en un museo. En los estudios de mercado que realizamos al lanzar Nubart nos sorprendió la cantidad de personas que afirmó no tomar nunca una audioguía en los museos por prevenciones higiénicas. Los mejores establecimientos son conscientes de ello e instruyen a sus empleados para que limpien las audioguías antes y después de cada uso. 
+La higiene siempre ha sido un factor relevante al tratar de aparatos de audioguía en un museo. En los estudios de mercado que realizamos al lanzar Nubart nos sorprendió la cantidad de personas que afirmó no tomar nunca una audioguía en los museos exclusivamente por razones de higiene. Los mejores establecimientos son conscientes de ello e instruyen a sus empleados para que limpien las audioguías antes y después de cada uso. 
 
 ![Empleada de un museo limpiando aparatos de audioguía]({{site.baseurl}}/images/posts/cleaning-audioguide-devices-museum.jpg){: .center-image }
 
 No obstante, los visitantes de un museo no siempre saben si esa limpieza se ha producido o no. Las prevenciones higiénicas siempre han afectado en un porcentaje nada desdeñable la tasa de aceptación de las audioguías y, en consecuencia, también al volumen de ingresos que el museo obtiene a través de su alquiler.
 
-Pero en tiempos de pandemias globales como el coronavirus, ya no estamos hablando de prevenciones higiénicas o de sensación subjetiva de repugnancia por parte de visitantes especialmente escrupulosos, sino de un auténtico riesgo sanitario. La mayoría de aparatos de audioguías tienen botones y recovecos que hacen difícil una higienización a fondo de los aparatos. Además, según científicos de la Universidad de Princeton [en un estudio publicado en *The New England Journal of Medicine*](https://www.nejm.org/doi/full/10.1056/NEJMc2004973?query=featured_home){:target="_blank"}, **el coronavirus resiste hasta tres días en superficies de plástico o de acero**, los dos materiales empleados con mayor frecuencia en la fabricación de aparatos de audioguías.
+Pero en tiempos de pandemias globales como el coronavirus, ya no estamos hablando de recelos o de sensación subjetiva de repugnancia por parte de visitantes especialmente escrupulosos, sino de un verdadero riesgo sanitario del que el museo es corresponsable. La mayoría de aparatos de audioguías tienen botones y recovecos que hacen difícil una higienización a fondo de los aparatos. Además, según científicos de la Universidad de Princeton [en un estudio publicado en *The New England Journal of Medicine*](https://www.nejm.org/doi/full/10.1056/NEJMc2004973?query=featured_home){:target="_blank"}, **el coronavirus resiste hasta tres días en superficies de plástico o de acero**, los dos materiales empleados con mayor frecuencia en la fabricación de aparatos de audioguías.
 
 En tiempos de coronavirus, es de suponer que para la limpieza de los aparatos de audioguía deban emplearse como mínimo los mismos criterios que se recomiendan para la limpieza de los teléfonos móviles de uso personal: 
 
