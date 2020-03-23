@@ -16,9 +16,8 @@ tags: [wifi, museos, PLC, conexión de datos]
 ---
 
 El wifi ha dejado de ser un elemento accesorio en los museos. El acceso gratuito a Wifi en las salas de exposición permite que los visitantes extranjeros compartan su experiencia en las redes sociales o hagan consultas a Google sin tener que pagar roaming. Las audioguías Nubart funcionan perfectamente con tarifa de datos, dado su bajísimo consumo, sobre todo en los museos con mucho público extranjero es conveniente que puedan funcionar también con Wifi. Y gracias a 
-[nuestra nueva modalidad offline](_posts/2018-01-03-audioruta-nubart-offline.md){:target="_blank"}
+[nuestra nueva modalidad offline](/posts/2018-01-03-audioruta-nubart-offline.md){:target="_blank"}
 , basta con que haya Wifi en la zona de recepción. 
-
 No obstante, ¿estás seguro de que **tu museo no tiene Wifi**?
 
 <!--more-->
@@ -40,6 +39,8 @@ También nos aseguraremos de que la intensidad de la señal sea la adecuada para
 ![Nuestros aparatos PLC]({{site.baseurl}}/images/posts/devolo-pro2.jpg){: .center-image }
 
 ¿Te interesa? Pues [envíanos un email](mailto:info@nubart.eu) y lo hablamos. 
+
+***
 
 #### <font color="blue">En Nubart producimos innovadoras tarjetas-audioguía:</font>
 
