@@ -27,7 +27,7 @@ Los smartphones siempre han sido una superficie con gran proliferación de bacte
 
 No obstante, los teléfonos móviles son aparatos de uso individual. Una adecuada higiene de las manos y del aparato reduce el riesgo para su propietario. Los datos contenidos en un teléfono móvil son sensibles, por lo que no solemos perderlo de vista y raramente lo compartimos pasándolo a otras manos. 
 
-En cambio, **una audioguía en un museo es como un teléfono móvil que pasa de mano en mano muchas veces al día y cuyo uso obliga a acercarlo al rostro**, ya sea directamente o a través de auriculares. 
+En cambio, **un aparato de audioguía en un museo es como un teléfono móvil que pasa de mano en mano muchas veces al día y cuyo uso obliga a acercarlo al rostro**, ya sea directamente o a través de auriculares. 
 
 ![Mujer sosteniendo una audioguía]({{site.baseurl}}/images/posts/woman-audioguide-face.jpg){: .center-image }
 
