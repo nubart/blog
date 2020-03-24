@@ -18,9 +18,9 @@ tags: [coronavirus]
 
 Normalmente en Nubart producimos tarjetas-audioguía para museos. Pero nuestros clientes, los museos, están cerrados, así que hemos estado pensando cómo podríamos emplear la tecnología y los recursos de los que disponemos para apoyar a los pequeños negocios que ahora están sufriendo, como nosotros, la crisis del coronavirus. 
 
-Si tienes una academia privada que da clases presenciales de pintura, o de yoga, o de medicina ayurvédica, o de Pilates, habrás tenido que cerrar temporalmente tu establecimiento como consecuencia del Covid-19. Todos nosotros esperamos que esta crisis dure solo dos o tres meses, pero es probable que durante este tiempo pierdas muchas suscripciones mensuales. Cabe la posibilidad de que muchos de esos suscriptores perdidos ya no regresen cuando la crisis haya terminado. 
+Si tienes una academia privada que da clases presenciales de pintura, o de yoga, o de medicina ayurvédica, o de Pilates, o de cualquier otra cosa; o si gestionas un gimnasio, o cualquier otro negocio presencial, habrás tenido que cerrar temporalmente tu establecimiento como consecuencia del Covid-19. Todos nosotros esperamos que esta crisis dure solo dos o tres meses, pero es probable que durante este tiempo pierdas muchas suscripciones mensuales. Cabe la posibilidad de que muchas de esas membresías perdidas ya no regresen cuando la crisis haya terminado. 
 
-Debes mantenerlos contigo a toda cosa y preservar este vínculo tan importante que has creado con ellos. Para eso tienes que ofrecerles algo para animarlos a que continúen acompañándote durante estos tiempos difíciles, aunque sea con una reducción de cuota. Posiblemente ellos necesiten tus servicios y tus conocimientos en estos días de confinamiento tanto como tú necesitas sus ingresos.
+Debes mantener a tus clientes contigo a toda costa y preservar este vínculo tan importante que has creado con ellos. Para eso tienes que ofrecerles algo para animarlos a que continúen acompañándote durante estos tiempos difíciles, aunque sea con una reducción de cuota. Posiblemente ellos necesiten tus servicios y tus conocimientos en estos días de confinamiento tanto como tú necesitas sus ingresos.
 
 En Nubart ponemos a tu disposición nuestra tecnología para ayudarte.
  
@@ -65,7 +65,7 @@ Creemos que con esta iniciativa de emergencia, adaptada a estos tiempos de crisi
 
 Si te interesa esta opción, escríbenos o llámanos y te enviaremos una demo.
 
-###### (Imagen de cubierta: [Matthewafflecat de Pixabay](https://pixabay.com/users/mattthewafflecat-4607220/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4941916){:target="_blank"}) 
+<sup>(Imagen de cubierta: [Matthewafflecat de Pixabay](https://pixabay.com/users/mattthewafflecat-4607220/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4941916){:target="_blank"})</sup>
 
 ***
 
