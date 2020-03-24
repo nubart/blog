@@ -37,11 +37,11 @@ Precisamente las mucosas del rostro y la respiración son las principal vías de
 
 # La limpieza de las audioguías en un museo
 
-La higiene siempre ha sido un factor relevante al tratar de aparatos de audioguía en un museo. En los estudios de mercado que realizamos al lanzar Nubart nos sorprendió la cantidad de personas que afirmó no tomar nunca una audioguía en los museos exclusivamente por razones de higiene. Los mejores establecimientos son conscientes de ello e instruyen a sus empleados para que limpien las audioguías antes y después de cada uso. 
+La higiene siempre ha sido un factor relevante al tratar de aparatos de audioguía en un museo. En los estudios de mercado que realizamos al lanzar Nubart nos sorprendió la cantidad de personas que afirmó no tomar nunca una audioguía en los museos exclusivamente por razones de higiene. Las prevenciones higiénicas siempre han afectado en un porcentaje nada desdeñable la tasa de aceptación de las audioguías y, en consecuencia, también al volumen de ingresos que el museo obtiene a través de su alquiler. Los mejores establecimientos son conscientes de ello e instruyen a sus empleados para que limpien las audioguías antes y después de cada uso. 
 
 ![Empleada de un museo limpiando aparatos de audioguía]({{site.baseurl}}/images/posts/cleaning-audioguide-devices-museum.jpg){: .center-image }
 
-No obstante, los visitantes de un museo no siempre saben si esa limpieza se ha producido o no. Las prevenciones higiénicas siempre han afectado en un porcentaje nada desdeñable la tasa de aceptación de las audioguías y, en consecuencia, también al volumen de ingresos que el museo obtiene a través de su alquiler.
+No obstante, los visitantes de un museo no siempre saben si esa limpieza se ha producido o no. 
 
 Pero en tiempos de pandemias globales como el coronavirus, ya no estamos hablando de recelos o de sensación subjetiva de repugnancia por parte de visitantes especialmente escrupulosos, sino de un verdadero riesgo sanitario del que el museo es corresponsable. La mayoría de aparatos de audioguías tienen botones y recovecos que hacen difícil una higienización a fondo de los aparatos. Además, según científicos de la Universidad de Princeton [en un estudio publicado en *The New England Journal of Medicine*](https://www.nejm.org/doi/full/10.1056/NEJMc2004973?query=featured_home){:target="_blank"}, **el coronavirus resiste hasta tres días en superficies de plástico o de acero**, los dos materiales empleados con mayor frecuencia en la fabricación de aparatos de audioguías.
 
