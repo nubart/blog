@@ -50,7 +50,7 @@ Ahí es donde Nubart puede ayudarte. A fin de apoyar a negocios como el tuyo, po
 3. Puedes pedirnos cambios y renovaciones con frecuencia, hasta diez al mes. 
 
 
-4. Nosotros generamos un listado de códigos únicos e intransferibles, que solo pueden consultarse desde un único dispositivo (móvil o PC). Son códigos basados en nuestra tecnología LWAC (patent pending). 
+4. Nosotros generamos un listado de códigos únicos e intransferibles, que solo pueden consultarse desde un único dispositivo (móvil o PC). Son códigos basados en nuestra tecnología LWAC <sup>patent pending</sup>. 
 
 5. Nuestro sistema envía un email automatizado a cada uno de tus suscriptores. 
 
