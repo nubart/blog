@@ -30,7 +30,7 @@ Ciertamente, puedes crear vídeos caseros, podcasts y otros contenidos y ponerlo
 
 Solo podrás conservarlos si además les ofreces contenidos online de calidad, pero que no sean públicamente accesibles. 
 
-Para eso necesitas disponer de una plataforma online, con registros y log ins, o bien de una app. Cualquiera de esas dos cosas va a suponer una inversión considerable de dinero y de tiempo. Necesitas contratar a un programador, explicarle lo que quieres, acompañarlo en el desarrollo... Es probable que cuando el programador haya terminado, el mundo ya haya vuelto a la normalidad y todo ese esfuerzo habría sido en vano. 
+Para eso necesitas disponer de una plataforma online, con registros y logins, o bien de una app. Cualquiera de esas dos cosas va a suponer una inversión considerable de dinero y de tiempo. Necesitas contratar a un programador, explicarle lo que quieres, acompañarlo en el desarrollo... Es probable que cuando el programador haya terminado, el mundo ya haya vuelto a la normalidad y todo ese esfuerzo habría sido en vano. 
 
 Necesitas algo YA. 
 
