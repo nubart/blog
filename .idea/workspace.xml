@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4762e9d-642e-4b62-b649-6a8e3aef19a6" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2020-03-24-plataforma-acceso-controlado-contenidos-online.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-03-27-museo-no-tiene-wifi.md" afterPath="$PROJECT_DIR$/_posts/2017-03-27-museo-no-tiene-wifi.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2020-03-23-aparatos-audioguia-higienicos-coronavirus.md" afterPath="$PROJECT_DIR$/_posts/2020-03-23-aparatos-audioguia-higienicos-coronavirus.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2018-07-09-audioguia-nubart-accesible.md" afterPath="$PROJECT_DIR$/_posts/2018-07-09-audioguia-nubart-accesible.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -58,8 +58,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-07-09-audioguia-nubart-accesible.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="595">
-                <caret line="74" column="76" lean-forward="true" selection-start-line="74" selection-start-column="24" selection-end-line="74" selection-end-column="76" />
+              <first_editor relative-caret-position="625">
+                <caret line="76" column="0" lean-forward="false" selection-start-line="76" selection-start-column="0" selection-end-line="78" selection-end-column="107" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -67,12 +67,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2020-03-23-aparatos-audioguia-higienicos-coronavirus.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2020-03-23-aparatos-audioguia-higienicos-coronavirus.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2020-03-23-aparatos-audioguia-higienicos-coronavirus.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="625">
-                <caret line="75" column="0" lean-forward="true" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+              <first_editor relative-caret-position="176">
+                <caret line="45" column="599" lean-forward="false" selection-start-line="45" selection-start-column="441" selection-end-line="45" selection-end-column="599" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -80,51 +80,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2016-12-12-difusion-visitantes-twitter-audioguia-nubart.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2016-12-12-difusion-visitantes-twitter-audioguia-nubart.md">
+      <file leaf-file-name="2020-03-24-plataforma-acceso-controlado-contenidos-online.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2020-03-24-plataforma-acceso-controlado-contenidos-online.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="354">
-                <caret line="53" column="57" lean-forward="false" selection-start-line="53" selection-start-column="57" selection-end-line="53" selection-end-column="57" />
+              <first_editor relative-caret-position="655">
+                <caret line="72" column="107" lean-forward="false" selection-start-line="72" selection-start-column="107" selection-end-line="72" selection-end-column="107" />
                 <folding />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2019-11-07-vender-audioguia-postal-museo.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-11-07-vender-audioguia-postal-museo.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="354">
-                <caret line="88" column="57" lean-forward="false" selection-start-line="88" selection-start-column="57" selection-end-line="88" selection-end-column="57" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017-03-27-museo-no-tiene-wifi.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-03-27-museo-no-tiene-wifi.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="625">
-                <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="footer.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/footer.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -215,10 +179,11 @@
         <option value="$PROJECT_DIR$/_posts/2017-07-29-como-escribir-guion-audioguia.md" />
         <option value="$PROJECT_DIR$/_posts/2017-12-08-como-obtener-datos-visitantes-museo.md" />
         <option value="$PROJECT_DIR$/_posts/2018-01-03-audioruta-nubart-offline.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-07-09-audioguia-nubart-accesible.md" />
         <option value="$PROJECT_DIR$/_posts/2019-11-07-vender-audioguia-postal-museo.md" />
         <option value="$PROJECT_DIR$/_posts/2017-03-27-museo-no-tiene-wifi.md" />
         <option value="$PROJECT_DIR$/_posts/2020-03-23-aparatos-audioguia-higienicos-coronavirus.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-07-09-audioguia-nubart-accesible.md" />
+        <option value="$PROJECT_DIR$/_posts/2020-03-24-plataforma-acceso-controlado-contenidos-online.md" />
       </list>
     </option>
   </component>
@@ -338,12 +303,6 @@
             <path>
               <item name="nubart-blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="nubart-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="posts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nubart-blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nubart-blog" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -361,8 +320,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/images/posts" />
       <recent name="$PROJECT_DIR$/_posts" />
+      <recent name="$PROJECT_DIR$/images/posts" />
       <recent name="$PROJECT_DIR$/_plugins" />
       <recent name="$PROJECT_DIR$/_site/images/posts" />
       <recent name="$PROJECT_DIR$/_site/images" />
@@ -473,13 +432,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1501397378805</updated>
-    </task>
-    <task id="LOCAL-00069" summary="error page2">
-      <created>1546600934444</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
-      <option name="project" value="LOCAL" />
-      <updated>1546600934444</updated>
     </task>
     <task id="LOCAL-00070" summary="Twitter card">
       <created>1546601708359</created>
@@ -817,7 +769,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585052243678</updated>
     </task>
-    <option name="localTasksCounter" value="118" />
+    <task id="LOCAL-00118" summary="corona">
+      <created>1585065306606</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1585065306606</updated>
+    </task>
+    <option name="localTasksCounter" value="119" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -916,14 +875,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2017-03-15-audioguia-interactiva-museo-sin-wifi.md" />
-    <entry file="file://$PROJECT_DIR$/.idea/dictionaries/rosa.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/posts/iPhone-6.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1250,17 +1201,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-07-09-audioguia-nubart-accesible.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="595">
-            <caret line="74" column="76" lean-forward="true" selection-start-line="74" selection-start-column="24" selection-end-line="74" selection-end-column="76" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-03-27-museo-no-tiene-wifi.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1272,11 +1212,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_site/images/posts/woman-typing-writing-windows.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2020-03-23-aparatos-audioguia-higienicos-coronavirus.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
+          <first_editor relative-caret-position="176">
+            <caret line="45" column="599" lean-forward="false" selection-start-line="45" selection-start-column="441" selection-end-line="45" selection-end-column="599" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-07-09-audioguia-nubart-accesible.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
           <first_editor relative-caret-position="625">
-            <caret line="75" column="0" lean-forward="true" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+            <caret line="76" column="0" lean-forward="false" selection-start-line="76" selection-start-column="0" selection-end-line="78" selection-end-column="107" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2020-03-24-plataforma-acceso-controlado-contenidos-online.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="655">
+            <caret line="72" column="107" lean-forward="false" selection-start-line="72" selection-start-column="107" selection-end-line="72" selection-end-column="107" />
             <folding />
           </first_editor>
           <second_editor />

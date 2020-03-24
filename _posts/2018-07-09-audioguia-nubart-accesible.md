@@ -72,6 +72,8 @@ En Nubart, se puede acceder a la transcripción del texto de la audioguía media
 
 Sea cual sea tu situación, pregúntanos. En Nubart analizaremos tu caso y te haremos un presupuesto a medida de tus necesidades. 
 
+***
+
 #### <font color="blue">En Nubart producimos innovadoras tarjetas-audioguía:</font>
 
 ![Audioguía en forma de tarjeta Nubart]({{site.baseurl}}/images/posts/proceso-nubart.png){: .center-image }
