@@ -42,6 +42,9 @@ También nos aseguraremos de que la intensidad de la señal sea la adecuada para
 
 ***
 
+#### <font color="blue">En Nubart producimos innovadoras tarjetas-audioguía:</font>
+
+![Audioguía en forma de tarjeta Nubart]({{site.baseurl}}/images/posts/proceso-nubart.png){: .center-image }
 
 <form action="../../../../../es">
     <input type="submit" value="Visita nuestra web" />
