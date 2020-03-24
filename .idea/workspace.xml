@@ -18,8 +18,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2020-03-24-plataforma-acceso-controlado-contenidos-online.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="195">
-                <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <first_editor relative-caret-position="371">
+                <caret line="20" column="361" lean-forward="false" selection-start-line="20" selection-start-column="361" selection-end-line="20" selection-end-column="361" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -373,13 +373,6 @@
       <option name="presentableId" value="Default" />
       <updated>1501397378805</updated>
     </task>
-    <task id="LOCAL-00073" summary="Twitter card">
-      <created>1546606625988</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
-      <option name="project" value="LOCAL" />
-      <updated>1546606625989</updated>
-    </task>
     <task id="LOCAL-00074" summary="Twitter card">
       <created>1546606899996</created>
       <option name="number" value="00074" />
@@ -716,7 +709,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585069347449</updated>
     </task>
-    <option name="localTasksCounter" value="122" />
+    <task id="LOCAL-00122" summary="corona">
+      <created>1585069585520</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1585069585520</updated>
+    </task>
+    <option name="localTasksCounter" value="123" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1182,8 +1182,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2020-03-24-plataforma-acceso-controlado-contenidos-online.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="195">
-            <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <first_editor relative-caret-position="371">
+            <caret line="20" column="361" lean-forward="false" selection-start-line="20" selection-start-column="361" selection-end-line="20" selection-end-column="361" />
             <folding />
           </first_editor>
           <second_editor />
