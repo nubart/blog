@@ -23,11 +23,13 @@ Todo apunta a que pasará mucho tiempo antes de que alguien esté dispuesto a ap
 <!--more-->
 # Los teléfonos móviles y la higiene
 
-Los smartphones siempre han sido una superficie con gran proliferación de bacterias y microorganismos. De hecho, según [un estudio de la Universidad de Arizona](https://cals.arizona.edu/news/why-your-cellphone-has-more-germs-toilet){:target="_blank"}, un celular tiene 10 veces más bacterias que la tapa de un inodoro, y nueve de cada diez contiene celulares contiene un microbio potencialmente propagador de alguna enfermedad. Es un aparato que tomamos en la mano incontables veces al día, después de haber tocado muchas otras superficies potencialmente infectadas, como barras de agarre del transporte público, timbres o picaportes. Empleamos el teléfono móvil con tanta frecuencia que aspirar a lavarse las manos antes y después de utilizarlo es un empeño inútil. 
+Casi todos sabemos que los smartphones son una superficie con gran proliferación de bacterias y microorganismos. De hecho, según [un estudio de la Universidad de Arizona](https://cals.arizona.edu/news/why-your-cellphone-has-more-germs-toilet){:target="_blank"}, un celular tiene 10 veces más bacterias que la tapa de un inodoro, y nueve de cada diez contiene celulares contiene un microbio potencialmente propagador de alguna enfermedad. Es un aparato que tomamos en la mano incontables veces al día, después de haber tocado muchas otras superficies potencialmente infectadas, como barras de agarre del transporte público, timbres o picaportes. Empleamos el teléfono móvil con tanta frecuencia que aspirar a lavarse las manos antes y después de utilizarlo es un empeño inútil. 
 
-No obstante, los teléfonos móviles son aparatos de uso individual. Una adecuada higiene de las manos y del aparato reduce el riesgo para su propietario. Los datos contenidos en un teléfono móvil son sensibles, por lo que no solemos perderlo de vista y raramente lo compartimos pasándolo a otras manos. 
+Pero, hey, ¡es *nuestra* suciedad, después de todo! Podemos vivir con eso. Nuestro teléfono móvil se ha convertido en un utensilio demasiado importante para permitirnos el lujo de ser quisquillosos.
 
-En cambio, **un aparato de audioguía en un museo es como un teléfono móvil que pasa de mano en mano muchas veces al día y cuyo uso obliga a acercarlo al rostro**, ya sea directamente o a través de auriculares. 
+Además, los teléfonos móviles son aparatos de uso individual. Una adecuada higiene de las manos y del aparato reduce el riesgo para su propietario. Los datos contenidos en un teléfono móvil son sensibles, por lo que no solemos perderlo de vista y raramente lo compartimos pasándolo a otras manos. 
+
+Pero ahora pensemos en una audioguía. **Un aparato de audioguía en un museo es como un teléfono móvil que pasa de mano en mano muchas veces al día y cuyo uso obliga a acercarlo al rostro**, ya sea directamente o a través de auriculares. 
 
 ![Mujer sosteniendo una audioguía]({{site.baseurl}}/images/posts/woman-audioguide-face.jpg){: .center-image }
 
