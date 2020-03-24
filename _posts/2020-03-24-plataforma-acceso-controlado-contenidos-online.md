@@ -7,9 +7,10 @@ author_url: https://www.linkedin.com/in/rosasalarose/
 layout: post
 comments: true
 published: true
-title:  "Lo que nubart puede aportar en tiempos de coronavirus"
+title:  "Lo que Nubart puede aportar en tiempos de coronavirus"
 description: "El sistema de gestión de contenidos de Nubart no solo sirve para audioguías. En tiempos de coronavirus puede ayudar a que pequeños negocios presenciales, como academias o gimnasios, no pierdan sus suscriptores."
-slug: "aparatos-audioguia-higienicos-coronavirus"
+slug: "plataforma-acceso-controlado-contenidos-online"
+
 date:   2020-03-24
 banner_image: coronavirus.jpg
 tags: [coronavirus]
@@ -26,9 +27,9 @@ En Nubart ponemos a tu disposición nuestra tecnología para ayudarte.
 <!--more-->
 # Cómo mantener el contacto con tus suscriptores durante una cuarentena
 
-Ciertamente, puedes crear vídeos caseros, podcasts y otros contenidos y ponerlos en Youtube y otros canales de forma gratuita. Eso tal vez te ayude a mantener el contacto con tu comunidad de suscriptores, pero posiblemente no impedirá que pierdas a muchos de tus clientes. 
+Ciertamente, puedes crear vídeos caseros, podcasts y otros contenidos y ponerlos en Youtube y otros canales de forma gratuita. Eso tal vez te ayude a mantener el contacto con tu comunidad de suscriptores, pero posiblemente no impedirá que pierdas a muchos de tus clientes. A fin y al cabo, es contenido gratis. 
 
-Solo podrás conservarlos si además les ofreces contenidos online de calidad, pero que no sean públicamente accesibles. 
+Solo podrás conservarlos **si les ofreces contenidos online de calidad, pero que no sean públicamente accesibles**. 
 
 Para eso necesitas disponer de una plataforma online, con registros y logins, o bien de una app. Cualquiera de esas dos cosas va a suponer una inversión considerable de dinero y de tiempo. Necesitas contratar a un programador, explicarle lo que quieres, acompañarlo en el desarrollo... Es probable que cuando el programador haya terminado, el mundo ya haya vuelto a la normalidad y todo ese esfuerzo habría sido en vano. 
 
@@ -36,7 +37,7 @@ Necesitas algo YA.
 
 Necesitas una solución sencilla, sin líos ni aprendizajes técnicos. Una plataforma que te permita colgar contenidos de todo tipo (audios, videos, PDFs, imágenes...) de forma inmediata, y que también ofrezca un acceso controlado, para que únicamente tus suscriptores puedan acceder a él.
 
-Ahí es donde Nubart puede ayudarte. A fin de apoyar a negocios como el tuyo, ponemos a tu disposición la tecnología de acceso controlado que generalmente empleamos para nuestras audioguías multimedia. 
+Ahí es donde Nubart puede ayudarte. A fin de apoyar a negocios como el tuyo, ponemos a tu disposición nuestro sistema de gstión de contenidos (CMS) y la tecnología de acceso controlado que generalmente empleamos para nuestras audioguías multimedia. 
 
 # Acceso controlado a tus contenidos a través de Nubart
 
@@ -56,7 +57,7 @@ Ahí es donde Nubart puede ayudarte. A fin de apoyar a negocios como el tuyo, po
 
 6. Cada vez que se haya renovado el contenido, tus suscriptores recibirán un nuevo enlace automáticamente. 
 
-7. Tú nos pagas una cuota única de instalación de entre 250 y 500 euros y un 10 % de la cuota mensual de cada uno de tus suscriptores durante los meses en que éstos permanezcan activos contigo pagándote la cuota. Queremos tirar del mismo carro contigo, así que si tú pierdes esos ingresos, nosotros también (value-driven approach).
+7. Tú nos pagas una cuota única de instalación de 250 euros y un 10 % de la cuota mensual de cada uno de tus suscriptores durante los meses en que éstos permanezcan activos contigo pagándote la cuota. Queremos tirar del mismo carro contigo, así que si tú pierdes esos ingresos, nosotros también (*value-driven approach*).
 
 8. En cuanto la crisis haya terminado, podemos negociar una continuación del servicio, o bien cancelarlo sin ninguna penalización. 
 
