@@ -75,7 +75,7 @@ La única alternativa pasa por **audioguías que el visitante se pueda llevar** 
 
 #### <font color="blue">En Nubart producimos audioguías en forma de tarjetas físicas con códigos únicos:</font>
 
-![Audioguía en forma de tarjeta Nubart]({{site.baseurl}}/images/posts/mosaico-proceso-min.jpg){: .center-image }
+![Audioguía en forma de tarjeta Nubart]({{site.baseurl}}/images/posts/proceso-nubart.png){: .center-image }
 
 <form action="../../../../../es">
     <input type="submit" value="Solicita una muestra aquí" />

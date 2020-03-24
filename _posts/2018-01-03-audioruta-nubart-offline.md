@@ -72,7 +72,7 @@ Entretanto hemos ampliado este desarrollo y ahora ofrecemos una solución híbri
 
 #### <font color="blue">En Nubart producimos innovadoras tarjetas-audioguía:</font>
 
-![Audioguía en forma de tarjeta Nubart]({{site.baseurl}}/images/posts/mosaico-proceso-min.jpg){: .center-image }
+![Audioguía en forma de tarjeta Nubart]({{site.baseurl}}/images/posts/proceso-nubart.png){: .center-image }
 
 <form action="../../../../../es">
     <input type="submit" value="Solicita una muestra aquí" />
