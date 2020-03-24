@@ -73,7 +73,7 @@ Posiblemente una alternativa sea optar por **audioguías que el visitante se pue
 
 
 
-#### <font color="blue">En Nubart producimos audioguías en forma de tarjetas físicas con códigos únicos:</font>
+#### <font color="blue">En Nubart producimos tarjetas-audioguía con códigos intransferibles:</font>
 
 ![Audioguía en forma de tarjeta Nubart]({{site.baseurl}}/images/posts/proceso-nubart.png){: .center-image }
 
