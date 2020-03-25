@@ -33,7 +33,7 @@ Pero ahora pensemos en una audioguía. **Un aparato de audioguía en un museo es
 
 ![Mujer sosteniendo una audioguía]({{site.baseurl}}/images/posts/woman-audioguide-face.jpg){: .center-image }
 
-Precisamente las mucosas del rostro y la respiración son las principal vías de entrada del coronavirus a nuestro organismo. 
+Precisamente el rostro contiene las principales vías de entrada del coronavirus a nuestro organismo. 
 
 # La limpieza de las audioguías en un museo
 

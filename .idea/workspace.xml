@@ -41,8 +41,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2020-03-23-aparatos-audioguia-higienicos-coronavirus.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="419">
-                <caret line="39" column="612" lean-forward="false" selection-start-line="39" selection-start-column="612" selection-end-line="39" selection-end-column="612" />
+              <first_editor relative-caret-position="14">
+                <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -389,13 +389,6 @@
       <option name="presentableId" value="Default" />
       <updated>1501397378805</updated>
     </task>
-    <task id="LOCAL-00084" summary="Twitter card">
-      <created>1546620776404</created>
-      <option name="number" value="00084" />
-      <option name="presentableId" value="LOCAL-00084" />
-      <option name="project" value="LOCAL" />
-      <updated>1546620776404</updated>
-    </task>
     <task id="LOCAL-00085" summary="Button bigger">
       <created>1546621395447</created>
       <option name="number" value="00085" />
@@ -732,7 +725,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585137363003</updated>
     </task>
-    <option name="localTasksCounter" value="133" />
+    <task id="LOCAL-00133" summary="corona">
+      <created>1585138152792</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1585138152792</updated>
+    </task>
+    <option name="localTasksCounter" value="134" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1198,8 +1198,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2020-03-23-aparatos-audioguia-higienicos-coronavirus.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="419">
-            <caret line="39" column="612" lean-forward="false" selection-start-line="39" selection-start-column="612" selection-end-line="39" selection-end-column="612" />
+          <first_editor relative-caret-position="14">
+            <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
