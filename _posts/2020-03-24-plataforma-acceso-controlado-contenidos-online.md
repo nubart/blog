@@ -16,11 +16,13 @@ banner_image: coronavirus.jpg
 tags: [coronavirus]
 ---
 
-Normalmente en Nubart producimos tarjetas-audioguía para museos. Pero nuestros clientes, los museos, están cerrados, así que hemos estado pensando cómo podríamos emplear la tecnología y los recursos de los que disponemos para apoyar a los pequeños negocios que ahora están sufriendo, como nosotros, la crisis del coronavirus. 
+Como en la mayor parte del mundo, mi gimnasio tuvo que cerrar debido al corona. En tiempos de ajuste económico, cuando todos tratamos de reducir nuestros costos lo más posible, mi intención era dejar de pagar mi cuota de membresía mientras durara el confinamiento. Pero el gerente del centro me llamó para decirme que están ofreciendo su app gratis durante el tiempo que permanezcan cerrados. No sé si usaré mucho esa aplicación, pero su propuesta me enganchó y decidí seguir pagando la cuota mensual. 
 
-Si tienes una academia privada que da clases presenciales de pintura, o de yoga, o de medicina ayurvédica, o de Pilates, o de cualquier otra cosa; o si gestionas un gimnasio, o cualquier otro negocio presencial, habrás tenido que cerrar temporalmente tu establecimiento como consecuencia del Covid-19. Todos nosotros esperamos que esta crisis dure solo dos o tres meses, pero es probable que durante este tiempo pierdas muchas suscripciones mensuales. Cabe la posibilidad de que muchas de esas membresías perdidas ya no regresen cuando la crisis haya terminado. 
+Fue entonces cuando se nos ocurrió que tal vez Nubart podría ayudar a las pequeñas empresas en situaciones similares. Después de todo, no todos los gimnasios son una gran cadena como la mía ni cuentan con una compleja app de pago que puedan ofrecer gratis a sus miembros.
 
-Debes mantener a tus clientes contigo a toda costa y preservar este vínculo tan importante que has creado con ellos. Para eso tienes que ofrecerles algo para animarlos a que continúen acompañándote durante estos tiempos difíciles, aunque sea con una reducción de cuota. Posiblemente ellos necesiten tus servicios y tus conocimientos en estos días de confinamiento tanto como tú necesitas sus ingresos.
+Si tienes una academia privada que da en persona clases de arte, yoga, pilates, medicina ayurvédica o cualquier otra cosa, o si tienes un gimnasio, o cualquier otro tipo de negocio que requiera la presencia física de los miembros, habrás tenido que cerrar tu establecimiento como resultado de Covid-19. No queremos que pierda las cuotas mensuales de los miembros durante este tiempo, especialmente porque algunos de esos clientes perdidos ya no volverán cuando la crisis termine. 
+
+Pero para mantener a tus clientes y preservar el importante vínculo que ha creado con ellos, es preciso ofrecer algo que los anime a permanecer a su lado durante estos tiempos, como lo hizo el gerente de mi gimnasio. Ellos necesitarán tus servicios y conocimientos mientras dure este confinamiento, tanto como tú necesitas sus cuotas mensuales.
 
 En Nubart ponemos a tu disposición nuestra tecnología para ayudarte.
  
@@ -47,9 +49,7 @@ Ahí es donde Nubart puede ayudarte. A fin de apoyar a negocios como el tuyo, po
 
 2. Nuestro equipo los sube a nuestra plataforma en menos de 24 horas.
 
-
 3. Puedes pedirnos cambios y renovaciones con frecuencia, hasta diez al mes. 
-
 
 4. Nosotros generamos un listado de códigos únicos e intransferibles, que solo pueden consultarse desde un único dispositivo (móvil o PC). Son códigos basados en nuestra tecnología LWAC <sup>patent pending</sup>. 
 
@@ -57,7 +57,7 @@ Ahí es donde Nubart puede ayudarte. A fin de apoyar a negocios como el tuyo, po
 
 6. Cada vez que se haya renovado el contenido, tus suscriptores recibirán un nuevo enlace automáticamente. 
 
-7. Tú nos pagas una cuota única de instalación de 250 euros y un 10 % de la cuota mensual de cada uno de tus suscriptores durante los meses en que éstos permanezcan activos contigo pagándote la cuota. Queremos tirar del mismo carro contigo, así que si tú pierdes esos ingresos, nosotros también (*value-driven approach*).
+7. Tú nos pagas un pequeño porcentaje de la cuota mensual de cada uno de tus suscriptores durante los meses en que éstos permanezcan activos contigo pagándote la cuota. Queremos tirar del mismo carro contigo, así que si tú pierdes esos ingresos, nosotros también.
 
 8. En cuanto la crisis haya terminado, podemos negociar una continuación del servicio, o bien cancelarlo sin ninguna penalización. 
 
