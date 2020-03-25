@@ -47,16 +47,18 @@ Pero en tiempos de pandemias globales como el coronavirus, ya no estamos habland
 
 En tiempos de coronavirus, es de suponer que para la limpieza de los aparatos de audioguía deban emplearse como mínimo los mismos criterios que se recomiendan para la limpieza de los teléfonos móviles de uso personal: 
 
-1. Retirar la cápsula de plástico para limpiar polvo y suciedad instersticial con un paño de microfibra.
+1. Apagar el aparato.
+
+2. Posiblemente haya que retirar la cápsula de plástico para limpiar polvo y suciedad instersticial con un paño de microfibra.
 (Muchas audioguías son teléfonos móviles reconvertidos. A fin de incrementar su robustez y de impedir el acceso del visitante a determinados botones y funciones, suelen entregarse insertados en una carcasa de plástico especial).
 
-2. Limpiar la superficie con toallitas desinfectantes de un solo uso o con un paño mojado en una solución con entre el 62% y el 71% de etanol, el 0,5% de peróxido de hidrógeno o el 0,1% de hipoclorito de sodio.
+3. Limpiar la superficie con toallitas desinfectantes de un solo uso o con un paño mojado en una solución con entre el 62% y el 71% de etanol, el 0,5% de peróxido de hidrógeno o el 0,1% de hipoclorito de sodio.
 
-3. Dejar el aparato bien humedecido en la solución escogida durante al menos tres minutos, evitando que el líquido se introduzca en su interior a través de los orificios de cargadores, jack para auriculares o puertos. 
+4. Dejar el aparato bien humedecido en la solución escogida durante al menos tres minutos, evitando que el líquido se introduzca en su interior a través de los orificios de cargadores, jack para auriculares o puertos. 
 
-4. En lugar de secar el aparato con un trapo, esperar tres minutos a que el líquido empleado se evapore a fin de prolongar el tiempo de actuación. 
+5. En lugar de secar el aparato con un trapo, esperar tres minutos a que el líquido empleado se evapore a fin de prolongar el tiempo de actuación. 
 
-5. Lavarse las manos antes de proceder a la limpieza del siguiente aparato. 
+6. Lavarse las manos antes de proceder a la limpieza del siguiente aparato. 
 
 En este contexto de alarma social, la higienización de los aparatos de audioguía ha de ser tan compleja que en la práctica posiblemente deje de ser viable. Ningún museo desea que se formen largas colas en los mostradores. En los museos de mayor tamaño, una higienización a fondo de los aparatos de audioguías pasaría probablemente por la contratación de personal extra. 
 
