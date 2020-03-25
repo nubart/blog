@@ -27,7 +27,7 @@ Casi todos sabemos que los smartphones son una superficie con gran proliferació
 
 Pero, hey, ¡es *nuestra* suciedad, después de todo! Podemos vivir con eso. Nuestro teléfono móvil se ha convertido en un utensilio demasiado importante para permitirnos el lujo de ser quisquillosos.
 
-Además, los teléfonos móviles son aparatos de uso individual. Una adecuada higiene de las manos y del aparato reduce el riesgo para su propietario. Los datos contenidos en un teléfono móvil son sensibles, por lo que no solemos perderlo de vista y raramente lo compartimos pasándolo a otras manos. 
+Además, los teléfonos móviles son aparatos de uso individual. Los datos contenidos en un teléfono móvil son sensibles, por lo que no solemos perderlo de vista y raramente lo compartimos pasándolo a otras manos. 
 
 Pero ahora pensemos en una audioguía. **Un aparato de audioguía en un museo es como un teléfono móvil que pasa de mano en mano muchas veces al día y cuyo uso obliga a acercarlo al rostro**, ya sea directamente o a través de auriculares. 
 
