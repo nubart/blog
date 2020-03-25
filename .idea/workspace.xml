@@ -42,7 +42,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="293">
-                <caret line="25" column="775" lean-forward="false" selection-start-line="25" selection-start-column="775" selection-end-line="25" selection-end-column="775" />
+                <caret line="25" column="735" lean-forward="false" selection-start-line="25" selection-start-column="735" selection-end-line="25" selection-end-column="735" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -389,13 +389,6 @@
       <option name="presentableId" value="Default" />
       <updated>1501397378805</updated>
     </task>
-    <task id="LOCAL-00080" summary="Twitter card">
-      <created>1546608086486</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1546608086486</updated>
-    </task>
     <task id="LOCAL-00081" summary="Twitter card">
       <created>1546616651159</created>
       <option name="number" value="00081" />
@@ -732,7 +725,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585137092010</updated>
     </task>
-    <option name="localTasksCounter" value="129" />
+    <task id="LOCAL-00129" summary="corona">
+      <created>1585137242195</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1585137242195</updated>
+    </task>
+    <option name="localTasksCounter" value="130" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1199,7 +1199,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="293">
-            <caret line="25" column="775" lean-forward="false" selection-start-line="25" selection-start-column="775" selection-end-line="25" selection-end-column="775" />
+            <caret line="25" column="735" lean-forward="false" selection-start-line="25" selection-start-column="735" selection-end-line="25" selection-end-column="735" />
             <folding />
           </first_editor>
           <second_editor />
