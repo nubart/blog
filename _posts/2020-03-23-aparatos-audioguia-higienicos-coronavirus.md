@@ -65,7 +65,7 @@ En este contexto de alarma social, la higienización de los aparatos de audiogu�
 
 # Soluciones alternativas
 
-Incluso aunque se encuentre muy pronto una vacuna o una cura infalible para el coronavirus, dadas estas circunstancias no parece que los aparatos tradicionales de audioguía tengan ya un futuro prometedor en los museos. Las dimensiones de esta primera crisis han sido globales y abrumadoras. Hemos aprendido que las pandemias globales, que hasta ahora solo conocíamos por alguna mala película apocalíptica de ciencia ficción, son un peligro real, y que después del corona pueden aparecer otros virus igualmente letales. 
+Incluso aunque se encuentre muy pronto una vacuna o una cura infalible para el coronavirus, dadas estas circunstancias no parece que los aparatos tradicionales de audioguía tengan ya un futuro prometedor en los museos. Las dimensiones de esta primera crisis han sido globales y abrumadoras. Hemos aprendido que las pandemias globales, que hasta ahora solo conocíamos por alguna mala película apocalíptica de ciencia ficción, son un peligro real. Y que después de esta crisis podría venir otra.  
 
 Posiblemente una alternativa sea optar por **audioguías que el visitante se pueda llevar** en lugar de alquilarse o en soluciones digitales basadas en el Bring Your Own Device (BYOD). 
 
