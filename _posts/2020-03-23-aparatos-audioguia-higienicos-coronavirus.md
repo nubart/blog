@@ -37,7 +37,7 @@ Precisamente las mucosas del rostro y la respiración son las principal vías de
 
 # La limpieza de las audioguías en un museo
 
-La higiene siempre ha sido un factor relevante al tratar de aparatos de audioguía en un museo. En los estudios de mercado que realizamos al lanzar Nubart nos sorprendió la cantidad de personas que afirmó no tomar nunca una audioguía en los museos exclusivamente por razones de higiene. Las prevenciones higiénicas siempre han afectado en un porcentaje nada desdeñable la tasa de aceptación de las audioguías y, en consecuencia, también al volumen de ingresos que el museo obtiene a través de su alquiler. Los mejores establecimientos son conscientes de ello e instruyen a sus empleados para que limpien las audioguías antes y después de cada uso. 
+La higiene siempre ha sido un factor relevante al tratar de aparatos de audioguía en un museo. En los estudios de mercado que realizamos al lanzar Nubart nos sorprendió la cantidad de personas que afirmó no tomar nunca una audioguía en los museos exclusivamente por razones de higiene. Cabe deducir que las prevenciones higiénicas siempre habrán afectado la tasa de aceptación de las audioguías y, en consecuencia, también el volumen de ingresos que el museo obtiene a través de su alquiler, aunque difícilmente pueda establecerse en qué porcentaje. Los mejores establecimientos son conscientes de esa prevención e instruyen a sus empleados para que limpien las audioguías antes y después de cada uso. 
 
 ![Empleada de un museo limpiando aparatos de audioguía]({{site.baseurl}}/images/posts/cleaning-audioguide-devices-museum.jpg){: .center-image }
 
