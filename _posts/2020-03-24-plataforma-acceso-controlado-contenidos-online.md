@@ -6,7 +6,7 @@ author_image: /blog/images/rosa-sala.jpg
 author_url: https://www.linkedin.com/in/rosasalarose/
 layout: post
 comments: true
-published: true
+published: false
 title:  "Lo que Nubart puede aportar en tiempos de coronavirus"
 description: "El sistema de gestión de contenidos de Nubart no solo sirve para audioguías. En tiempos de coronavirus puede ayudar a que pequeños negocios presenciales, como academias o gimnasios, no pierdan sus suscriptores."
 slug: "plataforma-acceso-controlado-contenidos-online"
