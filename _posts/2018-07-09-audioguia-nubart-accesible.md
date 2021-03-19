@@ -1,7 +1,11 @@
 ---
-author_name: Rosa Sala author_bio: Rosa Sala es CEO y co-fundadora de Nubart author_location: Berlín / Barcelona author_image:
-/blog/images/rosa-sala.jpg author_url: https://www.linkedin.com/in/rosasalarose/
-layout: post comments: true published: true title:  "Las audioguías Nubart son accesibles"
+author_name: Rosa Sala author_bio: Rosa Sala es CEO y co-fundadora de Nubart 
+author_location: Berlín / Barcelona 
+author_image: /blog/images/rosa-sala.jpg 
+author_url: https://www.linkedin.com/in/rosasalarose/
+layout: post comments: true 
+published: true 
+title:  "Las audioguías Nubart son accesibles"
 description: "Nuestras tarjetas-audioguía pueden ser utilizadas por personas ciegas, sordas o con dificultades de visión."
 slug: "audioquia-nubart-accesible"
 date:   2018-07-09 banner_image: accesibility-audioguides.jpg tags: [accesibilidad]
