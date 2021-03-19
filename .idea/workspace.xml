@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4762e9d-642e-4b62-b649-6a8e3aef19a6" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/images/posts/tivfl-deaf.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-07-09-audioguia-nubart-accesible.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-07-09-audioguia-nubart-accesible.md" afterDir="false" />
-    </list>
+    <list default="true" id="d4762e9d-642e-4b62-b649-6a8e3aef19a6" name="Default" comment="accesibilidad" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -773,7 +769,6 @@
     </layout-to-restore>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="nueva entrada accesibilidad" />
     <MESSAGE value="nueva entrada accesibilidad 2" />
     <MESSAGE value="nueva entrada accesibilidad 3" />
     <MESSAGE value="nueva entrada accesibilidad 4" />
@@ -798,7 +793,8 @@
     <MESSAGE value="new post travelling audioguide 2" />
     <MESSAGE value="new post travelling audioguide 3" />
     <MESSAGE value="corona" />
-    <option name="LAST_COMMIT_MESSAGE" value="corona" />
+    <MESSAGE value="accesibilidad" />
+    <option name="LAST_COMMIT_MESSAGE" value="accesibilidad" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/images/posts/iPhone-6.jpg">
