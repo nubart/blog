@@ -24,7 +24,7 @@ Por eso en Nubart hemos concebido nuestras audioguías en forma de tarjeta con u
 La preocupación por facilitar la visita a los museos a las personas ciegas viene de lejos: ya en 1913 John Alfred Charlton Deas, antiguo conservador del Sunderland Museum, invitó a los niños de la Sunderland Council Blind School para que *vieran* algunas de las colecciones del Sunderland Museum a través de las manos. El éxito de la iniciativa lo animó a extender este tipo de visitas también a los invidentes adultos.
 
 ![Niños palpando una morsa en el Sunderland Museum]({{site.baseurl}}/images/posts/accesibility-sunderland-museum.jpg){: .center-image }
-######<center>Tyne & Wear Archives & Museums</center>
+#####<center>Tyne & Wear Archives & Museums</center>
 
 En un museo la accesibilidad para las personas ciegas no depende únicamente de las audioguías, pero posiblemente éstas sean uno de los instrumentos más importantes para dar valor a su visita, ya que emplean el oído como sentido principal. Si el museo no dispone de letreros en braile o de paneles táctiles que reproduzcan el objeto y lo hagan *visible* con la yema de los dedos, la audioguía puede llegar a ser para los invidentes la única fuente de información sobre la obra expuesta. 
 
@@ -63,7 +63,6 @@ En Nubart, se puede acceder a la transcripción del texto de la audioguía media
 
 ![Botón de transcripción para personas con discapacidad auditiva en las audioguías Nubart ]({{site.baseurl}}/images/posts/tivfl-deaf.gif)
 {: .center-image }
-
 #### Problemática de los textos para personas sordas:
 * A los sordos prelinguales (aquellos que pierden el oído antes de la adquisición del lenguaje) el aprendizaje de la lectura y de la escritura les supone un gran desafío. Aunque pueden aprender a copiar las letras y a identificarlas con imágenes, no pueden relacionar las grafías de la escritura con los elementos sonoros del habla. De ahí que **no todos los sordos sepan leer con fluidez**, por lo que la incorporación de la transcripción textual no cubrirá las necesidades de *todo* el colectivo. 
 
