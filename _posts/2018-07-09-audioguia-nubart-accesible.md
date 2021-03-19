@@ -24,8 +24,7 @@ Por eso en Nubart hemos concebido nuestras audioguías en forma de tarjeta con u
 La preocupación por facilitar la visita a los museos a las personas ciegas viene de lejos: ya en 1913 John Alfred Charlton Deas, antiguo conservador del Sunderland Museum, invitó a los niños de la Sunderland Council Blind School para que *vieran* algunas de las colecciones del Sunderland Museum a través de las manos. El éxito de la iniciativa lo animó a extender este tipo de visitas también a los invidentes adultos.
 
 ![Niños palpando una morsa en el Sunderland Museum]({{site.baseurl}}/images/posts/accesibility-sunderland-museum.jpg){: .center-image }
-<center>Tyne & Wear Archives & Museums</center>
-
+######<center>Tyne & Wear Archives & Museums</center>
 
 En un museo la accesibilidad para las personas ciegas no depende únicamente de las audioguías, pero posiblemente éstas sean uno de los instrumentos más importantes para dar valor a su visita, ya que emplean el oído como sentido principal. Si el museo no dispone de letreros en braile o de paneles táctiles que reproduzcan el objeto y lo hagan *visible* con la yema de los dedos, la audioguía puede llegar a ser para los invidentes la única fuente de información sobre la obra expuesta. 
 
@@ -34,19 +33,13 @@ Nuestras audioguías funcionan a través del teléfono móvil del visitante (BYO
 
 Las audioguías Nubart no emplean apps, sino que se escucha desde el navegador. Para que puedan interactuar bien con TalkBack o con VoiceOver, hemos programado de entrada el CMS que organiza el contenido digital teniendo en cuenta la accesibilidad. Las audioguías digitales de Nubart son totalmente accesibles y su interfaz responde muy bien al empleo por personas ciegas. Es decir, cada botón indica adecuadamente en voz para qué sirve y qué se puede hacer con cada acción, y facilitamos al máximo la navegación. Hemos realizado diversos tests con personas ciegas que han confirmado la correcta usabilidad de nuestras audioguías. 
 
+Naturalmente, esto es solo la parte técnica: somos conscientes de que la accesibilidad va mucho más allá. Sobre todo los contenidos deben estar adaptados a las personas con discapacidad visual.
+
 ### Código QR detectable con los dedos
 
 Los códigos QR de las tarjetas Nubart aparecen impresos con un ligero relieve. De este modo, las personas invidentes puede detectar su presencia y su ubicación con las yemas de los dedos, lo cual facilita su captación mediante el lector de códigos QR que tienen en su móvil. 
 
 ![Código QR impreso en relieve para facilitar la accesibilidad de las personas ciegas en audioguías Nubart]({{site.baseurl}}/images/posts/qr-code-nubart-visually-impaired.jpg){: .center-image }
-
-
-### Reproductores de gran tamaño
-No sólo las personas completamente ciegas, sino también las personas con mala visión por motivos de edad o de salud también deben poder emplear adecuadamente nuestras audioguías. Por ello hemos optado por un reproductor digital sencillo y de gran tamaño, fácil de ver y con las funciones reducidas a lo más elemental: *play*, pausa, barra de avance y segundos de reproducción. 
-
-Al clicar en nuestro reproductor, éste se ilumina automáticamente en azul para que el visitante siempre sepa qué pista está escuchando: 
-
-<iframe src="https://player.vimeo.com/video/279029578" width="160" height="90" frameborder="0" allowfullscreen></iframe>{: .center-image }
 
 
 ### Posibilidad de incorporación de audiodescripciones
@@ -67,8 +60,13 @@ En el caso de optar por una signoguía, Nubart añadiría esta opción en el men
 
 ### Textos  
 En Nubart, se puede acceder a la transcripción del texto de la audioguía mediante un botón situado cerca de cada pista y que abre la ventana con el texto. Esta opción funciona perfectamente en [nuestro modo offline]({{ site.baseurl }}{% post_url /posts/2018-01-03-audioruta-nubart-offline %}){:target="_blank"}, así que resulta adecuada para museos situados en zonas con mala cobertura de datos o sin Wifi. Dado el considerable coste de producción de una signoguía multilingüe, la incorporación de los textos permitiría ampliar considerablemente la accesibilidad a coste muy bajo. 
+
+![Botón de transcripción para personas con discapacidad auditiva en las audioguías Nubart ]({{site.baseurl}}/images/posts/tivfl-deaf.gif)
+{: .center-image }
+
 #### Problemática de los textos para personas sordas:
 * A los sordos prelinguales (aquellos que pierden el oído antes de la adquisición del lenguaje) el aprendizaje de la lectura y de la escritura les supone un gran desafío. Aunque pueden aprender a copiar las letras y a identificarlas con imágenes, no pueden relacionar las grafías de la escritura con los elementos sonoros del habla. De ahí que **no todos los sordos sepan leer con fluidez**, por lo que la incorporación de la transcripción textual no cubrirá las necesidades de *todo* el colectivo. 
+
 
 Sea cual sea tu situación, pregúntanos. En Nubart analizaremos tu caso y te haremos un presupuesto a medida de tus necesidades. 
 
