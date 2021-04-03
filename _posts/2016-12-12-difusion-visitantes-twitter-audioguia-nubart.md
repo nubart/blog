@@ -11,7 +11,7 @@ title:  "Cómo hacer que los visitantes difundan tu exposición en Twitter"
 description: "Que alguien recomiende tu exposición en redes sociales es estupendo para atraer visitas a tu museo. ¿Por qué no emplear para ello una audioguía?"
 slug: "difusion-visitantes-twitter-audioguia-nubart"
 date:   2016-12-12
-banner_image: /images/posts/blog-tuitea-esto.jpg
+image: /images/posts/blog-tuitea-esto.jpg
 tags: [redes sociales, museos, Twitter]
 ---
 

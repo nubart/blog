@@ -11,7 +11,7 @@ title:  "¿Seguro que tu museo no tiene Wifi?"
 description: "Si tu museo aún no tiene Wifi para los visitantes, quizá puedas remediarlo ampliando el internet de tus oficinas mediante la tecnología PLC"
 slug: "museo-no-tiene-wifi"
 date:   2017-03-29
-banner_image: /images/posts/devolo-pro2.jpg
+image: /images/posts/devolo-pro2.jpg
 tags: [wifi, museos, PLC, conexión de datos]
 ---
 

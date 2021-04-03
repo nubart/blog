@@ -11,7 +11,7 @@ title:  "Nuestras audioguías pueden funcionar sin wifi y sin cobertura de datos
 description: "La falta de cobertura móvil es aún un problema en muchas áreas rurales. Por eso hemos desarrollado un modo offline para nuestras tarjetas-audioguía."
 slug: "audioruta-nubart-offline"
 date:   2018-01-03
-banner_image: /images/posts/audioruta-nexo-nubart-maestrazgo.jpg
+image: /images/posts/audioruta-nexo-nubart-maestrazgo.jpg
 tags: [offline, audioruta]
 ---
 

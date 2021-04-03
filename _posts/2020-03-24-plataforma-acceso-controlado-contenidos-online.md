@@ -12,7 +12,7 @@ description: "El sistema de gestión de contenidos de Nubart no solo sirve para 
 slug: "plataforma-acceso-controlado-contenidos-online"
 
 date:   2020-03-24
-banner_image: /images/posts/coronavirus.jpg
+image: /images/posts/coronavirus.jpg
 tags: [coronavirus]
 ---
 

@@ -11,7 +11,7 @@ title:  "Los aparatos de audioguía, el coronavirus y la higiene"
 description: "El coronavirus va a transformar muchos de nuestros hábitos. ¿Qué sucederá en los museos con los apratos de audioguía que pasan de mano en mano?"
 slug: "aparatos-audioguia-higienicos-coronavirus"
 date:   2020-03-23
-banner_image: /images/posts/cleaning-audioguide-devices-museum.jpg
+image: /images/posts/cleaning-audioguide-devices-museum.jpg
 tags: [audioguía, higiene, coronavirus]
 ---
 
