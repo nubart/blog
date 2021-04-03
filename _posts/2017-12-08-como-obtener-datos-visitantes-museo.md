@@ -68,7 +68,7 @@ Tu navegador no permite mostrar este vídeo.
 
 Y si el museo también desea preguntarle a su visitante por la edad, el género u otros datos no automatizables, ¡es el momento de hacerlo! El museo puede **personalizar las preguntas de nuestro cuestionario** de *feedback* a su gusto. 
 
-Tanto los datos que Nubart registra de forma automática como los indicados voluntariamente por los visitantes están integrados en nuestros packs de tarifas, que también incluyen la producción de contenidos (traducción y locución). Encontrarás más información sobre nuestras tarifas [en nuestra web.](http://www.nubart.eu/es/#pricing){:target="_blank"} 
+Tanto los datos que Nubart registra de forma automática como los indicados voluntariamente por los visitantes están integrados en nuestros packs de tarifas, que también incluyen la producción de contenidos (traducción y locución). Puedes solicitar muestras o un presupuesto [en nuestra web.](https://www.nubart.eu/es/precio-muestras.html){:target="_blank"} 
 
  Es posible que, como museo, no sientas la necesidad de ofrecer una audioguía a tus visitantes. Pero... ¿no te gustaría saber más sobre ellos? En ese caso, haz como las compañías aéreas y ¡saluda a tus visitantes con una audioguía Nubart en la entrada de tu *avión*!
 

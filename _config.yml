@@ -21,14 +21,14 @@ sass:
   sass_dir: _sass
 
 # The base hostname & protocol of your site for where absolute urls are needed
-url: "http://www.nubart.eu/"
+url: "https://www.nubart.eu/"
 
 # Site navigation - each item must have a title and a url.
 navigation:
 - text: Inicio del blog
   url: /blog/
 - text: Web de Nubart
-  url: http://www.nubart.eu/es/
+  url: https://www.nubart.eu/es/
 - text: Archivo
   url: /blog/tags/
 
@@ -41,7 +41,7 @@ author_bio: "Nubart es la audioguía que te puedes llevar. Sin aparatos ni apps.
 author_image: /blog/images/rosa-sala.jpg
 
 # Sidebar Add banner
-banner_url: "http://www.nubart.eu/es/"
+banner_url: "https://www.nubart.eu/es/"
 banner_image: images/muestra-audioguia-nubart-con-auriculares.jpg
 
 # Sidebar newsletter widget - add your form action url for MailChimp signup form here
