@@ -1,14 +1,19 @@
 ---
-author_name: Rosa Sala author_bio: Rosa Sala es CEO y co-fundadora de Nubart 
+author_name: Rosa Sala 
+author_bio: Rosa Sala es CEO y co-fundadora de Nubart 
 author_location: Berlín / Barcelona 
-author_image: /blog/images/rosa-sala.jpg 
+author_image:
+/blog/images/rosa-sala.jpg 
 author_url: https://www.linkedin.com/in/rosasalarose/
-layout: post comments: true 
+layout: post 
+comments: true 
 published: true 
 title:  "Las audioguías Nubart son accesibles"
 description: "Nuestras tarjetas-audioguía pueden ser utilizadas por personas ciegas, sordas o con dificultades de visión."
 slug: "audioquia-nubart-accesible"
-date:   2018-07-09 banner_image: accesibility-audioguides.jpg tags: [accesibilidad]
+date: 2018-07-09 
+banner_image: accesibility-audioguides.jpg 
+tags: [accesibilidad]
 ---
 
 Los museos se esfuerzan por ser lugares de los que puedan disfrutar todos los ciudadanos, incluidos quienes tengan alguna discapacidad física. Por eso
@@ -23,9 +28,8 @@ La preocupación por facilitar la visita a los museos a las personas ciegas vien
 del Sunderland Museum, invitó a los niños de la Sunderland Council Blind School para que *vieran* algunas de las colecciones del Sunderland Museum a
 través de las manos. El éxito de la iniciativa lo animó a extender este tipo de visitas también a los invidentes adultos.
 
-| ![Niños palpando una morsa en el Sunderland Museum]({{site.baseurl}}/images/posts/accesibility-sunderland-museum.jpg) | 
-|:--:| 
-| *Tyne & Wear Archives & Museums* |
+| ![Niños palpando una morsa en el Sunderland Museum]({{site.baseurl}}/images/posts/accesibility-sunderland-museum.jpg) | |:--:| | *Tyne & Wear
+Archives & Museums* |
 
 En un museo la accesibilidad para las personas ciegas no depende únicamente de las audioguías, pero posiblemente éstas sean uno de los instrumentos
 más importantes para dar valor a su visita, ya que emplean el oído como sentido principal. Si el museo no dispone de letreros en braile o de paneles
