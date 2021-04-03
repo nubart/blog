@@ -1,81 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4762e9d-642e-4b62-b649-6a8e3aef19a6" name="Default" comment="errors">
-      <change afterPath="$PROJECT_DIR$/_includes/google_analytics.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/header_navigation.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/icons/amazon.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/icons/behance.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/icons/chevron-left.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/icons/chevron-right.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/icons/chevron-up.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/icons/codepen.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/icons/deviantart.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/icons/diaspora.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/icons/docker.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/icons/dribbble.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/icons/dropbox.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/icons/envelope.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/icons/etsy.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/icons/facebook.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/icons/flattr.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/icons/flickr.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/icons/flipboard.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/icons/github.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/icons/gitlab.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/icons/instagram.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/icons/keybase.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/icons/link.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/icons/linkedin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/icons/map-pin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/icons/medium.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/icons/mixcloud.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/icons/patreon.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/icons/pinterest.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/icons/pocket.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/icons/product-hunt.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/icons/quora.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/icons/qzone.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/icons/reddit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/icons/rss.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/icons/soundcloud.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/icons/spotify.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/icons/stack-overflow.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/icons/telegram.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/icons/tumblr.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/icons/twitter.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/icons/vimeo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/icons/vk.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/icons/weibo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/icons/xing.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/icons/youtube.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/_animations.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/_comments.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/_footer.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/_header-navigation.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/_header.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/_pagination.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/_post-navigation.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/_posts-pages.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/_structure.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/_syntax-highlighter.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/_widgets.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/disqus.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/disqus.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/sidebar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/page.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
+    <list default="true" id="d4762e9d-642e-4b62-b649-6a8e3aef19a6" name="Default" comment="new version">
+      <change beforePath="$PROJECT_DIR$/_posts/2016-12-12-difusion-visitantes-twitter-audioguia-nubart.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2016-12-12-difusion-visitantes-twitter-audioguia-nubart.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-03-27-museo-no-tiene-wifi.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-03-27-museo-no-tiene-wifi.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-07-29-como-escribir-guion-audioguia.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-07-29-como-escribir-guion-audioguia.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-12-08-como-obtener-datos-visitantes-museo.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-12-08-como-obtener-datos-visitantes-museo.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-01-03-audioruta-nubart-offline.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-01-03-audioruta-nubart-offline.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2018-07-09-audioguia-nubart-accesible.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-07-09-audioguia-nubart-accesible.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/_general.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_general.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/_reset.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_reset.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-11-07-vender-audioguia-postal-museo.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-11-07-vender-audioguia-postal-museo.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-03-23-aparatos-audioguia-higienicos-coronavirus.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-03-23-aparatos-audioguia-higienicos-coronavirus.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-03-24-plataforma-acceso-controlado-contenidos-online.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-03-24-plataforma-acceso-controlado-contenidos-online.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -347,7 +282,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/js" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
@@ -844,7 +779,6 @@
     </layout-to-restore>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="nueva entrada accesibilidad 4" />
     <MESSAGE value="nueva entrada accesibilidad 5" />
     <MESSAGE value="nueva entrada accesibilidad 6" />
     <MESSAGE value="nueva entrada accesibilidad 7" />
@@ -869,7 +803,8 @@
     <MESSAGE value="accesibilidad" />
     <MESSAGE value="new analytics" />
     <MESSAGE value="errors" />
-    <option name="LAST_COMMIT_MESSAGE" value="errors" />
+    <MESSAGE value="new version" />
+    <option name="LAST_COMMIT_MESSAGE" value="new version" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/images/posts/iPhone-6.jpg">

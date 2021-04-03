@@ -12,7 +12,7 @@ title:  "Las audioguías Nubart son accesibles"
 description: "Nuestras tarjetas-audioguía pueden ser utilizadas por personas ciegas, sordas o con dificultades de visión."
 slug: "audioquia-nubart-accesible"
 date: 2018-07-09 
-banner_image: accesibility-audioguides.jpg 
+banner_image: /images/posts/accesibility-audioguides.jpg 
 tags: [accesibilidad]
 ---
 
