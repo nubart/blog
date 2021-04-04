@@ -34,7 +34,7 @@ layout: default
             </div>
             {% if page.tags.size > 0 %}
             <div class="post-tags">
-                <span>Tags:</span>
+                <span>Estiquetas:</span>
                 {% for tag in page.tags %}<a href="{{ site.baseurl }}/tags/index.html#{{ tag | cgi_escape }}" rel="tag">{{ tag }}</a>{% endfor %}
             </div>
             {% endif %}
@@ -82,7 +82,7 @@ layout: default
                 <a href="{{ site.baseurl }}{{page.next.url}}" class="nav-thumb"
                    style="background-image: url({{ page.next.image }})"></a>
                 {% endif %}
-                <div class="nav-before">Next</div>
+                <div class="nav-before">Siguiente</div>
                 <h3 class="nav-title"><a href="{{ site.baseurl }}{{page.next.url}}">{{page.next.title}}</a></h3>
                 <div class="nav-date">{{page.next.date | date: "%B %-d, %Y"}}</div>
             </div><!-- .nav-inside -->

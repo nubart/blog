@@ -1,18 +1,18 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <meta charset="utf-8">    
-    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title> 
+    <meta charset="utf-8">
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     {% seo %}
-    <link rel="shortcut icon" href="{{ "/favicon.ico" | prepend: site.baseurl }}">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i&display=swap" />
-    <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css" />
+    <link rel="shortcut icon" href="{{ "
+    /favicon.ico" | prepend: site.baseurl }}">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i&display=swap"/>
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css"/>
     <link rel="canonical" href="{{ page.url | replace:'/index.html','/' | prepend: site.baseurl | prepend: site.url }}">
-    <link rel="alternate" type="application/rss+xml" title="{{ site.title }} Feed" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
-
-
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }} Feed" href="{{ "
+    /feed.xml" | prepend: site.baseurl | prepend: site.url }}">
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-88444319-1"></script>
@@ -25,6 +25,7 @@
   gtag('config', 'AW-962068933');
 
 
+
     </script>
     <!-- End Global site tag (gtag.js) - Google Analytics -->
 
@@ -33,18 +34,12 @@
     <!-- End of HubSpot Embed Code -->
 
     <!-- Twitter cards -->
-    <meta name="twitter:site"    content="@nub_art">
+    <meta name="twitter:site" content="@nub_art">
     <meta name="twitter:creator" content="{{ page.author }}">
-    <meta name="twitter:title"   content="{{ page.title }}">
-
-
+    <meta name="twitter:title" content="{{ page.title }}">
     <meta name="twitter:description" content="{{ page.description }}">
-
-
-
-    <meta name="twitter:card"  content="summary_large_image">
+    <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:image" content="{{ site.url }}blog/images/posts/{{ page.banner_image }}">
-
 
     <!-- end of Twitter cards -->
 
