@@ -15,7 +15,10 @@ Se habla mucho de lo difícil que resulta interpretar datos. Pero hay otra dific
 ¿Alguna vez te has preguntado por qué la azafata que te da la bienvenida cuando entras en el avión siempre tiene una mano detrás de la espalda? No se
 trata solo de una cortesía. La azafata, además de saludarte, te está contando. La mano que tiene en la espalda oculta discretamente de tu vista un
 contador de pasajeros como éste:
-![Herramienta para capturar el número de pasajeros]({{site.baseurl}}/images/posts/contador-pasajeros.jpg){: .center-image } Ya ves, incluso con la
+
+![Herramienta para capturar el número de pasajeros]({{site.baseurl}}/images/posts/contador-pasajeros.jpg){: .center-image } 
+
+Ya ves, incluso con la
 tecnología puntera de la que dispone hoy un avión, capturar un dato aparentemente tan simple como el recuento de pasajeros obliga a desarrollar cierta
 inventiva.
 
@@ -52,8 +55,7 @@ preguntando directamente al usuario o bien captando ese dato de forma automátic
 
 ![Usuarios de una audioguía Nubart por idioma]({{site.baseurl}}/images/posts/usuarios-por-idioma.png){: .center-image }
 
-{% include image_caption.html imageurl="/images/posts/usuarios-por-idioma.png"
-title="Uusarios de una audioguía Nubart por idioma" caption="Extracto e un informe de uso de Nuabrt" %}
+{% include image_caption.html imageurl="/images/posts/usuarios-por-idioma.png" caption="Extracto de un informe de uso de Nubart" %}
 
 Los informes estadísticos que proporcionamos al museo o centro de exposiciones también incorporan algunos datos cuya obtención exige algoritmos
 complejos, como el tiempo total de uso del audio por cada usuario o visita, o el período aproximado de permanencia en las instalaciones.
