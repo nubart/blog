@@ -22,9 +22,7 @@ La preocupación por facilitar la visita a los museos a las personas ciegas vien
 del Sunderland Museum, invitó a los niños de la Sunderland Council Blind School para que *vieran* algunas de las colecciones del Sunderland Museum a
 través de las manos. El éxito de la iniciativa lo animó a extender este tipo de visitas también a los invidentes adultos.
 
-![Niños palpando una morsa en el Sunderland Museum]({{site.baseurl}}/images/posts/accesibility-sunderland-museum.jpg){: .center-image }
-
-{% include image_caption.html imageurl="/images/posts/accesibility-sunderland-museum.jpg" caption="*Tyne & Wear Archives & Museums*" %}
+{% include image_caption.html imageurl="/blog/images/posts/accesibility-sunderland-museum.jpg" title="Niños palpando una morsa en el Sunderland Museum" caption="*Tyne & Wear Archives & Museums*" %}
 
 
 En un museo la accesibilidad para las personas ciegas no depende únicamente de las audioguías, pero posiblemente éstas sean uno de los instrumentos
