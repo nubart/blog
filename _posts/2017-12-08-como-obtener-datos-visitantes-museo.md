@@ -53,7 +53,7 @@ del visitante** y su idioma habitual, datos de fundamental importancia para enfo
 tradicionales (es decir, aparatos) también permiten capturar datos de uso, pero nunca el país de procedencia: esa información solo puede obtenerse
 preguntando directamente al usuario o bien captando ese dato de forma automática a través de su móvil, como hacemos en Nubart.
 
-{% include image_full.html imageurl="{{site.baseurl}}/images/posts/usuarios-por-idioma.png" title="Usuarios por idioma" caption="Extracto de un informe de uso de Nubart" %}
+{% include image_full.html imageurl="/blog/images/posts/usuarios-por-idioma.png" title="Usuarios por idioma" caption="Extracto de un informe de uso de Nubart" %}
 
 Los informes estadísticos que proporcionamos al museo o centro de exposiciones también incorporan algunos datos cuya obtención exige algoritmos
 complejos, como el tiempo total de uso del audio por cada usuario o visita, o el período aproximado de permanencia en las instalaciones.
