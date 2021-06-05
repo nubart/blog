@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4762e9d-642e-4b62-b649-6a8e3aef19a6" name="Default" comment="possible solution hreflang">
-      <change beforePath="$PROJECT_DIR$/_posts/2018-01-03-audioruta-nubart-offline.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-01-03-audioruta-nubart-offline.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-07-09-audioguia-nubart-accesible.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-07-09-audioguia-nubart-accesible.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-11-07-vender-audioguia-postal-museo.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-11-07-vender-audioguia-postal-museo.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-03-23-aparatos-audioguia-higienicos-coronavirus.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-03-23-aparatos-audioguia-higienicos-coronavirus.md" afterDir="false" />
-    </list>
+    <list default="true" id="d4762e9d-642e-4b62-b649-6a8e3aef19a6" name="Default" comment="possible solution hreflang" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
