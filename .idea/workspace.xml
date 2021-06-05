@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4762e9d-642e-4b62-b649-6a8e3aef19a6" name="Default" comment="new version informe de datos">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-07-29-como-escribir-guion-audioguia.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-07-29-como-escribir-guion-audioguia.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-12-08-como-obtener-datos-visitantes-museo.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-12-08-como-obtener-datos-visitantes-museo.md" afterDir="false" />
+    <list default="true" id="d4762e9d-642e-4b62-b649-6a8e3aef19a6" name="Default" comment="possible solution hreflang">
+      <change beforePath="$PROJECT_DIR$/_posts/2018-01-03-audioruta-nubart-offline.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-01-03-audioruta-nubart-offline.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-07-09-audioguia-nubart-accesible.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-07-09-audioguia-nubart-accesible.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-11-07-vender-audioguia-postal-museo.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-11-07-vender-audioguia-postal-museo.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-03-23-aparatos-audioguia-higienicos-coronavirus.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-03-23-aparatos-audioguia-higienicos-coronavirus.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -774,7 +774,6 @@
     </layout-to-restore>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="nueva entrada accesibilidad 6" />
     <MESSAGE value="nueva entrada accesibilidad 7" />
     <MESSAGE value="nueva entrada accesibilidad 8" />
     <MESSAGE value="nueva entrada accesibilidad 9" />
@@ -799,7 +798,8 @@
     <MESSAGE value="errors" />
     <MESSAGE value="new version" />
     <MESSAGE value="new version informe de datos" />
-    <option name="LAST_COMMIT_MESSAGE" value="new version informe de datos" />
+    <MESSAGE value="possible solution hreflang" />
+    <option name="LAST_COMMIT_MESSAGE" value="possible solution hreflang" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/images/posts/iPhone-6.jpg">
