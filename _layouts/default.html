@@ -9,7 +9,6 @@
     <link rel="shortcut icon" href="{{ "/favicon.ico" | prepend: site.baseurl }}">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i&display=swap"/>
     <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css"/>
-    <link rel="canonical" href="{{ page.url | replace:'/index.html','/' | prepend: site.baseurl | prepend: site.url }}">
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }} Feed" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
 
     <!-- Start of hreflang >>> -->
@@ -42,17 +41,6 @@
     <!-- Start of HubSpot Embed Code -->
     <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/2430134.js"></script>
     <!-- End of HubSpot Embed Code -->
-
-    <!-- Twitter cards -->
-    <meta name="twitter:site" content="@nub_art">
-    <meta name="twitter:creator" content="{{ page.author }}">
-    <meta name="twitter:title" content="{{ page.title }}">
-    <meta name="twitter:description" content="{{ page.description }}">
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:image" content="{{ site.url }}blog/images/posts/{{ page.banner_image }}">
-
-    <!-- end of Twitter cards -->
-
 </head>
 <body>
 <div class="site">
