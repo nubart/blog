@@ -15,6 +15,8 @@ slug: "aparatos-audioguia-higienicos-coronavirus"
 date:   2020-03-23
 image: /images/posts/cleaning-audioguide-devices-museum.jpg
 tags: [audioguía, higiene, coronavirus]
+langpath-en: /2020/03/23/devices-audioguide-hygiene-coronavirus/
+langpath-de: /2020/03/23/audioguide-geraete-hygiene-coronavirus/
 ---
 
 Mientras escribo esto nadie sabe cuándo va a terminar la crisis del coronavirus. Pero hay algo en lo que todo el mundo está de acuerdo: nada volverá a ser como antes. Uno de los sectores más afectados es el de la cultura. Muy especialmente los lugares públicos que reúnen a gente procedente de todo el mundo en torno a su oferta cultural, como los museos, actualmente cerrados casi en su totalidad. 

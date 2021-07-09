@@ -10,8 +10,19 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i&display=swap"/>
     <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css"/>
     <link rel="canonical" href="{{ page.url | replace:'/index.html','/' | prepend: site.baseurl | prepend: site.url }}">
-    <link rel="alternate" type="application/rss+xml" title="{{ site.title }} Feed" href="{{ "
-    /feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }} Feed" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+
+    <!-- Start of hreflang >>> -->
+    <link rel="alternate" hreflang="es" href="{{site.url}}{{site.baseurl}}{{page.url}}" />
+    {% if page.layout == 'post' %}
+        {% if page.langpath-en %}<link rel="alternate" hreflang="en" href="{{site.url}}{{site.alt-baseurl-es}}{{page.langpath-en}}" /> {% endif %}
+        {% if page.langpath-de %}<link rel="alternate" hreflang="de" href="{{site.url}}{{site.alt-baseurl-de}}{{page.langpath-de}}" /> {% endif %}
+    {% else %}
+        <link rel="alternate" hreflang="en" href="{{site.url}}{{site.alt-baseurl-en}}{{page.url}}" />
+        <link rel="alternate" hreflang="de" href="{{site.url}}{{site.alt-baseurl-de}}{{page.url}}" />
+    {% endif %}
+    <!-- <<< End of hreflang -->
+
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-88444319-1"></script>
