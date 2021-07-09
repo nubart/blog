@@ -10,6 +10,8 @@ slug: "audioruta-nubart-offline"
 date:   2018-01-03
 image: /images/posts/audioruta-nexo-nubart-maestrazgo.jpg
 tags: [offline, audioruta]
+langpath-en: /2018/07/11/nubart-accessible-audioguides/
+langpath-de: /2018/06/14/digitale-audioguides-offline-ohne-netzabdeckung/
 ---
 
 A veces un problema acaba siendo una gran oportunidad. Eso es lo que tuvimos ocasión de comprobar con la audioruta por los monumentos naturales del Maestrazgo (Teruel) que produjimos para Nexo Turismo y Cultura y que fue el origen de nuestra primera audioguía digital offline para smartphones que funciona sin wifi y sin cobertura. Aquí te contamos la historia. 

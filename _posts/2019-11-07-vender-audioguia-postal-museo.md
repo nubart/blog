@@ -10,6 +10,8 @@ slug: "vender-audioguia-postal-museo"
 date:   2019-11-07
 image: /images/posts/audioguia-que-viaja1.jpg
 tags: [audioguía, museos, postal]
+langpath-en: /2018/07/11/sell-travelling-audioguide/
+langpath-de: /2018/07/11/reisender-audioguide-postkarte/
 ---
 
 Pagar por alquilar una audioguía en un museo y no tener tiempo para escuchar más que cuatro o cinco pistas es una experienca enojosa. La presión de sacarle el máximo partido al gasto realizado genera estrés, impide prestar la debida atención a lo que se escucha y empeora la experiencia del visitante. 

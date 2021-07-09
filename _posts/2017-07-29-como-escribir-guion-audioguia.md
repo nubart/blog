@@ -10,6 +10,8 @@ slug: "como-escribir-guion-audioguia"
 date:   2017-07-29
 image: /images/posts/woman-typing-writing-windows.jpg
 tags: [guión, audioguía, museos]
+langpath-en: /2017/08/03/how-to-write-script-audio-guide-museum/
+langpath-de: /2018/06/10/wie-audioguide-museum-schreiben-skript/
 ---
 
 Estimado museófilo: si trabajas para un gran museo tipo Thyssen, el Prado o la Tate, no hace falta que sigas leyendo. Seguro que tu audioguía ya incorpora *storytelling*, recursos de accesibilidad, realidad aumentada y quién sabe cuántas cosas más, y si no fuera el caso, seguro que ya estás debatiendo con otros departamentos cómo incorporar todo eso. 

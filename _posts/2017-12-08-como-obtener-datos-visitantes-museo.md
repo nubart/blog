@@ -11,6 +11,8 @@ slug: "como-obtener-datos-visitantes-museo"
 date: 2017-12-08
 image: /images/posts/nubart-como-herramienta-obtener-datos-museo.jpg 
 tags: [datos visitantes, museos]
+langpath-en: /2017/12/08/how-to-get-visitors-data-museum/
+langpath-de: /2018/06/25/museum-wie-kann-man-daten-besucher-erhalten/
 ---
 Se habla mucho de lo difícil que resulta interpretar datos. Pero hay otra dificultad quizá aún mayor, que es la de *recoger* datos.
 

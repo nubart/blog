@@ -10,6 +10,8 @@ slug: "audioquia-nubart-accesible"
 date: 2018-07-09 
 image: /images/posts/accesibility-audioguides.jpg
 tags: [accesibilidad]
+langpath-en: /2018/07/11/nubart-accessible-audioguides/
+langpath-de: /2018/07/11/nubart-barrierefrei-zugaengliche-audioguides/
 ---
 
 Los museos se esfuerzan por ser lugares de los que puedan disfrutar todos los ciudadanos, incluidos quienes tengan alguna discapacidad física. Por eso
