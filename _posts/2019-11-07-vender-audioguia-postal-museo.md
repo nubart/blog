@@ -3,8 +3,6 @@ layout: post
 comments: true
 published: true
 title:  "Hemos lanzado la audioguía que viaja"
-lang: es
-lang-ref: sell-travelling-audioguide
 description: "Con Nubart, las audioguías pueden venderse en la tienda del museo integradas en una postal."
 slug: "vender-audioguia-postal-museo"
 date:   2019-11-07

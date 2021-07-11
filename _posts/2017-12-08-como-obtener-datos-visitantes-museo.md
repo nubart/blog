@@ -3,8 +3,6 @@ layout: post
 comments: true 
 published: true 
 title:  "Cómo obtener datos sobre los visitantes de tu museo"
-lang: es
-lang-ref: how-to-get-visitors-data-museum
 description: "Antes de interpretar los datos sobre el público de tu museo necesitas obtenerlos. Te explicamos cómo hacerlo de forma sencilla y poco
 invasiva."
 slug: "como-obtener-datos-visitantes-museo"

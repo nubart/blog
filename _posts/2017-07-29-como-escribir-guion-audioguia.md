@@ -3,8 +3,6 @@ layout: post
 comments: true
 published: true
 title:  "Cómo escribir el guión de una audioguía"
-lang: es
-lang-ref: how-to-write-script-audio-guide-museum
 description: "Redactar el guión para la audioguía de un museo tiene sus trucos. Aquí te damos algunos consejos en base a nuestra experiencia."
 slug: "como-escribir-guion-audioguia"
 date:   2017-07-29
