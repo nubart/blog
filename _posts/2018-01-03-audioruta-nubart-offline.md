@@ -30,13 +30,7 @@ Hacía tiempo que en Nubart queríamos producir una ruta turística, así que no
 
 ![Audioruta Nubart por los monumentos naturales de El Maestrazgo - Nexo Turismo y Cultura]({{site.baseurl}}/images/posts/audioruta-nexo-nubart-maestrazgo.jpg){: .center-image }
 
-Todo iba viento en popa hasta que le preguntamos por los tuits.
-
-Nuestras audioguías disponen de [la opción "tuitea sobre esta pieza"](/blog/2016/12/12/difusion-visitantes-twitter-audioguia-nubart/){:target="_blank"} que permite que el mismo usuario genere contenido difundiendo la exposición o la excursión desde su propia cuenta en la red social. "Puede que no sea buena idea colocar este botón en tu ruta -le dijimos a Noelia- porque aunque nuestros contenidos están adaptados para consumir el mínimo de datos y cargar con rapidez, la app de Twitter funciona con lentitud cuando la cobertura no es muy buena". "En efecto -nos contestó- mejor lo quitamos. En El Maestrazgo no hay cobertura".
-
-Ups... 
-
-¿Que no hay cobertura en El Maestrazgo? 
+Todo iba viento en popa hasta que averiguamos que no hay cobertura de datos en El Maestrazgo.
 
 Nuestras tarjetas funcionan en *streaming*, de modo que a falta de wifi la cobertura de datos, por mala que sea, es necesaria. El contenido estaba producido, la audioruta montada y las tarjetas impresas. Solo que sin datos o sin wifi resultaban inservibles. Se había producido un malentendido. 
 
@@ -50,7 +44,7 @@ Nos decidimos por la segunda opción.
 
 Estaba claro que la solución pasaba por permitir la descarga completa del contenido de la audioruta en un lugar que disponga de cobertura para más tarde poder acceder a él desde el móvil, pero sin conexión, en modo offline. En teoría esta capacidad solo está reservada a las apps móviles. Pero en Nubart no desarrollamos apps ni somos partidarios de hacerlo. Había que dar con el modo de utilizar nuestras audioguías Nubart en modo offline desde el mismo navegador y de forma inmediata, sin necesidad de pasar por el engorroso trámite de buscar una app, descargarla, instalarla, abrirla y dar permisos. Tampoco queríamos consumir la memoria del móvil del usuario, como hacen las apps al instalarse. 
 
-Si eres un poco *teckie*, sabrás que en html existe el atributo "preload" aplicable a los archivos en audio y que teóricamente permite su descarga automática. Pero la realidad es que cada navegador decide a su gusto si seguir o no esa indicación, y prácticamente ninguno de los navegadores para teléfono móvil la sigue. Como las audioguías y audiorutas Nubart están especialmente concebidas para su uso desde un smartphone, la etiqueta *preload* no resultaba una solución viable. 
+Si eres un poco *techie*, sabrás que en html existe el atributo "preload" aplicable a los archivos en audio y que teóricamente permite su descarga automática. Pero la realidad es que cada navegador decide a su gusto si seguir o no esa indicación, y prácticamente ninguno de los navegadores para teléfono móvil la sigue. Como las audioguías y audiorutas Nubart están especialmente concebidas para su uso desde un smartphone, la etiqueta *preload* no resultaba una solución viable. 
 
 En definitiva: el 99 % de las empresas de software a las que consultáramos nos dirían que, sin una app, nuestro problema no tiene solución.
 
