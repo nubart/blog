@@ -64,7 +64,7 @@ Esta estructura modular también es la opción ideal para separar contenidos tem
 
 ![Audioguía de Nubart para el museo Albertina de Viena]({{site.baseurl}}/images/posts/structure-albertina.jpg){: .center-image }
 
-## 2. **Etiquetas temáticas para personalizar el contenido en función de los propios intereses**
+## 2. **Etiquetas temáticas para personalizar el contenido en función de los intereses del visitante**
 
 Las etiquetas son una herramienta ideal cuando hay que estructurar **contenidos muy diversos** y queremos darle al usuario la opción de filtrarlos en función de sus intereses particulares.
 
