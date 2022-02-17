@@ -52,7 +52,7 @@ La propuesta de Nubart para organizar los contenidos en la audioguía pasa por u
 
 Veamos en qué consiste cada una de estas herramientas.
 
-1. **Sistema modular**
+## 1. **Sistema modular**
 
 Se trata de crear conjuntos amplios de contenidos en bloques o módulos bien diferenciados unos de otros.
 
@@ -64,7 +64,7 @@ Esta estructura modular también es la opción ideal para separar contenidos tem
 
 ![Audioguía de Nubart para el museo Albertina de Viena]({{site.baseurl}}/images/posts/structure-albertina.jpg){: .center-image }
 
-2. **Etiquetas temáticas para personalizar el contenido en función de los propios intereses**
+## 2. **Etiquetas temáticas para personalizar el contenido en función de los propios intereses**
 
 Las etiquetas son una herramienta ideal cuando hay que estructurar contenidos muy diversos y queremos darle al usuario la opción de filtrarlos en función de sus intereses particulares.
 
@@ -78,11 +78,9 @@ También es una herramienta perfecta para las audioguías de city marketing y pa
 
 Otro caso de uso para las etiquetas son, entre otros, los museos muy grandes que quieran ayudar a los visitantes a filtrar en función de sus intereses personalizados el alto volumen de objetos expuestos disponibles. Es el caso de [la audioguía del Museo Nacional de Eslovenia en Liubliana](https://www.nubart.eu/es/portfolio/audioguia-museo-nacional-eslovenia.html){:target="_blank"}, que emplea las etiquetas para ofrecer al visitante la opción de una ruta de 30 minutos con los objetos más destacados. Así, el sistema de etiquetas sirve tanto para *limitar* como para *ampliar* el contenido de la audioguía, siempre en función de las preferencias del visitante.
 
-3. Botón colapsable con más información
+## 3. **Botón colapsable con más información**
 
 La ampliación del contenido de una audioguía, aunque deseable, puede generar problemas de estructura y abrumar al visitante con un exceso de contenido que puede distraerlo de la ruta que está siguiendo.
-
-En este párrafo insertaría el vídeo de More Information, aunque no está disponible sin iniciar sesión: https://vimeo.com/526540926
 
 Por ejemplo, los visitantes del Museo Dornier de Friedrichshafen interesados por los inicios del Zeppelin pueden usar este desplegable para ver una foto de archivo de la época. Al deslizar el dedo para seguir escuchando otros contenidos el desplegable se colapsa automáticamente:
 
