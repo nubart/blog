@@ -24,7 +24,7 @@ Pero con el auge de las audioguías digitales (ya sean apps o PWAs) y de las pan
 <!--more-->
 # Organiza las listas que componen una audioguía
 
-Normalmente una audioguía se compone de la lista de los puntos de interés del recorrido. En una audioguía digital, cada elemento de esa lista contiene un enlace que hay que clicar para acceder a la pista de sonido correspondiente. En los lugares de exposición grandes y complejos es conveniente proporcionar una estructura ramificada, en la que cada rama se compone de una lista distinta.
+Normalmente una audioguía se compone de la lista de los puntos de interés del recorrido. En una audioguía digital, cada elemento de esa lista contiene un enlace que hay que clicar para acceder a la pista de sonido correspondiente. En los lugares de exposición grandes y complejos es conveniente proporcionar una estructura ramificada, en la que cada rama se compone de una lista distinta. 
 
 Las listas que estructuran la audioguía deben aportar claridad y relacionarse con las circunstancias reales del tour. Por ejemplo, si los objetos expuestos se dividen en dos o tres plantas o en dos edificios distintos, es conveniente que la estructura de la audioguía atienda a esta circunstancia, ya que eso ayudará al visitante a orientarse.
 
