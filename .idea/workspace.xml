@@ -4,9 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22970ddb-93b6-47a2-bd3a-07ad238bd397" name="Default Changelist" comment="broken link">
+    <list default="true" id="22970ddb-93b6-47a2-bd3a-07ad238bd397" name="Default Changelist" comment="blog estructura audioguía">
+      <change afterPath="$PROJECT_DIR$/_posts/2022-02-17-como-crear-estructura-audioguia.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/posts/structure-albertina.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/posts/structure-aluminium.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/posts/structure-audioguide-title.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/posts/structure-baden.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/posts/structure-dornier.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/posts/structure-riotinto.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-01-03-audioruta-nubart-offline.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-01-03-audioruta-nubart-offline.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,9 +38,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/posts" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.scala.settings.ScalaProjectSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/posts" />
+      <recent name="$PROJECT_DIR$/_posts" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -85,6 +98,7 @@
     <MESSAGE value="cleanup" />
     <MESSAGE value="unneded haref out" />
     <MESSAGE value="broken link" />
-    <option name="LAST_COMMIT_MESSAGE" value="broken link" />
+    <MESSAGE value="blog estructura audioguía" />
+    <option name="LAST_COMMIT_MESSAGE" value="blog estructura audioguía" />
   </component>
 </project>
