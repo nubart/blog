@@ -81,7 +81,7 @@ La ampliación del contenido de una audioguía, aunque deseable, puede generar p
 
 Para ello hemos creado los botones colapsables de “más información”. Estos botones permiten añadir **un segundo nivel de profundización** a las pistas de la audioguía, pero sin obligar al visitante a abandonar la pantalla y sin distraerlo del contenido principal. De esta forma, el usuario que desee expandir la información sobre una pieza en concreto podrá hacerlo y retomar fácilmente el recorrido.
 
-Por ejemplo, los visitantes del Museo Dornier de Friedrichshafen interesados por los inicios del Zeppelin pueden usar este desplegable para ver una foto de archivo de la época. Al deslizar el dedo para seguir escuchando otros contenidos el desplegable se colapsa automáticamente:
+Por ejemplo, los visitantes del [Museo Dornier de Friedrichshafen](https://www.nubart.eu/es/portfolio/audioguia-dornier.html){:target="_blank"} interesados por los inicios del Zeppelin pueden usar este desplegable para ver una foto de archivo de la época. Al deslizar el dedo para seguir escuchando otros contenidos el desplegable se colapsa automáticamente:
 
 ![Audioguía de Nubart para el museo Dornier en Friedrichshafen]({{site.baseurl}}/images/posts/structure-dornier.jpg){: .center-image }
 
