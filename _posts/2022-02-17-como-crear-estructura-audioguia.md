@@ -63,11 +63,11 @@ Esta estructura modular también es la opción ideal para separar contenidos tem
 
 Las etiquetas son una herramienta ideal cuando hay que estructurar **contenidos muy diversos** y queremos darle al usuario la opción de filtrarlos en función de sus intereses particulares.
 
-Esto resulta especialmente útil en eventos tales como **ferias comerciales**, a las que asisten profesionales con el claro objetivo de hacer negocios. La oferta de expositores en estos eventos suele ser muy amplia y variada y los asistentes no pueden darse el lujo de perder tiempo. Gracias a las etiquetas, cada asistente a la feria puede hacer su selección de stands según áreas temáticas específicas de su interés, y así sacar el máximo provecho a la feria. En este ejemplo de una feria sobre aluminio los asistentes pueden filtrar a los expositores según su enfoque profesional particular y ubicarlas fácilmente en el plano:
+Esto resulta especialmente útil en audioguías para eventos tales como **ferias comerciales**, a las que asisten profesionales con el claro objetivo de hacer negocios. La oferta de expositores en estos eventos suele ser muy amplia y variada y los asistentes no pueden darse el lujo de perder tiempo. Gracias a las etiquetas, cada asistente a la feria puede hacer su selección de stands según áreas temáticas específicas de su interés, y así sacar el máximo provecho a la feria. En este ejemplo de una feria sobre aluminio los asistentes pueden filtrar a los expositores según su enfoque profesional particular y ubicarlas fácilmente en el plano:
 
 ![Audioguía de Nubart para una feria comercial]({{site.baseurl}}/images/posts/structure-aluminium.jpg){: .center-image }
 
-También es una herramienta perfecta para las audioguías de **city marketing** y para los **tours por ciudades o regiones**, ya que permite a cada turista elegir los temas y actividades que más le interesen. En esta guía de Baden, Austria, los usuarios pueden seleccionar espacios culturales, gastronómicos, comerciales, etc, encontrar la información relatia a cada uno y estructurar el recorrido en función de sus preferencias:
+También es una herramienta perfecta para las audioguías de **city marketing** y para los **tours por ciudades o regiones**, ya que permite a cada turista elegir los temas y actividades que más le interesen. En esta guía de Baden, Austria, los usuarios pueden seleccionar espacios culturales, gastronómicos, comerciales, etc, encontrar la información relativa a cada uno y estructurar el recorrido en función de sus preferencias:
 
 ![Audioguía de Nubart para la ciudad de Baden, en Austria]({{site.baseurl}}/images/posts/structure-baden.jpg){: .center-image }
 
