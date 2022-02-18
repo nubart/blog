@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22970ddb-93b6-47a2-bd3a-07ad238bd397" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/logo-nubart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/scanning-nubart-audioguide.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-03-23-aparatos-audioguia-higienicos-coronavirus.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-03-23-aparatos-audioguia-higienicos-coronavirus.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2022-02-17-como-crear-estructura-audioguia.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2022-02-17-como-crear-estructura-audioguia.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/authorimage.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/muestra-audioguia-nubart-con-auriculares.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/rosa-sala.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/structure-audioguide-title.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/posts/structure-audioguide-title.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,15 +31,15 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/posts" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.scala.settings.ScalaProjectSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/images/posts" />
+      <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/_posts" />
     </key>
   </component>
@@ -102,6 +93,7 @@
     <MESSAGE value="unneded haref out" />
     <MESSAGE value="broken link" />
     <MESSAGE value="blog estructura audioguía" />
-    <option name="LAST_COMMIT_MESSAGE" value="blog estructura audioguía" />
+    <MESSAGE value="changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes" />
   </component>
 </project>
