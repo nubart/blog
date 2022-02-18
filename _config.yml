@@ -44,12 +44,12 @@ google_analytics: "UA-88444319-1"
 
 # Author information - author info at the bottom of the post
 author_name: "Nubart"
-author_bio: "Nubart es la audioguía que te puedes llevar. Sin aparatos ni apps. Con feedback del visitante y datos de uso."
-author_image: /blog/images/rosa-sala.jpg
+author_bio: "Nubart es la audioguía que te puedes llevar. Innovador sistema con tarjetas intransferibles, sin aparatos ni apps. Con feedback del visitante y datos de uso."
+author_image: /blog/images/logo-nubart.png
 
 # Sidebar Add banner
 banner_url: "https://www.nubart.eu/es/"
-banner_image: images/muestra-audioguia-nubart-con-auriculares.jpg
+banner_image: images/scanning-nubart-audioguide.jpg
 
 # Sidebar newsletter widget - add your form action url for MailChimp signup form here
 mailchimp_url: "https://nubart.us18.list-manage.com/subscribe?u=394c1a3d13f6b53d57d360951&id=f0d13f2f37"
