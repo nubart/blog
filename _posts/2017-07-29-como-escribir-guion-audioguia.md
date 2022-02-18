@@ -12,9 +12,7 @@ langpath-en: /2017/08/03/how-to-write-script-audio-guide-museum/
 langpath-de: /2018/06/10/wie-audioguide-museum-schreiben-skript/
 ---
 
-Estimado museófilo: si trabajas para un gran museo tipo Thyssen, el Prado o la Tate, no hace falta que sigas leyendo. Seguro que tu audioguía ya incorpora *storytelling*, recursos de accesibilidad, realidad aumentada y quién sabe cuántas cosas más, y si no fuera el caso, seguro que ya estás debatiendo con otros departamentos cómo incorporar todo eso. 
-
-Pero puede que seas un museo que se enfrenta a la realización de una audioguía por primera vez y que no sepas por dónde empezar. Si lo que buscas es una audioguía sin más pretensiones (de momento) que ampliar adecuadamente y en varios idiomas las explicaciones que ofreces en sala, quizá las indicaciones que siguen te sean de alguna utilidad, tanto si preparas una audioguía para nosotros como si lo haces por tu cuenta.
+Algunos museos se enfrentan a la realización de una audioguía por primera vez y saben por dónde empezar. Si lo que buscas es una audioguía sin más pretensiones (de momento) que ampliar adecuadamente y en varios idiomas las explicaciones que ofreces en sala, quizá las indicaciones que siguen te sean de alguna utilidad, tanto si preparas una audioguía para nosotros como si lo haces por tu cuenta.
 
 <!--more-->
 
