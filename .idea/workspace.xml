@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22970ddb-93b6-47a2-bd3a-07ad238bd397" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/images/posts/structure-audioguide-title.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/posts/structure-audioguide-title.jpg" afterDir="false" />
-    </list>
+    <list default="true" id="22970ddb-93b6-47a2-bd3a-07ad238bd397" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,6 +92,7 @@
     <MESSAGE value="broken link" />
     <MESSAGE value="blog estructura audioguía" />
     <MESSAGE value="changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="changes" />
+    <MESSAGE value="greay" />
+    <option name="LAST_COMMIT_MESSAGE" value="greay" />
   </component>
 </project>
