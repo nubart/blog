@@ -14,7 +14,9 @@ langpath-de: /2022/02/21/struktur-audioguide/
 
 Con los aparatos de audioguía más tradicionales no hay que que preocuparse mucho por la estructura del contenido: generalmente el visitante teclea en el dispositivo el número de un objeto expuesto y recibe la correspondiente explicación en audio. ¡No hay nada que estructurar!
 
-Las audioguías digitales (ya sean apps o PWAs) también suelen ofrecer la posibilidad de teclear un número para ir directamente a un contenido, solo que ahora, con las pantallas táctiles, todo el contenido está a la vista del visitante.
+![Audioguía tradicional con sistema de tecleado de números]({{site.baseurl}}/images/posts/structure-traditional-audioguide.jpg){: .center-image }
+
+Las audioguías digitales (ya sean apps o PWAs) también suelen ofrecer la posibilidad de teclear un número para ir directamente a un contenido, solo que ahora, con las pantallas táctiles, todo el contenido está también a la vista del visitante.
 
 Así pues, con el auge de las audioguías digitales **la estructura del contenido de una audioguía se ha vuelto un aspecto importante sobre el que reflexionar**. Organizar una audioguía en el reducido espacio de la pantalla de un móvil representa un desafío, especialmente cuando hay elementos multimedia que van más allá de las pistas de audio convencionales, como vídeos, carruseles de imágenes, etc.
 

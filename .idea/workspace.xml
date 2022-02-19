@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22970ddb-93b6-47a2-bd3a-07ad238bd397" name="Default Changelist" comment="" />
+    <list default="true" id="22970ddb-93b6-47a2-bd3a-07ad238bd397" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/images/posts/structure-traditional-audioguide.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2022-02-17-como-crear-estructura-audioguia.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2022-02-17-como-crear-estructura-audioguia.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
