@@ -16,9 +16,9 @@ Con los aparatos de audioguía más tradicionales no hay que que preocuparse muc
 
 ![Audioguía tradicional con sistema de tecleado de números]({{site.baseurl}}/images/posts/structure-traditional-audioguide.jpg){: .center-image }
 
-Las audioguías digitales (ya sean apps o PWAs) también suelen ofrecer la posibilidad de teclear un número para ir directamente a un contenido, solo que ahora, con las pantallas táctiles, todo el contenido está también a la vista del visitante.
+Las audioguías digitales (ya sean apps o PWAs) también suelen ofrecer la posibilidad de teclear un número para ir directamente a un contenido, solo que ahora, con las pantallas táctiles, todo el contenido está también a la vista del visitante y hay que permitir la navegación por otras vías.
 
-Así pues, con el auge de las audioguías digitales **la estructura del contenido de una audioguía se ha vuelto un aspecto importante sobre el que reflexionar**. Organizar una audioguía en el reducido espacio de la pantalla de un móvil representa un desafío, especialmente cuando hay elementos multimedia que van más allá de las pistas de audio convencionales, como vídeos, carruseles de imágenes, etc.
+Así que ahora **la estructura del contenido de una audioguía se ha vuelto un aspecto importante sobre el que reflexionar**. Y no es un asunto trivial: organizar una audioguía en el reducido espacio de la pantalla de un móvil representa un desafío, especialmente cuando hay elementos multimedia que van más allá de las pistas de audio convencionales, como vídeos, carruseles de imágenes, etc.
 
 <!--more-->
 # Organiza las listas que componen una audioguía
