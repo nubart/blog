@@ -37,11 +37,11 @@ Por ejemplo, si un museo dispone de cinco salas en su planta inferior, puede que
 
 Este principio también se aplica al nivel de las pistas de sonido o elementos multimedia. En la mayoría de audioguías digitales, al clicar en un punto de interés se abre una nueva página que generalmente contiene la imagen del objeto expuesto y una pista de audio, que a veces se dispara en autoplay y otras requiere de un nuevo clic. Una vez escuchada la pista, el usuario debe regresar al listado para localizar la siguiente pista y clicarla, y así con cada punto de interés del recorrido:
 
-![Audioguía digital tradicional con excesivos clics]({{site.baseurl}}/images/posts/structure-audioguide-clicking.jpg){: .center-image }
+![Audioguía digital tradicional con excesivos clics]({{site.baseurl}}/images/posts/structure-audioguide-clicking.png){: .center-image }
 
 Bajo nuestro punto de vista, sería deseable reducir todos esos clics innecesarios ofreciendo **la totalidad de las pistas en una misma página navegable mediante scroll**, que es el método de navegación más intuitivo para las generaciones mayores que no son nativas digitales:
 
-![Audioguía digital de Nubart con navegación por scrolling]({{site.baseurl}}/images/posts/structure-audioguide-scrolling.jpg){: .center-image }
+![Audioguía digital de Nubart con navegación por scrolling]({{site.baseurl}}/images/posts/structure-audioguide-scrolling.png){: .center-image }
 
 # Facilita la ampliación o limitación personalizada del contenido de la audioguía
 
