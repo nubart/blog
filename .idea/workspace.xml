@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22970ddb-93b6-47a2-bd3a-07ad238bd397" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/posts/structure-audioguide-clicking.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/posts/structure-audioguide-scrolling.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2022-02-17-como-crear-estructura-audioguia.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2022-02-17-como-crear-estructura-audioguia.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,6 +99,7 @@
     <MESSAGE value="script" />
     <MESSAGE value="new image" />
     <MESSAGE value="text" />
-    <option name="LAST_COMMIT_MESSAGE" value="text" />
+    <MESSAGE value="new images" />
+    <option name="LAST_COMMIT_MESSAGE" value="new images" />
   </component>
 </project>

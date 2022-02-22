@@ -8,8 +8,8 @@ slug: "como-crear-estructura-audioguia"
 date:   2022-02-17
 image: /images/posts/structure-audioguide-title.jpg
 tags: [audioguía, estructura, multimedia]
-langpath-en: /2022/02/21/how-to-structure-audioguide/
-langpath-de: /2022/02/21/struktur-audioguide/
+langpath-en: /2022/02/18/how-to-structure-audioguide/
+langpath-de: /2022/02/22/struktur-audioguide/
 ---
 
 Con los aparatos de audioguía más tradicionales no hay que que preocuparse mucho por la estructura del contenido: generalmente el visitante teclea en el dispositivo el número de un objeto expuesto y recibe la correspondiente explicación en audio. ¡No hay nada que estructurar!
