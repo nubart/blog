@@ -57,11 +57,18 @@ ubicación con las yemas de los dedos, lo cual facilita su captación mediante e
 ![Código QR impreso en relieve para facilitar la accesibilidad de las personas ciegas en audioguías Nubart]({{site.baseurl}}/images/posts/qr-code-nubart-visually-impaired.jpg)
 {: .center-image }
 
-### Posibilidad de incorporación de audiodescripciones
+### Audiodescripciones de los objetos expuestos
 
 A fin de crear una audioguía completamente adecuada para personas invidentes es preciso incorporar una pista con la audiodescripción del objeto de
 exposición. De este modo se ayuda a los ciegos a imaginar y reconstruir mentalmente el objeto antes de escuchar la explicación convencional que
 proporcione la audioguía. En Nubart podemos distinguir esta pista marcándola en otro color e incorporándola delante de la pista explicativa.
+
+### Audiodescripciones de los vídeos reproducidos in situ
+
+La audiodescripción es una banda sonora opcional que describe y da contexto a la información visual. Resulta esencial para que los visitantes ciegos o con baja visión puedan comprender el contenido de los vídeos explicativos de tu museo, del mismo modo que el subtitulado es esencial para que los visitantes con problemas ade audición comprendan la información sonora de un vídeo. Así pues, para alcanzar una accesibilidad  completa, los vídeos de tu museo deberían tanto incluir subtítulos como ofrecer audiodescripciones.
+
+Gracias a [Nubart Sync]({{ site.baseurl }}{% post_url https://www.nubart.eu/es/sincronizacion-video-audio.html %}){:target="_blank"}, la tecnología que permite emparejar un vídeo con una banda sonora perfectamente sincronizada en cualquier idioma, las audioguías de Nubart pueden incluir audiodescripciones para ciegos de los vídeos reproducidos en tu establecimiento.
+
 
 # Accesibilidad para personas sordas o con problemas de audición
 
