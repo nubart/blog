@@ -103,15 +103,16 @@ En Nubart, se puede acceder a la transcripción del texto de la audioguía media
 texto. Esta opción funciona perfectamente en nuestro modo offline, así que resulta adecuada para museos situados en zonas con mala cobertura de datos o sin Wifi. Dado el considerable coste de
 producción de una signoguía multilingüe, la incorporación de los textos permitiría ampliar considerablemente la accesibilidad a coste muy bajo.
 
-![Botón de transcripción para personas con discapacidad auditiva en las audioguías Nubart ]({{site.baseurl}}/images/posts/tivfl-deaf.gif)
-{: .center-image }
-
 #### Problemática de los textos para personas sordas:
 
 * A los sordos prelinguales (aquellos que pierden el oído antes de la adquisición del lenguaje) el aprendizaje de la lectura y de la escritura les
   supone un gran desafío. Aunque pueden aprender a copiar las letras y a identificarlas con imágenes, no pueden relacionar las grafías de la escritura
   con los elementos sonoros del habla. De ahí que **no todos los sordos sepan leer con fluidez**, por lo que la incorporación de la transcripción
   textual no cubrirá las necesidades de *todo* el colectivo.
+
+Finalmente, aquí tienes un vídeo con una demostración visual de algunas aplicaciones de Nubart para la accesibilidad:
+
+<iframe src="https://player.vimeo.com/video/559591694" width="640" height="360" frameborder="0" allowfullscreen></iframe>{: .center-image }
 
 Sea cual sea tu situación, pregúntanos. En Nubart analizaremos tu caso y te haremos un presupuesto a medida de tus necesidades.
 
