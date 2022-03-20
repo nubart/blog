@@ -94,15 +94,13 @@ opción accederá a diversos vídeos con un intérprete de signos a su disposici
 
 * La producción de estos vídeos **incrementará considerablemente el coste** de la audioguía.
 
-* Debido al peso de los archivos de vídeo, las signoguías **no pueden precargarse en [nuestro modo offline]({{ site.baseurl }}{% post_url
-  /posts/2018-01-03-audioruta-nubart-offline %}){:target="_blank"}**. Aunque si el museo dispone de Wifi en todas sus instalaciones o de una buena
+* Debido al peso de los archivos de vídeo, las signoguías **no pueden precargarse en nuestro modo offline**. Aunque si el museo dispone de Wifi en todas sus instalaciones o de una buena
   cobertura de datos, pueden funcionar perfectamente en *streaming*.
 
 ### Textos
 
 En Nubart, se puede acceder a la transcripción del texto de la audioguía mediante un botón situado cerca de cada pista y que abre la ventana con el
-texto. Esta opción funciona perfectamente en [nuestro modo offline]({{ site.baseurl }}{% post_url /posts/2018-01-03-audioruta-nubart-offline %}){:
-target="_blank"}, así que resulta adecuada para museos situados en zonas con mala cobertura de datos o sin Wifi. Dado el considerable coste de
+texto. Esta opción funciona perfectamente en nuestro modo offline, así que resulta adecuada para museos situados en zonas con mala cobertura de datos o sin Wifi. Dado el considerable coste de
 producción de una signoguía multilingüe, la incorporación de los textos permitiría ampliar considerablemente la accesibilidad a coste muy bajo.
 
 ![Botón de transcripción para personas con discapacidad auditiva en las audioguías Nubart ]({{site.baseurl}}/images/posts/tivfl-deaf.gif)
