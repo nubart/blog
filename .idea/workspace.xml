@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22970ddb-93b6-47a2-bd3a-07ad238bd397" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2018-07-09-audioguia-nubart-accesible.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-07-09-audioguia-nubart-accesible.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,6 +100,7 @@
     <MESSAGE value="new image" />
     <MESSAGE value="text" />
     <MESSAGE value="new images" />
-    <option name="LAST_COMMIT_MESSAGE" value="new images" />
+    <MESSAGE value="audiodescription" />
+    <option name="LAST_COMMIT_MESSAGE" value="audiodescription" />
   </component>
 </project>

@@ -67,7 +67,7 @@ proporcione la audioguía. En Nubart podemos distinguir esta pista marcándola e
 
 La audiodescripción es una banda sonora opcional que describe y da contexto a la información visual. Resulta esencial para que los visitantes ciegos o con baja visión puedan comprender el contenido de los vídeos explicativos de tu museo, del mismo modo que el subtitulado es esencial para que los visitantes con problemas ade audición comprendan la información sonora de un vídeo. Así pues, para alcanzar una accesibilidad  completa, los vídeos de tu museo deberían tanto incluir subtítulos como ofrecer audiodescripciones.
 
-Gracias a [Nubart Sync]({{ site.baseurl }}{% post_url https://www.nubart.eu/es/sincronizacion-video-audio.html %}){:target="_blank"}, la tecnología que permite emparejar un vídeo con una banda sonora perfectamente sincronizada en cualquier idioma, las audioguías de Nubart pueden incluir audiodescripciones para ciegos de los vídeos reproducidos en tu establecimiento.
+Gracias a [Nubart Sync](https://www.nubart.eu/es/sincronizacion-video-audio.html %}){:target="_blank"}, la tecnología que permite emparejar un vídeo con una banda sonora perfectamente sincronizada en cualquier idioma, las audioguías de Nubart pueden incluir audiodescripciones para ciegos de los vídeos reproducidos en tu establecimiento.
 
 
 # Accesibilidad para personas sordas o con problemas de audición
