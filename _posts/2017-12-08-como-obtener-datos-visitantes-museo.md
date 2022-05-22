@@ -2,7 +2,7 @@
 layout: post 
 comments: true 
 published: true 
-title:  "Cómo obtener datos sobre los visitantes de tu museo"
+title:  "Cómo obtener datos sobre los visitantes de tu museo (actualizado 2022)"
 description: "Antes de interpretar los datos sobre el público de tu museo necesitas obtenerlos. Te explicamos cómo hacerlo de forma sencilla y poco
 invasiva."
 slug: "como-obtener-datos-visitantes-museo"
@@ -55,12 +55,12 @@ del visitante** y su idioma habitual, datos de fundamental importancia para enfo
 tradicionales (es decir, aparatos) también permiten capturar datos de uso, pero nunca el país de procedencia: esa información solo puede obtenerse
 preguntando directamente al usuario o bien captando ese dato de forma automática a través de su móvil, como hacemos en Nubart.
 
-{% include image_full.html imageurl="/blog/images/posts/usuarios-por-idioma.png" title="Usuarios por idioma" caption="Extracto de un informe de uso de Nubart" %}
-
 Los informes estadísticos que proporcionamos al museo o centro de exposiciones también incorporan algunos datos cuya obtención exige algoritmos
 complejos, como el tiempo total de uso del audio por cada usuario o visita, o el período aproximado de permanencia en las instalaciones.
 
-![Multitud en un museo]({{site.baseurl}}/images/posts/publico-en-museo.jpg){: .center-image }
+Aquí puedes ver el panel de datos de Nubart en acción:
+
+[![Video Statistiken Nubart]({{site.baseurl}}/images/posts/video-estadisticas-nubart.jpg)](https://vimeo.com/569304489)
 
 Por último, ofrecemos **el listado de las pistas más escuchadas**, con sus porcentajes respectivos. Este dato proporciona datos a veces sorprendentes
 sobre qué obras han interesado de verdad al público de un museo, ya que el tiempo que el visitante pasa en un museo es limitado y normalmente solo
@@ -88,7 +88,11 @@ resultan satisfactorios:
   menudo en aeropuertos y otros lugares públicos. Algunos tienen un teclado que permiten registrar respuestas detalladas a muchas preguntas. Otros, en
   cambio, muestran sólo tres emoticonos que el visitante debe tocar casi al pasar: "Me gusta", "neutral" y "No me gusta". Un visitante cansado de
   estar muchas horas de pie difícilmente querrá emplear la primera variante. Y la segunda es demasiado simple para transmitir una información
-  verdaderamente relevante para un museo. Además, estos terminales son caros. Según nuestras indagaciones, su alquiler y mantenimiento cuesta unos 200
+  verdaderamente relevante para un museo. 
+
+![Terminal de feedback en un aeropuerto]({{site.baseurl}}/images/posts/feedback-terminal-airport.jpg){: .center-image }
+
+Además, estos terminales generan un gasto recurrente. Según nuestras indagaciones, su alquiler y mantenimiento cuesta unos 200
   euros al mes.
 
 El **breve cuestionario de las audioguías Nubart** resuelve este problema. El visitante lo encuentra al final del contenido digital, momento que en el
@@ -98,19 +102,14 @@ presencial, no se sentirá intimidado ni agobiado y podrá expresarse con toda l
 respuesta en torno al 10% de los usuarios de nuestras audioguías! Lo mejor de todo: el museo puede recibir estos comentarios por email en tiempo real,
 tomándole el pulso a su exposición en todo momento.
 
-Aquí tienes algunos de los comentarios que los visitantes han ido dejando en nuestras audioguías en el transcurso del tiempo:
-<video width="720" height="548" autoplay loop>
-  <source src="{{site.baseurl}}/images/posts/comentarios-visitantes-nubart.mp4" type="video/mp4">
-Tu navegador no permite mostrar este vídeo.
-</video>{: .center-image }
-
-
 Y si el museo también desea preguntarle a su visitante por la edad, el género u otros datos no automatizables, ¡es el momento de hacerlo! El museo
-puede **personalizar las preguntas de nuestro cuestionario** de *feedback* a su gusto.
+puede **personalizar las preguntas de nuestro cuestionario** de *feedback* a su gusto. Puedes ver y calificar estas respuestas en cualquier momento a través de tu portal de clientes protegido por contraseña.
 
-Tanto los datos que Nubart registra de forma automática como los indicados voluntariamente por los visitantes están integrados en nuestras
-tarifas. Puedes solicitar muestras o un
-presupuesto [en nuestra web.](https://www.nubart.eu/es/precio-muestras.html){:target="_blank"}
+## La calidad de tus datos es igualmente importante
+
+Como las tarjetas Nubart están provistas de un código único e identificable y se entregan a los visitantes in situ, la calidad y el valor informativo de los datos son muy elevados. Los códigos únicos e intransferibles significan que el enlace a la audioguía no puede distribuirse en las redes sociales o en un sitio web. Por tanto, los datos de los visitantes que realmente han visitado el museo no pueden mezclarse con otros.
+
+Nubart ofrece este panel de datos de forma gratuita a todos sus clientes.
 
 Es posible que, como museo, no sientas la necesidad de ofrecer una audioguía a tus visitantes. Pero... ¿no te gustaría saber más sobre ellos? En ese
 caso, haz como las compañías aéreas y ¡saluda a tus visitantes con una audioguía Nubart en la entrada de tu *avión*!
