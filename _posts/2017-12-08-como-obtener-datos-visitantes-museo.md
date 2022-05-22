@@ -60,7 +60,7 @@ complejos, como el tiempo total de uso del audio por cada usuario o visita, o el
 
 Aquí puedes ver el panel de datos de Nubart en acción:
 
-[![Video Statistiken Nubart]({{site.baseurl}}/images/posts/video-estadisticas-nubart.jpg)](https://vimeo.com/569304489)
+[![Vídeo estadísticas Nubart]({{site.baseurl}}/images/posts/video-estadisticas-nubart.jpg)](https://vimeo.com/569304489)
 
 Por último, ofrecemos **el listado de las pistas más escuchadas**, con sus porcentajes respectivos. Este dato proporciona datos a veces sorprendentes
 sobre qué obras han interesado de verdad al público de un museo, ya que el tiempo que el visitante pasa en un museo es limitado y normalmente solo
