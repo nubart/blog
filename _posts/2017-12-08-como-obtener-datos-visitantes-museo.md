@@ -92,7 +92,7 @@ resultan satisfactorios:
 
 ![Terminal de feedback en un aeropuerto]({{site.baseurl}}/images/posts/feedback-terminal-airport.jpg){: .center-image }
 
-Además, estos terminales generan un gasto recurrente. Según nuestras indagaciones, su alquiler y mantenimiento cuesta unos 200
+Además, el alquiler y mantenimiento de estos terminales generan un gasto recurrente de entre 50 y 200
   euros al mes.
 
 El **breve cuestionario de las audioguías Nubart** resuelve este problema. El visitante lo encuentra al final del contenido digital, momento que en el
