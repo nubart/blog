@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22970ddb-93b6-47a2-bd3a-07ad238bd397" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/posts/feedback-terminal-airport.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2017-12-08-como-obtener-datos-visitantes-museo.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-12-08-como-obtener-datos-visitantes-museo.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +17,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
@@ -103,6 +100,7 @@
     <MESSAGE value="text" />
     <MESSAGE value="new images" />
     <MESSAGE value="audiodescription" />
-    <option name="LAST_COMMIT_MESSAGE" value="audiodescription" />
+    <MESSAGE value="update datos" />
+    <option name="LAST_COMMIT_MESSAGE" value="update datos" />
   </component>
 </project>

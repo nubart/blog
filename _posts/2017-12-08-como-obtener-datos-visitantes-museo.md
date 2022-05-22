@@ -78,7 +78,7 @@ sea entusiasmo o decepción.
 Sería el momento ideal para que un museo lo abordara para averiguar qué aspectos podría mejorar. Pero, ¿cómo hacerlo? Los métodos habituales no
 resultan satisfactorios:
 
-* **Encuestas personales:***
+* **Encuestas personales:**
   Ya sea a través de una costosa agencia o con la ayuda de su propio personal, algunos museos colocan a alguien con un bloc de notas a la salida para
   entrevistar a los visitantes que acaban de ver la exposición. Pero llegado este momento, los visitantes han pasado varias horas de pie y están
   cansados e impacientes. Además, a muchos no les gustará expresar críticas en presencia un representante del museo.
