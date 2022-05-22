@@ -56,7 +56,7 @@ tradicionales (es decir, aparatos) también permiten capturar datos de uso, pero
 preguntando directamente al usuario o bien captando ese dato de forma automática a través de su móvil, como hacemos en Nubart.
 
 Los informes estadísticos que proporcionamos al museo o centro de exposiciones también incorporan algunos datos cuya obtención exige algoritmos
-complejos, como el tiempo total de uso del audio por cada usuario o visita, o el período aproximado de permanencia en las instalaciones.
+complejos, como el tiempo total de uso del audio por cada usuario o visita, o el período aproximado de permanencia en las instalaciones. 
 
 Aquí puedes ver el panel de datos de Nubart en acción:
 
