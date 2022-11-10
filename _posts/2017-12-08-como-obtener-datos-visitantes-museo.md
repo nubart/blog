@@ -61,7 +61,7 @@ complejos, como el tiempo total de uso del audio por cada usuario o visita, o el
 Aquí puedes ver el panel de datos de Nubart en acción:
 
 <div class="videoContainer">
-    <iframe title="{{ 569304489 }}" src="https://player.vimeo.com/video/{{ 569304489 }}?title=0&byline=0&portrait=0" class="video" allowfullscreen></iframe>
+    <iframe title="{{ 569304489 }}" src="https://player.vimeo.com/video/{{ 569304489 }}?title=0&byline=0&portrait=0" class="video" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Por último, ofrecemos **el listado de las pistas más escuchadas**, con sus porcentajes respectivos. Este dato proporciona datos a veces sorprendentes
