@@ -25,7 +25,7 @@ sass:
   style: compressed
 
 # The base hostname & protocol of your site for where absolute urls are needed
-url: "https://www.nubart.eu/"
+url: "https://www.nubart.eu"
 
 # Site navigation - each item must have a title and a url.
 navigation:
