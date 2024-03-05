@@ -15,7 +15,7 @@ description: "Nubart es la audioguÌa que te puedes llevar. En este blog te habl
 tagline: "La audioguÌa que te puedes llevar"
 
 # The subpath of your site, e.g. /blog, for generating urls
-baseurl: /blog
+baseurl: /es/blog
 
 sass:
   sass_dir: _sass
