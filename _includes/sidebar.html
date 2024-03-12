@@ -32,17 +32,17 @@
     </section><!-- .widget-text-->
     {% endif %}
 
-    <section class="widget widget-recent-posts">
-        <h2 class="widget-title line-accent">Últimas entradas</h2>
-        <ul class="recent-posts">
-            {% for post in site.posts limit:5 %}
-            <li class="recent-item"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <span>{{ post.date | date: "%B %-d, %Y" }}</span>
-            </li>
-            {% endfor %}
-        </ul><!-- .recent-posts -->
-    </section><!-- .widget-recent-posts -->
+    <!--  <section class="widget widget-recent-posts">
+         <h2 class="widget-title line-accent">Últimas entradas</h2>
+         <ul class="recent-posts">
+             {% for post in site.posts limit:5 %}
+             <li class="recent-item"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <span>{{ post.date | date: "%B %-d, %Y" }}</span>
+             </li>
+             {% endfor %}
+         </ul>
+    </section> -->
 
-    <!--Create a sorted array of tags-->
+    <!--
     {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
     {% assign sortedTags = site_tags | split:',' | sort %}
     <section class="widget widget-tags">
@@ -51,7 +51,7 @@
             {% for tag in sortedTags %}
             <a href="{{site.baseurl}}/tags/#{{ tag | cgi_escape }}">{{ tag }}</a>
             {% endfor %}
-        </div><!-- .tagcloud -->
-    </section><!-- .widget -->
+        </div>.tagcloud
+    </section>.widget -->
 
 </aside><!-- .sidebar -->
