@@ -15,7 +15,7 @@ description: "Nubart es la audioguía que te puedes llevar. En este blog te habl
 tagline: "La audioguía que te puedes llevar"
 
 # The subpath of your site, e.g. /blog, for generating urls
-baseurl: /es/blog
+baseurl: /blog
 alt-baseurl-en: /blog-en
 alt-baseurl-de: /blog-de
 
@@ -33,8 +33,7 @@ navigation:
   url: /blog/
 - text: Web de Nubart
   url: https://www.nubart.eu/es/
-- text: Archivo
-  url: /blog/tags/
+
 
 # The shortname for your Disqus site to enable comments.
 disqus: "nubart"
